@@ -1,5 +1,8 @@
 # Crusader Kings 2 to Europa Universalis 4 processing scripts
 
+![Europe Universalis 4](/images/eu4_banner.png)
+
+
 --Background--
 
 I have been quite looking forward to the Nation Designer feature of the upcoming EU4 El Dorado expansion. Last week I thought it would be fun to start a short 1337-1444 vanilla CK2 game, transfer it into EU4 after El Dorado’s release and then modify some of the nations. 
@@ -16,10 +19,10 @@ The CK2-EU4 Python Post Processor assumes that an exported CK2 game somewhat res
 
 It uses the following methodology:
 
-Record the primary culture and capital location of each CK2 export nation.
-Go through each CK2 export province. Set a flag if the culture of the province is the primary culture of the owner nation.
-Contrast each CK2 nation’s capital province with its corresponding 1444 EU4 province. Replace the CK2 nation’s primary culture with the culture of that specific 1444 EU4 province, and the CK2 nation’s tech group with the tech group of that 1444 EU4 province’s owner.
-Look again at the CK2 export provinces. If the province is flagged as originally sharing the same culture as its owner, then replace its culture with the nation’s new primary culture from step 3. If the CK2 province is not flagged then simply set its culture to be that of its corresponding 1444 EU4 province.
+1. Record the primary culture and capital location of each CK2 export nation.
+2. Go through each CK2 export province. Set a flag if the culture of the province is the primary culture of the owner nation.
+3. Contrast each CK2 nation’s capital province with its corresponding 1444 EU4 province. Replace the CK2 nation’s primary culture with the culture of that specific 1444 EU4 province, and the CK2 nation’s tech group with the tech group of that 1444 EU4 province’s owner.
+4. Look again at the CK2 export provinces. If the province is flagged as originally sharing the same culture as its owner, then replace its culture with the nation’s new primary culture from step 3. If the CK2 province is not flagged then simply set its culture to be that of its corresponding 1444 EU4 province.
 For example:
 
 In some exported CK2 game, the Golden Horde is ruled by someone who is Catholic, of Mongol culture, and who has their capital in Sarai. 
