@@ -1,6 +1,6 @@
 # Crusader Kings 2 to Europa Universalis 4 processing scripts
 
-![Europe Universalis 4](/images/eu4_banner.png)
+![](/images/eu4_banner.png)
 
 
 --Background--
