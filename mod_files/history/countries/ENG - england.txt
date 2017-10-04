@@ -1,0 +1,37 @@
+# England
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+clear_scripted_personalities = yes
+capital = 236
+1434.2.1 = {
+	monarch = {
+		name = "Edward III"
+		birth_date = 1419.11.13
+		dynasty = "Plantagenet"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1437.6.15 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward IV"
+		dynasty = "Plantagenet"
+		birth_date = 1437.6.15
+		death_date = 1517.6.15
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 236
+	add_treasury = 109
+	add_prestige = 157
+}

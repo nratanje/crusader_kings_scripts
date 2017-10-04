@@ -1,0 +1,35 @@
+# Marinid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 343
+1438.8.1 = {
+	monarch = {
+		name = "al-Hasan"
+		birth_date = 1404.1.1
+		dynasty = "Marinid"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	heir = {
+		name = "Ali"
+		monarch_name = "Ali IV"
+		dynasty = "Marinid"
+		birth_date = 1422.1.1
+		death_date = 1502.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 343
+	add_treasury = 13
+	add_prestige = 62
+}

@@ -1,0 +1,23 @@
+# Sápmi
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = sapmi
+religion = animism
+capital = 18
+1427.1.1 = {
+	monarch = {
+		name = "Bæivi"
+		birth_date = 1407.1.1
+		dynasty = "Magga"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 18
+	add_treasury = 4
+	add_prestige = 5
+}

@@ -1,0 +1,23 @@
+# Scotland
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = catholic
+capital = 251
+1436.6.7 = {
+	monarch = {
+		name = "David II"
+		birth_date = 1431.1.2
+		dynasty = "de Brus"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 251
+	add_treasury = 11
+	add_prestige = 21
+}

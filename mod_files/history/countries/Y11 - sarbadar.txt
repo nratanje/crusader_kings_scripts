@@ -1,0 +1,25 @@
+# Sarbadar
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = shiite
+clear_scripted_personalities = yes
+capital = 2221
+1442.1.1 = {
+	monarch = {
+		name = "Abdal-Razzaq"
+		birth_date = 1407.1.1
+		dynasty = "Sarbadar"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2221
+	add_treasury = 7
+	add_prestige = 8
+}

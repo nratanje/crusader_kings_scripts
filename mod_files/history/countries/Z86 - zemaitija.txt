@@ -1,0 +1,23 @@
+# Zemaitija
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = animism
+capital = 1936
+1423.1.2 = {
+	monarch = {
+		name = "Kestutis"
+		birth_date = 1404.1.2
+		dynasty = "Gediminaitis"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1936
+	add_treasury = 8
+	add_prestige = 78
+}

@@ -1,0 +1,33 @@
+# Alasehir
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 2297
+1441.1.1 = {
+	monarch = {
+		name = "Murad Arslan"
+		birth_date = 1417.1.1
+		dynasty = "Inanj"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Ishaq"
+		monarch_name = "Ishaq"
+		dynasty = "Inanj"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2297
+	add_treasury = 4
+	add_prestige = 3
+}

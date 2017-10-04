@@ -1,0 +1,23 @@
+# Rostov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 4147
+1438.3.28 = {
+	monarch = {
+		name = "Andrei II"
+		birth_date = 1438.1.2
+		dynasty = "Rurikid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4147
+	add_treasury = 6
+	add_prestige = 996
+}

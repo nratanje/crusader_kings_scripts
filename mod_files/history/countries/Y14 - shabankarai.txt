@@ -1,0 +1,25 @@
+# Shabankarai
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 430
+1421.1.1 = {
+	monarch = {
+		name = "Erdešîr Malik"
+		birth_date = 1397.1.1
+		dynasty = "Shabankarai"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 430
+	add_treasury = 7
+	add_prestige = 34
+}

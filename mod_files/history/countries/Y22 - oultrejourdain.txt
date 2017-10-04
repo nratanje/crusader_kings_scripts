@@ -1,0 +1,23 @@
+# Oultrejourdain
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 380
+1443.1.1 = {
+	monarch = {
+		name = "al-Mansur Abu Bakr"
+		birth_date = 1428.1.1
+		dynasty = "Bahri"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 380
+	add_treasury = 7
+	add_prestige = 67
+}

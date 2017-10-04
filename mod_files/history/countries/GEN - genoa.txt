@@ -1,0 +1,36 @@
+# Genoa
+government = merchant_republic
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 101
+1444.1.1 = {
+	monarch = {
+		name = "Coraddo"
+		birth_date = 1380.1.1
+		dynasty = "Doria"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Manuele"
+		monarch_name = "Manuele"
+		dynasty = "Doria"
+		birth_date = 1377.1.1
+		death_date = 1457.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 101
+	add_treasury = 12
+	add_prestige = 44
+}

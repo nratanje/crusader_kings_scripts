@@ -1,0 +1,37 @@
+# Bahri
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2315
+1416.11.1 = {
+	monarch = {
+		name = "al-Nasir Muhammad"
+		birth_date = 1392.1.1
+		dynasty = "Bahri"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1435.1.1 = {
+	heir = {
+		name = "al-Muzzafar Haji"
+		monarch_name = "al-Muzzafar Haji"
+		dynasty = "Bahri"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2315
+	add_treasury = 25
+	add_prestige = 68
+}

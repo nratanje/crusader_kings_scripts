@@ -1,0 +1,9 @@
+def collection_to_list(input_collection):
+
+	output_list = list()
+	
+	for entry in input_collection:
+		output_list.append(entry)
+	
+	return output_list
+	

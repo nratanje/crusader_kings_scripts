@@ -1,0 +1,25 @@
+# Sartaq
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 461
+1444.1.1 = {
+	monarch = {
+		name = "Bodonchar"
+		birth_date = 1419.8.11
+		dynasty = "Sartaq"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 461
+	add_treasury = 10
+	add_prestige = 52
+}

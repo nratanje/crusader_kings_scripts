@@ -1,0 +1,23 @@
+# Karvuna
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 159
+1429.8.1 = {
+	monarch = {
+		name = "Ivan V Stefan"
+		birth_date = 1409.1.2
+		dynasty = "Shishman"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 159
+	add_treasury = 7
+	add_prestige = 19
+}

@@ -1,0 +1,23 @@
+# Damascus
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 382
+1419.1.1 = {
+	monarch = {
+		name = "Sayf-ad-Din II"
+		birth_date = 1387.1.1
+		dynasty = "Nasiraid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 382
+	add_treasury = 11
+	add_prestige = 9
+}

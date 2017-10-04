@@ -1,0 +1,37 @@
+# Serbia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = serbian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1827
+1438.11.3 = {
+	monarch = {
+		name = "Uros IV"
+		birth_date = 1415.1.1
+		dynasty = "Nemanjic"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+}
+1443.1.1 = {
+	heir = {
+		name = "Uros"
+		monarch_name = "Uros V"
+		dynasty = "Nemanjic"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1827
+	add_treasury = 12
+	add_prestige = 95
+}

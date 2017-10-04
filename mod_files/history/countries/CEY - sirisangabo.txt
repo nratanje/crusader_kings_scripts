@@ -1,0 +1,25 @@
+# Siri Sanga Bo
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sinhala
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 572
+1442.1.1 = {
+	monarch = {
+		name = "Vijayabahu V"
+		birth_date = 1428.1.1
+		dynasty = "Siri Sanga Bo"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 572
+	add_treasury = 9
+	add_prestige = 35
+}

@@ -1,0 +1,2540 @@
+1	uppland	SWE	SWE	SWE	swedish	catholic	
+10	jamtland	NOR	NOR	NOR	norwegian	catholic	
+100	friesland	FRI	FRI	FRI	dutch	catholic	
+1000	cree				cree	totemism	
+1001	sault				anishinabe	totemism	
+1002	abitbi				cree	totemism	
+1003	moosecree				cree	totemism	
+1004	attawapiskat				cree	totemism	
+1005	swampycree				cree	totemism	
+1006	chipewyan				chipewyan	totemism	
+1007	ojibwa				anishinabe	totemism	
+1008	winnipeg				nakota	totemism	
+1009	atikaki				cree	totemism	
+101	genoa	GEN	GEN	GEN	ligurian	catholic	
+1010	manitoba				cree	totemism	
+1011	woodscree				cree	totemism	
+1012	satsuma	SMZ	SMZ	SMZ	kyushuan	shinto	
+1013	chungcheong	KOR	KOR	KOR	korean	confucianism	
+1014	bungo	OTM	OTM	OTM	kyushuan	shinto	
+1015	okinawa	RYU	RYU	RYU	kyushuan	animism	
+1016	hatinh	DAI	DAI	DAI,TOK	vietnamese	mahayana	
+1017	suo	OUC	OUC	OUC	japanese	shinto	
+1018	izumo	YMN	YMN	YMN,AMA	japanese	shinto	
+1019	harima	YMN	YMN	YMN,HSK	japanese	shinto	
+102	nice	SAV	SAV	SAV	ligurian	catholic	
+1020	yamashiro	JAP	JAP	JAP	japanese	shinto	
+1021	settsu	HSK	HSK	HSK	japanese	shinto	
+1022	indrapura	CHA	CHA	CHA,ANN	cham	hinduism	
+1023	echizen	SBA	SBA	SBA	japanese	shinto	
+1024	echigo	UES	UES	UES	togoku	shinto	
+1025	dewa	SBA	SBA	SBA	togoku	shinto	
+1026	rikuzen	DTE	DTE	DTE	togoku	shinto	
+1027	hitachi	UES	UES	UES	togoku	shinto	
+1028	musashi	JAP	JAP	JAP,UES	togoku	shinto	
+1029	kai	TKD	TKD	TKD	togoku	shinto	
+103	piedmont	SAV	SAV	SAV	piedmontese	catholic	
+1030	owari	SBA	SBA	SBA	togoku	shinto	
+1031	kamikawa	ANU	ANU	ANU	ainu	animism	
+1032	kurils				ainu	animism	
+1033	sakhalin	MYR	MYR	MYR	ainu	animism	
+1034	kamchatka	KMC	KMC	KMC	kamchatkan	tengri_pagan_reformed	
+1035	penchisky				kamchatkan	tengri_pagan_reformed	
+1036	podzhiversk				yukagyr	tengri_pagan_reformed	
+1037	nizhe	HOD	HOD	HOD	yukagyr	tengri_pagan_reformed	
+1038	anadyrsk				yukagyr	tengri_pagan_reformed	
+1039	verkhoyansk				yukagyr	tengri_pagan_reformed	
+104	milan	MLO	MLO	MLO	lombard	catholic	
+1040	suntarkhayat				yukagyr	tengri_pagan_reformed	
+1041	gizhiga	CHV	CHV	CHV	kamchatkan	tengri_pagan_reformed	
+1042	kamnuskoye				yakut	tengri_pagan_reformed	
+1043	okhotsk				yakut	tengri_pagan_reformed	
+1044	tauisk				kamchatkan	tengri_pagan_reformed	
+1045	yakutsk				yakut	tengri_pagan_reformed	
+1046	butalsk				yakut	tengri_pagan_reformed	
+1047	jugjur				yakut	tengri_pagan_reformed	
+1048	udskoye	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+1049	hailanboo	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+105	parma	MLO	MLO	MLO,PAR	romagnan	catholic	
+1050	deren	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+1051	uchurskoye				yakut	tengri_pagan_reformed	
+1052	verkohzehkoye				yakut	tengri_pagan_reformed	
+1053	hinggan	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+1054	ilimsk				tungus	tengri_pagan_reformed	
+1055	verkne	BRT	BRT	BRT	buryat	tengri_pagan_reformed	
+1056	barguzinsky	BRT	BRT	BRT	buryat	tengri_pagan_reformed	
+1057	udinsky	BRT	BRT	BRT	buryat	tengri_pagan_reformed	
+1058	nerchinsky	KRC	KRC	KRC	buryat	tengri_pagan_reformed	
+1059	bratsk				tungus	tengri_pagan_reformed	
+106	modena	FER	FER	FER,MOD	romagnan	catholic	
+1060	irkutsk				buryat	tengri_pagan_reformed	
+1061	yeniseysk				tungus	tengri_pagan_reformed	
+1062	kachinsk				buryat	tengri_pagan_reformed	
+1063	sayan				buryat	tengri_pagan_reformed	
+1064	tomsk				ostyaki	tengri_pagan_reformed	
+1065	kuznetsk				kirgiz	tengri_pagan_reformed	
+1066	altai	OIR	OIR	OIR	buryat	tengri_pagan_reformed	
+1067	narym				samoyed	tengri_pagan_reformed	
+1068	pegayaorda				ostyaki	tengri_pagan_reformed	
+1069	surgut				samoyed	tengri_pagan_reformed	
+107	brescia	MLO	MLO	MLO	lombard	catholic	
+1070	koda				samoyed	tengri_pagan_reformed	
+1071	tara	SHY	SHY	SIB,SHY	siberian	sunni	
+1072	obdorsk				samoyed	tengri_pagan_reformed	
+1073	berezov				samoyed	tengri_pagan_reformed	
+1074	sibir	SHY	SHY	SIB,SHY	ostyaki	sunni	
+1075	tyumen	SHY	SHY	SIB,SHY	siberian	sunni	
+1076	kurgan	SHY	SHY	SIB,SHY	siberian	sunni	
+1077	solikamsk	PRM	PRM	PRM	uralic	tengri_pagan_reformed	
+1078	middleurals				uralic	tengri_pagan_reformed	
+1079	viatka	MOS	MOS	MOS	russian	orthodox	
+108	verona	MLO	MLO	MLO	venetian	catholic	
+1080	northurals				uralic	tengri_pagan_reformed	
+1081	simbirsk	KAZ	KAZ	KAZ	kazani	sunni	
+1082	kazan	KAZ	KAZ	KAZ	kazani	sunni	
+1083	zavolochye	MOS	MOS	MOS	russian	orthodox	
+1084	wadjuk				aboriginal	animism	
+1085	paredarerme				aboriginal	animism	
+1086	kaurna				aboriginal	animism	
+1087	wurundjeri				aboriginal	animism	
+1088	wergaia				aboriginal	animism	
+1089	wiradjuri				aboriginal	animism	
+109	mantua	MAN	MAN	MAN	romagnan	catholic	
+1090	eora				aboriginal	animism	
+1091	kamilaroi				aboriginal	animism	
+1092	bundjalung				aboriginal	animism	
+1093	barunggam				aboriginal	animism	
+1094	turrbal				aboriginal	animism	
+1097	fernandopo				yorumba	shamanism	
+1099	socotra	ADE	ADE	ADE	yemeni_culture	coptic	
+11	vasterbotten	SWE	SWE	SWE	swedish	catholic	
+110	trent	HAB	HAB	HAB,TIR	venetian	catholic	
+1104	eiriksfjord				inuit	animism	
+1105	vestbygden				inuit	animism	
+1106	whangarei				polynesian	animism	
+1107	taranaki				polynesian	animism	
+1108	tauranga				polynesian	animism	
+1109	timaru				polynesian	animism	
+111	friuli	AQU	AQU	AQU	venetian	catholic	
+1110	riodeoro	MOR	MOR	MOR,SOS	berber	sunni	
+1111	arguin				tuareg	sunni	
+1112	trarza	JOL	JOL	JOL	senegambian	sunni	
+1113	cayor	JOL	JOL	JOL	senegambian	shamanism	
+1114	gabu	MAL	MAL	MAL,KBU	senegambian	shamanism	
+1115	brakna				fulani	shamanism	
+1116	wolof	JOL	JOL	JOL	senegambian	shamanism	
+1117	futajallon	MAL	MAL	MAL,KBU	fulani	shamanism	
+1118	sierraleone				dyola	shamanism	
+1119	graincoast				dyola	shamanism	
+112	venezia	VEN	VEN	VEN	venetian	catholic	
+1120	bambuk	MAL	MAL	MAL	soninke	shamanism	
+1121	bure	MAL	MAL	MAL	mali	shamanism	
+1122	bagoe	MAL	MAL	MAL	dyola	shamanism	
+1123	segu	ZAF	ZAF	ZAF	bambara	shamanism	
+1124	wasuju	MAL	MAL	MAL	mali	sunni	
+1125	kong	KNG	KNG	KNG	dyola	shamanism	
+1126	ivorycoast				aka	shamanism	
+1127	tuat				tuareg	sunni	
+1128	taodeni	TMB	TMB	TMB	tuareg	sunni	
+1129	azawadd	TMB	TMB	TMB	tuareg	sunni	
+113	ferrara	FER	FER	FER	romagnan	catholic	
+1130	tadmekka	SON	SON	SON	tuareg	sunni	
+1131	massina	ZAF	ZAF	ZAF	bambara	shamanism	
+1132	timbuktu	TMB	TMB	TMB	tuareg	sunni	
+1133	gao	SON	SON	SON	songhai	sunni	
+1134	jenne	JNN	JNN	JNN	bozo	shamanism	
+1135	yatenga	MSI	MSI	MSI,YAT	mossi	shamanism	
+1136	gurma	MSI	MSI	MSI	mossi	shamanism	
+1137	wagadugi	MSI	MSI	MSI	mossi	shamanism	
+1138	kumasi			ASH	aka	shamanism	
+1139	goldcoast				aka	shamanism	
+114	romagna	PAP	PAP	PAP	romagnan	catholic	
+1140	abomey	DAH	DAH	DAH	fon	shamanism	
+1141	whydah				fon	shamanism	
+1142	dendi	SON	SON	SON	songhai	sunni	
+1143	borgu	MSI	MSI	MSI	dagomba	shamanism	
+1144	oyo	OYO	OYO	OYO	yorumba	shamanism	
+1145	nupe	NUP	NUP	NUP	nupe	shamanism	
+1146	ife	OYO	OYO	OYO	yorumba	shamanism	
+1147	benin	BEN	BEN	BEN	yorumba	shamanism	
+1148	gobir	KTS	KTS	KTS	hausa	sunni	
+1149	katsina	KTS	KTS	KTS	hausa	sunni	
+115	pisa	PIS	PIS	PIS,LAN	tuscan	catholic	
+1150	zamfara	ZZZ	ZZZ	ZZZ	hausa	shamanism	
+1151	bonny				sawabantu	shamanism	
+1152	idah	NUP	NUP	NUP	nupe	shamanism	
+1153	pindinga	NUP	NUP	NUP	nupe	shamanism	
+1154	zazzau	ZZZ	ZZZ	ZZZ	hausa	shamanism	
+1155	kano	KAN	KAN	KAN	hausa	sunni	
+1156	damagaram	AIR	AIR	AIR	tuareg	sunni	
+1157	borno	KBO	KBO	KBO	kanuri	sunni	
+1158	kanem	YAO	YAO	YAO,KBO	kanuri	sunni	
+1159	bagirmi	YAO	YAO	YAO	bilala	shamanism	
+116	firenze	LAN	LAN	LAN	tuscan	catholic	
+1160	mandara	KBO	KBO	KBO	kanuri	shamanism	
+1161	bauchi				jukun	shamanism	
+1162	wukari				jukun	shamanism	
+1163	calabar				sawabantu	shamanism	
+1164	cameroon				sawabantu	shamanism	
+1165	gabon				kongolese	shamanism	
+1166	loango	LOA	LOA	LOA	kongolese	shamanism	
+1167	luanda				mbundu	shamanism	
+1168	kisarna	KON	KON	KON	kongolese	shamanism	
+1169	mayombe	TYO	TYO	TYO	kongolese	shamanism	
+117	siena	SIE	SIE	SIE	tuscan	catholic	
+1170	kongo	KON	KON	KON	kongolese	shamanism	
+1171	ndongo	NDO	NDO	NDO	mbundu	shamanism	
+1172	benguela				mbundu	shamanism	
+1174	walvisbay				khoisan	shamanism	
+1175	lessernamaqualand				khoisan	shamanism	
+1176	roggeveld				khoisan	shamanism	
+1177	cape				khoisan	shamanism	
+1178	greatkaroo				khoisan	shamanism	
+1179	littlekaroo				khoisan	shamanism	
+118	roma	PAP	PAP	PAP	umbrian	catholic	
+1180	transkei				nguni	shamanism	
+1181	natal				nguni	shamanism	
+1182	delagoabay				nguni	shamanism	
+1183	inhambane				nguni	shamanism	
+1184	zimbabwe	ZIM	ZIM	ZIM	shona	shamanism	
+1185	buha	RZW	RZW	RZW	shona	shamanism	
+1186	sofala	SFA	SFA	SFA	nguni	sunni	
+1187	sena	ZIM	ZIM	ZIM	shona	shamanism	
+1188	masapa	ZIM	ZIM	ZIM	shona	shamanism	
+1189	shangwe	RZW	RZW	RZW	shona	shamanism	
+119	ancona	PAP	PAP	PAP	umbrian	catholic	
+1190	zumbo	ZIM	ZIM	ZIM	shona	shamanism	
+1191	tete	ZIM	ZIM	ZIM	shona	shamanism	
+1192	quelimane	SFA	SFA	SFA	nyasa	sunni	
+1193	menabe	SKA	SKA	SKA	madagasque	shamanism	
+1194	boina	SKA	SKA	SKA	madagasque	shamanism	
+1195	mozambique	ZAN	ZAN	ZAN	swahili	sunni	
+1196	kilwa	ZAN	ZAN	ZAN	swahili	sunni	
+1197	mzizima	ZAN	ZAN	ZAN	swahili	shamanism	
+1198	lindi	ZAN	ZAN	ZAN	swahili	sunni	
+1199	bagamoyo	ZAN	ZAN	ZAN	swahili	shamanism	
+12	sjaelland	DAN	DAN	DAN	danish	catholic	
+120	abbruzzi	NAP	NAP	NAP	neapolitan	catholic	
+1200	tanga	MBA	MBA	MBA	swahili	shamanism	
+1201	zanzibar	ZAN	ZAN	ZAN	swahili	ibadi	
+1202	mombasa	MBA	MBA	MBA	swahili	sunni	
+1203	malindi	MLI	MLI	MLI	swahili	sunni	
+1204	lamu	MLI	MLI	MLI	swahili	sunni	
+1205	mogadishu	MDI	MDI	MDI	somali	sunni	
+1206	qardho	MRE	MRE	MRE,MJE	somali	sunni	
+1207	ogaden				somali	sunni	
+1208	degehabur	ADA	ADA	ADA	somali	sunni	
+1209	berbera	WAR	WAR	WAR	somali	sunni	
+121	napoli	NAP	NAP	NAP	neapolitan	catholic	
+1210	dawaro	ETH	ETH	ETH	harari	sunni	
+1211	harer	ADA	ADA	ADA,HAR	harari	sunni	
+1212	zeila	ADA	ADA	ADA	somali	sunni	
+1213	shoa	ETH	ETH	ETH,SOA	amhara	sunni	
+1214	awsa	ETH	ETH	ETH	amhara	coptic	
+1215	tajura	ADA	ADA	ADA,AFA	afar	sunni	
+1216	darnuba				nubian	shamanism	
+1217	fazughli				nubian	shamanism	
+1218	kefa	WLY	WLY	WLY	sidamo	shamanism	
+1219	kordofan			DAR	nubian	shamanism	
+122	apulia	NAP	NAP	NAP	neapolitan	catholic	
+1220	darjaal	ABB	ABB	ABB	nubian	sunni	
+1221	taqali				nubian	shamanism	
+1222	gezira	ALO	ALO	ALO	nubian	coptic	
+1223	gojjam	ETH	ETH	ETH	amhara	coptic	
+1224	gonder	ETH	ETH	ETH	amhara	coptic	
+1225	butana	ALO	ALO	ALO,ABB	nubian	sunni	
+1226	taka	BEJ	BEJ	BEJ	beja	sunni	
+1227	tigre	ETH	ETH	ETH,BTI	tigray	coptic	
+1228	dongola	ABB	ABB	ABB,MAK	nubian	shiite	
+1229	berber				beja	sunni	
+123	calabria	NAP	NAP	NAP	sicilian	catholic	
+1230	massawa	MED	MED	MED	tigray	coptic	
+1231	aswan	MAM	MAM	MAM	al_misr_arabic	sunni	
+1232	suakin	MAM	MAM	MAM,BEJ	beja	sunni	
+1233	kharga	MAM	MAM	MAM	al_misr_arabic	sunni	
+1234	qasribrim	MAK	MAK	MAK	nubian	sunni	
+1235	guam				papuan	animism	
+1236	rabaul				papuan	animism	
+1237	hanuabada				papuan	animism	
+1238	solomonislands				polynesian	animism	
+1239	vanuatu				polynesian	animism	
+124	messina	SIC	SIC	SIC,NAP	sicilian	catholic	
+1240	hawaii				polynesian	animism	
+1241	kiribati				polynesian	animism	
+1242	fiji				polynesian	animism	
+1243	samoa				polynesian	animism	
+1244	tahiti				polynesian	animism	
+1245	manokwari				papuan	animism	
+1246	waihopai				polynesian	animism	
+1247	corsica	GEN	GEN	GEN,COR	sardinian	catholic	
+1248	maldives	DGL	DGL	DGL	malayalam	sunni	
+1249	yola				jukun	shamanism	
+125	palermo	SIC	SIC	SIC,NAP	sicilian	catholic	
+126	malta	SIC	SIC	SIC	maltese	catholic	
+127	sassari	SAR	SAR	SAR	sardinian	catholic	
+1273	taveta				bantu	shamanism	
+128	karnten	HAB	HAB	HAB	austrian	catholic	
+129	krain	HAB	HAB	HAB,STY	austrian	catholic	
+13	slesvig	SHL	SHL	SHL	danish	catholic	
+130	istria	VEN	VEN	VEN	croatian	catholic	
+1306	saotomel				yorumba	shamanism	
+131	zagorje	HUN	HUN	HUN,CRO	croatian	catholic	
+1318	spis	HUN	HUN	HUN,SLO	slovak	catholic	
+132	steiermark	HAB	HAB	HAB	austrian	catholic	
+133	linz	HAB	HAB	HAB	austrian	catholic	
+134	wien	HAB	HAB	HAB	austrian	catholic	
+135	sopron	HUN	HUN	HUN	hungarian	catholic	
+136	dalmatia	HUN	HUN	HUN,CRO	croatian	catholic	
+137	ragusa	RAG	RAG	RAG	croatian	catholic	
+138	zeta	MON	MON	MON,VEN	serbian	orthodox	
+139	hum	BOS	BOS	BOS	serbian	catholic	
+14	fyn	DAN	DAN	DAN	danish	catholic	
+140	bosnia	BOS	BOS	BOS	serbian	orthodox	
+141	serbia	SER	SER	SER	serbian	orthodox	
+142	corfu	CEP	CEP	CEP	greek	orthodox	
+143	vlore	TUR	TUR	TUR,ALB	albanian	orthodox	
+144	janina	EPI	EPI	EPI,BYZ	greek	orthodox	
+145	morea	BYZ	BYZ	MOE,BYZ	greek	orthodox	
+146	athens	VEN	VEN	VEN,ATH	greek	orthodox	
+147	salonica	TUR	TUR	BYZ,TUR	greek	orthodox	
+148	thessaloniki	TUR	TUR	TUR,BYZ	greek	orthodox	
+149	edirne	TUR	TUR	BYZ,TUR	greek	orthodox	
+15	jylland	DAN	DAN	DAN	danish	catholic	
+150	tarnovo	TUR	TUR	TUR,BUL	bulgarian	orthodox	
+151	constantinople	BYZ	BYZ	BYZ	greek	orthodox	
+152	belovar	HUN	HUN	HUN,CRO	croatian	catholic	
+153	pest	HUN	HUN	HUN	hungarian	catholic	
+154	ersekujvar	HUN	HUN	HUN,SLO	slovak	catholic	
+155	bekes	HUN	HUN	HUN	hungarian	catholic	
+156	temes	HUN	HUN	HUN	transylvanian	catholic	
+157	bihar	HUN	HUN	HUN,TRA	transylvanian	orthodox	
+158	maros	HUN	HUN	HUN,TRA	transylvanian	catholic	
+159	silistria	TUR	TUR	TUR,BUL	bulgarian	orthodox	
+16	bohuslan	NOR	NOR	NOR	norwegian	catholic	
+160	oltenia	WAL	WAL	WAL	romanian	orthodox	
+161	tirgoviste	WAL	WAL	WAL	romanian	orthodox	
+162	zemplen	HUN	HUN	HUN,TRA,SLO	slovak	catholic	
+163	crete	VEN	VEN	VEN,CRT	greek	orthodox	
+164	naxos	NAX	NAX	NAX	greek	orthodox	
+165	bern	SWI	SWI	SWI	swiss	catholic	
+166	schwyz	SWI	SWI	SWI	swiss	catholic	
+167	caux	FRA	FRA	FRA,NRM	normand	catholic	
+168	normandie	FRA	FRA	FRA,NRM	normand	catholic	
+169	armor	BRI	BRI	BRI	breton	catholic	
+17	akershus	NOR	NOR	NOR	norwegian	catholic	
+170	finistere	BRI	BRI	BRI	breton	catholic	
+171	morbihan	BRI	BRI	BRI	breton	catholic	
+172	vendee	BRI	BRI	BRI	breton	catholic	
+173	labourd	ENG	ENG	ENG,GUY	basque	catholic	
+174	gascogne	ENG	ENG	ENG,FRA,GUY	gascon	catholic	
+1742	limburg	BRB	BRB	BRB	flemish	catholic	
+1743	cambray	BUR	BUR	BUR,HAI	wallonian	catholic	
+1744	antwerpen	BRB	BRB	BRB	flemish	catholic	
+1745	cantabria	CAS	CAS	CAS	castillian	catholic	
+1746	burgos	CAS	CAS	CAS	castillian	catholic	
+1747	caceres	CAS	CAS	CAS,LON	leonese	catholic	
+1748	lamancha	CAS	CAS	CAS	andalucian	catholic	
+1749	cadiz	CAS	CAS	CAS	andalucian	catholic	
+175	armagnac	FRA	FRA	AMG,GUY,FRA	gascon	catholic	
+1750	alicante	ARA	ARA	ARA,CAT	catalan	catholic	
+1751	ceuta	MOR	MOR	MOR	moroccan	sunni	
+1752	rzhev	MOS	MOS	MOS,TVE	russian	orthodox	
+1753	kostroma	MOS	MOS	MOS	russian	orthodox	
+1754	orel	MOS	MOS	MOS	russian	orthodox	
+1755	ustyug	MOS	MOS	MOS,NOV	russian	orthodox	NOV
+1756	budjak	MOL	MOL	MOL	romanian	orthodox	
+1757	oberpfalz	PAL	PAL	PAL	bavarian	catholic	
+1758	hannover	BRU	BRU	BRU	hannoverian	catholic	
+1759	potsdam	BRA	BRA	BRA	saxon	catholic	
+176	bearn	FRA	FRA	FOI,GUY,FRA,AMG	gascon	catholic	
+1760	koblenz	TRI	TRI	TRI	hessian	catholic	
+1761	pfalz	PAL	PAL	PAL	hessian	catholic	
+1762	kassel	HES	HES	HES	hessian	catholic	
+1763	niederlausitz	BOH	BOH	BOH	saxon	catholic	
+1764	burgas	TUR	TUR	TUR,BUL	bulgarian	orthodox	
+1765	nis	TUR	TUR	TUR,BUL	bulgarian	orthodox	
+1766	kosovo	SER	SER	SER	serbian	orthodox	
+1767	veroce	HUN	HUN	HUN,CRO	croatian	catholic	
+1768	lienz	HAB	HAB	TIR,HAB	austrian	catholic	
+1769	gorz	HAB	HAB	HAB	austrian	catholic	
+177	maine	ENG	ENG	ENG,PRO,FRA	cosmopolitan_french	catholic	
+1770	ostmarch	HAB	HAB	HAB	austrian	catholic	
+1771	erz	BOH	BOH	BOH	czech	catholic	
+1772	pozsony	HUN	HUN	HUN,SLO	slovak	catholic	
+1773	achaea	ACH	ACH	ACH,MOE,BYZ	greek	orthodox	
+1774	treviso	VEN	VEN		venetian	catholic	
+1775	holstein	SHL	SHL	SHL	hannoverian	catholic	
+1776	karelia	NOV	NOV	NOV	karelian	orthodox	
+1777	kola	NOV	NOV	NOV	sapmi	orthodox	
+1778	kasimov	MOS	MOS	MOS	mishary	sunni	
+178	anjou	PRO	PRO	PRO	cosmopolitan_french	catholic	
+1780	komi				samoyed	tengri_pagan_reformed	
+179	berry	BER	BER	BER	cosmopolitan_french	catholic	
+1792	antananarivo	MIR	MIR	MIR	madagasque	shamanism	
+18	lappland				sapmi	catholic	
+180	poitou	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1800	limpopo				nguni	shamanism	
+1809	cheyenne				shoshone	totemism	
+181	rethel	NEV	NEV	NEV	wallonian	catholic	
+1813	saskatchewan				cree	totemism	
+1815	pathein	PEG	PEG	PEG	mon	buddhism	
+1816	beijing	MNG	MNG	MNG,YAN	chihan	confucianism	
+1817	nan	LNA	LNA	LNA	northern_thai	buddhism	
+1818	chikuzen	OUC	OUC	OUC	kyushuan	shinto	
+1819	tosa	HSK	HSK	HSK	japanese	shinto	
+182	vermandois	FRA	FRA	CHP,PIC,FRA	cosmopolitan_french	catholic	
+1820	awa	HSK	HSK	HSK	japanese	shinto	
+1821	nanjing	MNG	MNG	MNG	jianghuai	confucianism	
+1822	suzhou	MNG	MNG	MNG,WUU	wu	confucianism	
+1823	stungtreng	KHM	KHM	KHM	khmer	animism	
+1824	wenzhou	MNG	MNG	MNG,WUU	wu	confucianism	
+1825	aki	HSK	HSK	HSK	japanese	shinto	
+1826	lika	HUN	HUN	HUN,CRO	croatian	catholic	
+1827	raska	SER	SER	SER	serbian	orthodox	
+1828	soli	BOS	BOS	BOS	croatian	catholic	
+1829	quanzhou	MNG	MNG	MNG,MIN	chimin	confucianism	
+183	ile	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1830	tajima	YMN	YMN	YMN	japanese	shinto	
+1831	travunia	BOS	BOS	BOS	serbian	orthodox	
+1832	yamato	HTK	HTK	HTK	japanese	shinto	
+1833	ji'an	MNG	MNG	MNG,NNG	gan	confucianism	
+1834	dorpat	LIV	LIV	LIV,LVA	latvian	catholic	
+1835	mino	JAP	JAP	JAP	togoku	shinto	
+1836	luoyang	MNG	MNG	MNG,LNG	zhongyuan	confucianism	
+1837	etchu	HTK	HTK	SBA	togoku	shinto	
+1838	hefei	MNG	MNG	MNG	jianghuai	confucianism	
+1839	suruga	IMG	IMG	IMG	togoku	shinto	
+184	orleanais	FRA	FRA	ORL,FRA	cosmopolitan_french	catholic	
+1840	guilin	MNG	MNG	MNG	zhuang	confucianism	
+1841	marienburg	TEU	TEU	TEU	prussian	catholic	
+1842	narva	LIV	LIV	LIV,EST	estonian	catholic	
+1843	kozuke	UES	UES	UES	togoku	shinto	
+1844	xiankhouang	LXA	LXA	LXA,MPH	lao	buddhism	
+1845	southpyongan	KOR	KOR	KOR	korean	confucianism	
+1846	amasya	TUR	TUR	TUR,ERE	turkish	sunni	
+1847	shiribeshi	ANU	ANU	ANU	ainu	animism	
+1848	hamid	KAR	KAR	KAR	turkish	sunni	
+1849	hama	MAM	MAM	SYR,MAM	al_suryah_arabic	sunni	
+185	othe	FRA	FRA	CHP,FRA	cosmopolitan_french	catholic	
+1850	yaran	MJZ	MJZ	MJZ	manchu	tengri_pagan_reformed	
+1851	ribatejo	POR	POR	POR	portugese	catholic	
+1852	tokachi	ANU	ANU	ANU	ainu	animism	
+1853	kastoria	TUR	TUR	BYZ,TUR	greek	orthodox	
+1854	nablus	MAM	MAM	MAM	al_suryah_arabic	sunni	
+1855	sidon	MAM	MAM	LEB,SYR,MAM	al_suryah_arabic	catholic	
+1856	abkhazia	GEO	GEO	GEO,IME	georgian	orthodox	
+1857	lauenburg	LAU	LAU	LAU	hannoverian	catholic	
+1858	stettin	POM	POM	POM	pommeranian	catholic	
+1859	torun	TEU	TEU	TEU	polish	catholic	
+186	champagne	FRA	FRA	CHP,FRA	cosmopolitan_french	catholic	
+1860	norfolk	ENG	ENG	ENG	english	catholic	
+1861	derby	ENG	ENG	ENG	english	catholic	
+1862	cremona	MLO	MLO	MLO	lombard	catholic	
+1863	graz	HAB	HAB	STY,HAB	austrian	catholic	
+1864	somogy	HUN	HUN	HUN	hungarian	catholic	
+1865	ghent	FLA	FLA	FLA	flemish	catholic	
+1866	namur	BUR	BUR	BUR,HAI	wallonian	catholic	
+1867	freiburg	SAV	SAV	SAV	swiss	catholic	
+1868	augsburg	AUG	AUG	AUG	swabian	catholic	
+1869	zurich	SWI	SWI	SWI	swiss	catholic	
+187	barrois	BAR	BAR	BAR	burgundian	catholic	
+1870	stgallen	SWI	SWI	SWI	swiss	catholic	
+1871	wallis	SAV	SAV	SAV	swiss	catholic	
+1872	ulm	ULM	ULM	ULM	swabian	catholic	
+1873	chur	SWI	SWI	SWI	swiss	catholic	
+1874	bremen	BRE	BRE	BRE	hannoverian	catholic	
+1875	turin	SAV	SAV	SAV	piedmontese	catholic	
+1876	frankfurt	FRN	FRN	FRN	hessian	catholic	
+1877	charolais	BUR	BUR	BUR	burgundian	catholic	
+1878	aachen	AAC	AAC	AAC	hessian	catholic	
+1879	alencon	ENG	ENG	ALE,ENG,FRA	cosmopolitan_french	catholic	
+188	metz	LOR	LOR	LOR	burgundian	catholic	
+1880	sundgau	HAB	HAB	HAB	swabian	catholic	
+1881	stmartin				arawak	animism	
+1882	bone	TUN	TUN	TUN	berber	sunni	
+189	lothringen	LOR	LOR	LOR	burgundian	catholic	
+19	osterbotten	SWE	SWE	SWE,FIN	finnish	catholic	
+190	bourbon	FRA	FRA	BOU,FRA	cosmopolitan_french	catholic	
+1901	lakevolta	KON	KON	KON	kongolese	shamanism	
+191	nevers	NEV	NEV	NEV	burgundian	catholic	
+192	bourgogne	BUR	BUR	BUR	burgundian	catholic	
+1925	tana				bantu	shamanism	
+193	franche	BUR	BUR	BUR	burgundian	catholic	
+1930	aland	SWE	SWE	SWE	swedish	catholic	
+1931	eastfrisia	EFR	EFR	EFR	hannoverian	catholic	
+1933	bari	NAP	NAP	NAP	neapolitan	catholic	
+1934	lucania	NAP	NAP	NAP	neapolitan	catholic	
+1935	semigallia	LIV	LIV	LIV	latvian	catholic	
+1936	kovno	LIT	LIT	LIT	lithuanian	catholic	
+1937	grodno	LIT	LIT	LIT	byelorussian	orthodox	
+1938	wizna	MAZ	MAZ	MAZ	polish	catholic	
+1939	leczyca	POL	POL	POL	polish	catholic	
+194	bergerac	FRA	FRA	FRA,GUY	gascon	catholic	
+1940	belz	MAZ	MAZ	MAZ,VOL	ruthenian	orthodox	
+1941	turov	LIT	LIT	LIT	byelorussian	orthodox	
+1942	zhytomyr	LIT	LIT	KIE,LIT	ruthenian	orthodox	
+1943	bratslav	LIT	LIT	KIE,LIT	ruthenian	orthodox	
+1944	cherkasy	LIT	LIT	KIE,LIT	ruthenian	orthodox	
+1945	novgorod	LIT	LIT	CHR,LIT	ryazanian	orthodox	
+1946	desh	BAH	BAH	BAH,BIJ	marathi	hinduism	
+1947	gingee	VIJ	VIJ	KRK,VIJ	tamil	hinduism	
+1948	bidar	BAH	BAH	BAH	kannada	hinduism	
+1949	rayalaseema	VIJ	VIJ	KRK,VIJ,YOR	telegu	hinduism	
+195	limousin	FRA	FRA	FRA,GUY	gascon	catholic	
+1951	hunyad	HUN	HUN	HUN,TRA	transylvanian	orthodox	
+1952	maramaros	HUN	HUN	HUN	ruthenian	orthodox	
+1953	szabolcs	HUN	HUN	HUN	hungarian	catholic	
+1954	torontal	HUN	HUN	HUN	hungarian	catholic	
+1955	kholmogory	NOV	NOV	NOV	novgorodian	orthodox	
+1956	suzdal	MOS	MOS	NZH,MOS	russian	orthodox	
+1957	galich	MOS	MOS	MOS	russian	orthodox	
+1958	kargopol	NOV	NOV	NOV	novgorodian	orthodox	
+1959	torzhok	NOV	NOV	NOV	novgorodian	orthodox	
+196	toulouse	FRA	FRA	FRA,TOU,GUY	occitain	catholic	
+1960	ostrov	PSK	PSK	PSK	novgorodian	orthodox	
+1961	ladoga	NOV	NOV	NOV	novgorodian	orthodox	
+1962	kudymkar	PRM	PRM	PRM	uralic	tengri_pagan_reformed	
+1963	cherdyn	PRM	PRM	PRM	uralic	tengri_pagan_reformed	
+1964	ust	PRM	PRM	PRM	uralic	orthodox	
+1965	buzuluk	NOG	NOG	NOG	nogaybak	sunni	
+1966	chelyaba	NOG	NOG	NOG,SIB,BSH	bashkir	sunni	
+1967	khujand	TIM	TIM	TIM,KOK	uzbehk	sunni	
+1968	kulob	TIM	TIM	TIM	uzbehk	sunni	
+1969	sozak	SHY	SHY	SHY	khazak	sunni	
+197	roussillon	ARA	ARA	CAT,ARA,TOU	catalan	catholic	
+1970	syghnak	SHY	SHY	KZH,SHY	khazak	sunni	
+1971	tsaritsyn	GOL	GOL	GOL	mishary	sunni	
+1972	udmurtia	KAZ	KAZ	KAZ	uralic	tengri_pagan_reformed	
+1973	urgench	TIM	TIM	TIM,KHI	uzbehk	sunni	
+1974	yedishkul	CRI	CRI	CRI	crimean	sunni	
+1978	shetlands	NOR	NOR	NOR	norwegian	catholic	
+1979	faroes	NOR	NOR	NOR	norwegian	catholic	
+198	rouergue	FRA	FRA	GUY,TOU,FRA	occitain	catholic	
+1981	bornholm	DAN	DAN	DAN	danish	catholic	
+1982	blekinge	DAN	DAN	DAN	danish	catholic	
+1983	lolland	DAN	DAN	DAN	danish	catholic	
+1984	nordjylland	DAN	DAN	DAN	danish	catholic	
+1985	narke	SWE	SWE	SWE	swedish	catholic	
+1986	newcaledonia				polynesian	animism	
+1987	societyislands				polynesian	animism	
+1988	rapanui				polynesian	animism	
+1989	tonga				polynesian	animism	
+199	auvergne	FRA	FRA	AUV,FRA	occitain	catholic	
+1990	tuvalu				polynesian	animism	
+1991	gilbertislands				polynesian	animism	
+1992	nauru				polynesian	animism	
+1993	masrshallislands				polynesian	animism	
+1994	wake				polynesian	animism	
+1995	micronesia				polynesian	animism	
+1996	Palau				polynesian	animism	
+1997	midway				polynesian	animism	
+2	ostergotland	SWE	SWE	SWE	swedish	catholic	
+20	trondelag	NOR	NOR	NOR	norwegian	catholic	
+200	languedoc	FRA	FRA	FRA,TOU	occitain	catholic	
+2002	galapagosislands				guajiro	animism	
+2003	ktunaxa				shoshone	totemism	
+2004	niitsitapi	BLA	BLA	BLA	blackfoot	totemism	
+2005	asinaan				cheyenne	totemism	
+2006	apsaalooke	COM	COM	COM	shoshone	totemism	
+2007	arikara				pawnee	totemism	
+2008	yankton				pawnee	totemism	
+2009	teton				pawnee	totemism	
+201	provence	PRO	PRO	PRO	occitain	catholic	
+2010	connecticut	PEQ	PEQ	PEQ	pequot	totemism	
+2011	shenandoah				susquehannock	totemism	
+2012	arsigantegok				abenaki	totemism	
+2013	kennebec				abenaki	totemism	
+2014	natchitoches				caddo	totemism	
+2015	nipigon	OJI	OJI	OJI	anishinabe	totemism	
+2016	bungi	ASI	ASI	ASI	nakota	totemism	
+2017	nehiyawewin				cree	totemism	
+2018	tsuutina				athabascan	totemism	
+2019	nimiipu				chinook	totemism	
+202	avignon	AVI	AVI	AVI,PRO	occitain	catholic	
+2020	bannock	SHO	SHO	SHO	shoshone	totemism	
+2021	miwok				piman	totemism	
+2022	haida	HDA	HDA	HDA	haida	totemism	
+2023	munsee				delaware	totemism	
+2024	ajuuran	MRE	MRE	MRE,MJE	somali	sunni	
+2026	tanjore	VIJ	VIJ	VIJ,MAD	tamil	hinduism	
+2027	arcot	KRK	KRK	KRK	tamil	hinduism	
+2028	mahur	BAH	BAH	BAH	telegu	hinduism	
+2029	southkanara	MAB	MAB	MAB,KLN	kannada	hinduism	
+203	lyonnais	FRA	FRA	FRA	occitain	catholic	
+2030	goa	BAH	BAH	BIJ,BAH,VIJ	marathi	hinduism	
+2031	morasanadu	VIJ	VIJ	VIJ,MYS	kannada	hinduism	
+2032	malenadu	VIJ	VIJ	VIJ,KLN	kannada	hinduism	
+2033	savanaur	BAH	BAH	BAH,BIJ,KLN	kannada	hinduism	
+2034	pune	BAH	BAH	BAH,AHM	marathi	hinduism	
+2035	gulbarga	BAH	BAH	BAH	kannada	hinduism	
+2036	baglana	BGA	BGA	BGA	malvi	hinduism	
+2037	warangal	BAH	BAH	BAH,GOC,YOR	telegu	hinduism	
+2038	midnapore	ORI	ORI	ORI,BNG	bengali	hinduism	
+2039	sunderbans	BNG	BNG	BNG	bengali	hinduism	
+204	dauphine	FRA	FRA	FRA,DAU,PRO	occitain	catholic	
+2040	sadiya	SDY	SDY	SDY	assamese	hinduism	
+2041	manipur	MLB	MLB	MLB	chin	animism	
+2042	kochhajo	KMT	KMT	KMT	assamese	hinduism	
+2043	balasore	ORI	ORI	ORI	oriya	hinduism	
+2044	bhagalpur	BNG	BNG	BNG	bengali	hinduism	
+2045	barind	BNG	BNG	BNG	bengali	hinduism	
+2046	nasirabad	BNG	BNG	BNG	bengali	hinduism	
+2047	tirhut	TRT	TRT	TRT	bihari	hinduism	
+2048	garjat	GRJ	GRJ	GRJ	garjati	hinduism	
+2049	khurda	GRJ	GRJ	GRJ	garjati	hinduism	
+205	savoie	SAV	SAV	SAV	piedmontese	catholic	
+2050	chanda	CHD	CHD	BRR,CHD	gondi	hinduism	
+2051	bhavnagar	GUJ	GUJ	GUJ	gujarati	hinduism	
+2052	navanagar	KAT	KAT	KAT,GUJ	gujarati	hinduism	
+2053	patan	GUJ	GUJ	GUJ	gujarati	hinduism	
+2054	ahmadabad	GUJ	GUJ	GUJ	gujarati	hinduism	
+2055	gorakhpur	JNP	JNP	JNP	bihari	hinduism	
+2056	rewakantha	CMP	CMP	CMP	gujarati	hinduism	
+2057	bhelsa	MLW	MLW	MLW	malvi	hinduism	
+2058	mewar	MER	MER	MER	rajput	hinduism	
+2059	kalpi	BND	BND	BND,JNP,DLH	kanauji	hinduism	
+206	galicia	CAS	CAS	CAS,GAL	galician	catholic	
+2060	upperdoab	DLH	DLH	DLH,MUL	kanauji	hinduism	
+2061	katehar	DLH	DLH	DLH,RMP,JNP	kanauji	hinduism	
+2062	panipat	MUL	MUL	DLH,PUN,MUL	kanauji	hinduism	
+2063	etawah	DLH	DLH	JNP,DLH	kanauji	hinduism	
+2064	shekhawati	DHU	DHU	DHU	rajput	hinduism	
+2065	bhattiana	MUL	MUL	DLH,PUN,MUL	rajput	hinduism	
+2066	nagaur	NGA	NGA	NGA	rajput	hinduism	
+2067	gorwar	MAW	MAW	MAW,GUJ	rajput	hinduism	
+2068	siwistan	BAL	BAL	BAL,SND	baluchi	sunni	
+2069	kumaon	GHR	GHR	GHR	nepali	hinduism	
+207	asturias	CAS	CAS	CAS,LON	leonese	catholic	
+2070	chaubisirajya	NPL	NPL	NPL	nepali	hinduism	
+2071	limbuwan	NPL	NPL	NPL	nepali	hinduism	
+2072	bhakkar	SND	SND	SND	sindhi	sunni	
+2073	baltistan	LDK	LDK	LDK	kashmiri	buddhism	
+2074	ladakh	LDK	LDK	LDK	kashmiri	vajrayana	
+2075	doaba	DLH	DLH	DLH,PUN	panjabi	hinduism	
+2076	sialkot	MUL	MUL	DLH,PUN	panjabi	hinduism	
+2077	margalla	MUL	MUL	DLH,PUN	panjabi	hinduism	
+2078	sindsagar	MUL	MUL	MUL,PUN	panjabi	sunni	
+2079	derajat	MUL	MUL	PUN,MUL	panjabi	sunni	
+208	leon	CAS	CAS	CAS,LON	leonese	catholic	
+2080	srikakulam	ORI	ORI	ORI	oriya	hinduism	
+2081	lakhnor	BNG	BNG	BNG	bengali	hinduism	
+2082	raipur	GDW	GDW	GDW	gondi	hinduism	
+2083	kosta	YOR	YOR	YOR	telegu	hinduism	
+2084	konaseema	YOR	YOR	YOR	telegu	hinduism	
+2085	tiruchirapalli	MAD	MAD	MAD	tamil	hinduism	
+2086	cholistan	MUL	MUL	MUL	panjabi	sunni	
+2087	ajmer	MER	MER	MER,MAW	rajput	hinduism	
+2088	umarkot	SND	SND	SND	sindhi	sunni	
+2089	chaul	BAH	BAH	BIJ,VIJ	marathi	hinduism	
+209	vizcaya	CAS	CAS	CAS	basque	catholic	
+2090	kurnool	VIJ	VIJ	VIJ,YOR	telegu	hinduism	
+2091	tripura	TPR	TPR	TPR	chin	hinduism	
+2092	mahadeo	GDW	GDW	GDW	gondi	hinduism	
+2093	mandsaur	MLW	MLW	MLW	malvi	hinduism	
+2094	bahreich	JNP	JNP	JNP,ODH	avadhi	hinduism	
+2095	varanasi	JNP	JNP	JNP	bihari	hinduism	
+2096	damin	NGP	NGP	NGP	jharkhandi	hinduism	
+2097	bagelkhand	BGL	BGL	BGL	avadhi	hinduism	
+2098	surguja	GDW	GDW	NGP,GDW	jharkhandi	hinduism	
+2099	kandy	CEY	CEY	CEY	sinhala	buddhism	
+21	halogaland	NOR	NOR	NOR	norwegian	catholic	
+210	navarra	NAV	NAV	NAV	basque	catholic	
+2100	vanni	JFN	JFN	JFN	tamil	hinduism	
+2101	tirunelveli	MAD	MAD	MAD	tamil	hinduism	
+2102	urkan	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+2103	udi	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+2104	birija	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+2105	kuru	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+2106	furdan	MJZ	MJZ	MJZ	manchu	tengri_pagan_reformed	
+2107	ningguta	MJZ	MJZ	MJZ	manchu	confucianism	
+2108	huncun	MJZ	MJZ	MJZ	manchu	confucianism	
+2109	boduna	KRC	KRC	KRC	chahar	vajrayana	
+211	pirineo	ARA	ARA	ARA	aragonese	catholic	
+2110	yehe	MHX	MHX	MHX	manchu	confucianism	
+2111	hetuala	MJZ	MJZ	MJZ	manchu	confucianism	
+2112	andong	MNG	MNG	MNG	manchu	confucianism	
+2113	gaizhou	MNG	MNG	MNG	shandong_culture	confucianism	
+2114	ereen	KHA	KHA	KHA	mongol	vajrayana	
+2115	chahar	KRC	KRC	KRC	chahar	vajrayana	
+2116	ihhuree	KHA	KHA	KHA	khalkha	tengri_pagan_reformed	
+2117	zasagt	OIR	OIR	OIR	khalkha	tengri_pagan_reformed	
+2118	urzhar	OIR	OIR	OIR	oirats	sunni	
+2119	chuguchak	OIR	OIR	OIR	oirats	sunni	
+212	girona	ARA	ARA	ARA,CAT	catalan	catholic	
+2120	ili	CHG	CHG	CHG	uyghur	sunni	
+2121	kuqa	KAS	KAS	KAS	uyghur	sunni	
+2122	hami	HMI	HMI	HMI	oirats	vajrayana	
+2123	qakilik	CHG	CHG	CHG	oirats	vajrayana	
+2124	yarkand	KAS	KAS	KAS	uyghur	sunni	
+2125	kochkor	CHG	CHG	CHG	kirgiz	sunni	
+2126	chuy	CHG	CHG	CHG	kirgiz	sunni	
+2127	yashilkul	KAS	KAS	KAS	uzbehk	sunni	
+2128	ngari	GUG	GUG	GUG	tibetan	vajrayana	
+2129	changtang	UTS	UTS	UTS	tibetan	vajrayana	
+213	barcelona	ARA	ARA	ARA,CAT	catalan	catholic	
+2130	nyingchi	UTS	UTS	UTS	tibetan	vajrayana	
+2131	qamdo	KAM	KAM	KAM	tibetan	vajrayana	
+2132	markam	KAM	KAM	KAM	tibetan	vajrayana	
+2133	dege	KAM	KAM	KAM	tibetan	vajrayana	
+2134	rebgong	KAM	KAM	KAM	tibetan	vajrayana	
+2135	garze	KAM	KAM	KAM	tibetan	vajrayana	
+2136	xuanhua	MNG	MNG	MNG,JIN	jin	confucianism	
+2137	daming	MNG	MNG	MNG,YAN	chihan	confucianism	
+2138	wuding	MNG	MNG	MNG,QIC	shandong_culture	confucianism	
+2139	laizhou	MNG	MNG	MNG,QIC	shandong_culture	confucianism	
+214	aragon	ARA	ARA	ARA	aragonese	catholic	
+2140	yanzhou	MNG	MNG	MNG,QIC	zhongyuan	confucianism	
+2141	xuzhou	MNG	MNG	MNG	zhongyuan	confucianism	
+2142	huai'an	MNG	MNG	MNG	jianghuai	confucianism	
+2143	fengyang	MNG	MNG	MNG	zhongyuan	confucianism	
+2144	fuyang	MNG	MNG	MNG	zhongyuan	confucianism	
+2145	zhenjiang	MNG	MNG	MNG,WUU	jianghuai	confucianism	
+2146	ningguo	MNG	MNG	MNG	wu	confucianism	
+2147	huizhou	MNG	MNG	MNG,WUU	wu	confucianism	
+2148	shaoxin	MNG	MNG	MNG,WUU	wu	confucianism	
+2149	ningbo	MNG	MNG	MNG,WUU	wu	confucianism	
+215	castillalavieja	CAS	CAS	CAS	castillian	catholic	
+2150	jinhua	MNG	MNG	MNG,WUU	wu	confucianism	
+2151	poyang	MNG	MNG	MNG,NNG	gan	confucianism	
+2152	jianning	MNG	MNG	MNG,MIN,NNG	chimin	confucianism	
+2153	tingzhou	MNG	MNG	MNG,MIN,NNG	hakka	confucianism	
+2154	kelang				polynesian	animism	
+2155	middag				polynesian	animism	
+2156	chaochow	MNG	MNG	MNG,MIN	chimin	confucianism	
+2157	waichow	MNG	MNG	MNG,YUE	hakka	confucianism	
+2158	shiukwan	MNG	MNG	MNG,HUA	hakka	confucianism	
+2159	leichow	MNG	MNG	MNG,YUE	chimin	confucianism	
+216	salamanca	CAS	CAS	CAS,LON	leonese	catholic	
+2160	ngaichow	MNG	MNG	MNG	chimin	confucianism	
+2161	limchow	MNG	MNG	MNG	cantonese	confucianism	
+2162	wuchow	MNG	MNG	MNG	cantonese	confucianism	
+2163	liuzhou	MNG	MNG	MNG	zhuang	confucianism	
+2164	namnig	MNG	MNG	MNG	zhuang	confucianism	
+2165	pu'er	MNG	MNG	MNG,CDL	bai	buddhism	
+2166	dehong	MNG	MNG	MNG,CDL	shan	buddhism	
+2167	lijiang	MNG	MNG	MNG,CDL	bai	buddhism	
+2168	bozhou	MNG	MNG	MNG,CYI,CXI	yi	animism	
+2169	langzhong	MNG	MNG	MNG,CXI,SHU	sichuanese	confucianism	
+217	madrid	CAS	CAS	CAS	castillian	catholic	
+2170	songqu	MNG	MNG	MNG,CXI	tibetan	vajrayana	
+2171	xiangyang	MNG	MNG	MNG,CXI	hubei	confucianism	
+2172	jingzhou	MNG	MNG	MNG,CXI,CHC	hubei	confucianism	
+2173	yuanling	MNG	MNG	MNG,CMI,CHC	miao	animism	
+2174	hengyang	MNG	MNG	MNG,CMI,CHC	xiang	animism	
+2175	runing	MNG	MNG	MNG,LNG	zhongyuan	confucianism	
+2176	shangqiu	MNG	MNG	MNG,LNG	zhongyuan	confucianism	
+2177	ningwu	MNG	MNG	MNG,JIN	jin	confucianism	
+2178	lu'an	MNG	MNG	MNG,JIN	jin	confucianism	
+2179	yan'an	MNG	MNG	MNG,QIN	jin	confucianism	
+218	badajoz	CAS	CAS	CAS	castillian	catholic	
+2180	tianshui	MNG	MNG	MNG,CSH	xibei	confucianism	
+2181	pingliang	MNG	MNG	MNG,CSH	xibei	confucianism	
+2182	liangzhou	MNG	MNG	MNG,CSH	xibei	confucianism	
+2183	taozhou	MNG	MNG	MNG,CSH	xibei	confucianism	
+2184	xining	MNG	MNG	MNG,CSH	xibei	vajrayana	
+2185	mergen	MHX	MHX	MHX	manchu	tengri_pagan_reformed	
+2186	iman	MJZ	MJZ	MJZ	manchu	tengri_pagan_reformed	
+2187	sartu	KRC	KRC	KRC	chahar	tengri_pagan_reformed	
+2188	alchuka	MHX	MHX	MHX	manchu	tengri_pagan_reformed	
+2189	tsetserleg	OIR	OIR	OIR	khalkha	tengri_pagan_reformed	
+219	toledo	CAS	CAS	CAS	castillian	catholic	
+2190	qaraqorum	OIR	OIR	OIR	khalkha	tengri_pagan_reformed	
+2191	ejin	OIR	OIR	OIR	oirats	vajrayana	
+2192	korla	KAS	KAS	KAS	uyghur	vajrayana	
+2193	govi	OIR	OIR	OIR	khalkha	tengri_pagan_reformed	
+2195	adyghe	CIR	CIR	CIR	circassian	orthodox	
+2196	guria	GEO	GEO	GEO,IME	georgian	orthodox	
+2197	kabardia	CIR	CIR	CIR	circassian	orthodox	
+2198	khundzia	GAZ	GAZ	GAZ	dagestani	sunni	
+2199	tarki	GAZ	GAZ	GAZ	dagestani	sunni	
+22	eisdiva	NOR	NOR	NOR	norwegian	catholic	
+220	valencia	ARA	ARA	ARA,CAT	catalan	catholic	
+2201	alania	CIR	CIR	CIR	circassian	orthodox	
+2202	melikates	QAR	QAR	QAR	azerbaijani	shiite	
+2203	kahketi	GEO	GEO	GEO	georgian	orthodox	
+2204	samtskhe	GEO	GEO	GEO,ARM	armenian	coptic	
+2205	nakhchivan	TIM	TIM	TIM,ARM	armenian	coptic	
+2206	urmia	QAR	QAR	QAR,PER	kurdish	sunni	
+2207	maragheh	QAR	QAR	QAR,PER	azerbaijani	shiite	
+2208	terek	GOL	GOL	GOL,GAZ,AST	dagestani	sunni	
+2209	ilam	TIM	TIM	PER	kurdish	shiite	
+221	murcia	CAS	CAS	CAS	andalucian	catholic	
+2210	kirmanshah	TIM	TIM	PER,TIM,ARD	kurdish	sunni	
+2211	ardalan	ARD	ARD	PER,TIM,ARD	kurdish	sunni	
+2212	zanjan	TIM	TIM	PER,TIM	azerbaijani	shiite	
+2213	markazi	TIM	TIM	PER,TIM	persian	shiite	
+2214	golestan	TIM	TIM	PER,TIM,TAB	mazandarani	shiite	
+2215	qazvin	TIM	TIM	PER,TIM	persian	shiite	
+2216	semnan	TIM	TIM	PER,TIM,KHO	persian	shiite	
+2217	yasuj	TIM	TIM	PER,TIM	persian	shiite	
+2218	sarvestan	TIM	TIM	PER,TIM	persian	shiite	
+2219	bandarlangeh	TIM	TIM	PER,TIM	persian	shiite	
+222	almeria	GRA	GRA	GRA	andalucian	sunni	
+2220	bam	TIM	TIM	PER,TIM	persian	shiite	
+2221	mashhad	TIM	TIM	PER,TIM,KHO	khorasani	sunni	
+2222	ardakan	TIM	TIM	PER,TIM,KHO	persian	shiite	
+2223	larestan	TIM	TIM	PER,TIM	persian	shiite	
+2224	ferah	TIM	TIM	TIM,AFG,KHO	khorasani	sunni	
+2225	bamyan	TIM	TIM	TIM,AFG	afghani	sunni	
+2226	jalalabad	TIM	TIM	TIM,AFG	afghani	sunni	
+2227	kunduz	TIM	TIM	TIM,AFG	afghani	sunni	
+2228	maymana	TIM	TIM	TIM,AFG	afghani	sunni	
+2229	bust	TIM	TIM	TIM,AFG,KHO	afghani	sunni	
+223	granada	GRA	GRA	GRA	andalucian	sunni	
+2230	chagai	BAL	BAL	BAL	baluchi	sunni	
+2231	bela	BAL	BAL	BAL	baluchi	sunni	
+2232	kharan	BAL	BAL	BAL	baluchi	sunni	
+2233	westernmakran	BAL	BAL	BAL	baluchi	sunni	
+2234	rafsanjan	TIM	TIM	PER,TIM	persian	shiite	
+2235	sabzevar	TIM	TIM	PER,TIM,KHO	khorasani	sunni	
+2236	bojnord	TIM	TIM	PER,TIM,KHO	khorasani	sunni	
+2237	tekrur				fulani	shamanism	
+2238	kantor	MAL	MAL	MAL,KBU	senegambian	shamanism	
+2239	siine	JOL	JOL	JOL	senegambian	shamanism	
+224	andalucia	CAS	CAS	CAS	andalucian	catholic	
+2240	galam				fulani	shamanism	
+2241	beafada				senegambian	shamanism	
+2242	karou				dyola	shamanism	
+2243	termes	ZAF	ZAF	ZAF	soninke	sunni	
+2244	tagant				fulani	shamanism	
+2245	wagadu	ZAF	ZAF	ZAF	soninke	shamanism	
+2246	baghena	ZAF	ZAF	ZAF	soninke	sunni	
+2247	hodh	TMB	TMB	TMB	tuareg	sunni	
+2248	do	MAL	MAL	MAL	mali	shamanism	
+2249	sibiridugu	MAL	MAL	MAL	mali	shamanism	
+225	cordoba	CAS	CAS	CAS	andalucian	catholic	
+2250	bendugu	MAL	MAL	MAL	bozo	shamanism	
+2252	lobi	KNG	KNG	KNG	dyola	shamanism	
+2253	gwiriko	MAL	MAL	MAL	dyola	shamanism	
+2254	bonoman	BON	BON	BON	aka	shamanism	
+2255	gyaaman	BON	BON	BON	aka	shamanism	
+2256	dagbon	DGB	DGB	DGB	dagomba	shamanism	
+2257	denkyira				aka	shamanism	
+2258	capecoast				aka	shamanism	
+2259	bara	ZAF	ZAF	ZAF	bambara	shamanism	
+226	gibraltar	GRA	GRA	GRA	andalucian	sunni	
+2260	mema	ZAF	ZAF	ZAF	bambara	sunni	
+2261	kala	JNN	JNN	JNN	bozo	shamanism	
+2262	karabara	SON	SON	SON	songhai	sunni	
+2263	haayre	MSI	MSI	MSI,YAT	bozo	shamanism	
+2264	hombori	SON	SON	SON	songhai	shamanism	
+2265	liptako	MSI	MSI	MSI,YAT	mossi	shamanism	
+2266	bilanga	MSI	MSI	MSI	mossi	shamanism	
+2267	tenkodogo	MSI	MSI	MSI	mossi	shamanism	
+2268	aribanda	SON	SON	SON	songhai	sunni	
+2269	zarmaganda	SON	SON	SON	songhai	sunni	
+227	lisboa	POR	POR	POR	portugese	catholic	
+2270	dallol	SON	SON	SON	songhai	shamanism	
+2271	azawagh	SON	SON	SON	tuareg	sunni	
+2272	azbin	AIR	AIR	AIR	tuareg	sunni	
+2273	ader	AIR	AIR	AIR	tuareg	sunni	
+2274	air	AIR	AIR	AIR	tuareg	sunni	
+2275	tenere	AIR	AIR	AIR	tuareg	sunni	
+2276	itesan	AIR	AIR	AIR	tuareg	sunni	
+2277	kawar	AIR	AIR	AIR	tuareg	sunni	
+2278	kebbi	SON	SON	SON,HAU	hausa	shamanism	
+2279	daura	KTS	KTS	KTS	hausa	sunni	
+228	beira	POR	POR	POR	portugese	catholic	
+2280	biram	KAN	KAN	KAN	hausa	sunni	
+2281	rano	KAN	KAN	KAN	hausa	sunni	
+2282	muniyo	KBO	KBO	KBO	kanuri	sunni	
+2283	bedde	KBO	KBO	KBO	kanuri	sunni	
+2284	manga	KBO	KBO	KBO	kanuri	sunni	
+2285	marghi	KBO	KBO	KBO	kanuri	shamanism	
+2286	logone	YAO	YAO	YAO,KBO	kanuri	shamanism	
+2287	kotoko	YAO	YAO	YAO,KBO	kanuri	sunni	
+2288	yao	YAO	YAO	YAO	bilala	sunni	
+2289	ondo	BEN	BEN	BEN	yorumba	shamanism	
+229	beja	POR	POR	POR	portugese	catholic	
+2290	ijebu	BEN	BEN	BEN	yorumba	shamanism	
+2291	ketu	OYO	OYO	OYO	yorumba	shamanism	
+2292	moshi	OYO	OYO	OYO	yorumba	shamanism	
+2293	yawuri	ZZZ	ZZZ	ZZZ	hausa	shamanism	
+2294	warri	BEN	BEN	BEN	yorumba	shamanism	
+2295	atakora	DGB	DGB	DGB	dagomba	shamanism	
+2296	biga	TUR	TUR	TUR	turkish	sunni	
+2297	saruhan	SRU	SRU	SRU	turkish	sunni	
+2298	tekke	TUR	TUR	MEN,TUR	turkish	sunni	
+2299	bolu	TUR	TUR	TUR	turkish	sunni	
+23	bergenshus	NOR	NOR	NOR	norwegian	catholic	
+230	algarve	POR	POR	POR	portugese	catholic	
+2300	bozok	TUR	TUR	TUR,ERE	turkish	sunni	
+2301	kayseri	KAR	KAR	KAR,ERE	turkish	sunni	
+2302	icel	KAR	KAR	KAR	turkish	sunni	
+2303	malatya	DUL	DUL	DUL	turkish	sunni	
+2304	canik	CND	CND	CND	turkish	sunni	
+2305	erzincan	TIM	TIM	TIM,ERE	armenian	coptic	
+2306	mush	QAR	QAR	QAR	armenian	coptic	
+2307	van	TIM	TIM	TIM,ARM	armenian	coptic	
+2308	cizre	QAR	QAR	IRQ,QAR,BHT	kurdish	sunni	
+2309	sinjar	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	sunni	
+231	porto	POR	POR	POR	portugese	catholic	
+2310	tikrit	TIM	TIM	IRQ,TIM	al_iraqiya_arabic	sunni	
+2311	samawah	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	shiite	
+2312	wasit	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	sunni	
+2313	antioch	MAM	MAM	SYR,MAM	al_suryah_arabic	sunni	
+2314	rahba	MAM	MAM	MAM,SYR	al_suryah_arabic	sunni	
+2315	suez	MAM	MAM	MAM	al_misr_arabic	sunni	
+2316	algharbia	MAM	MAM	MAM	al_misr_arabic	sunni	
+2317	minya	MAM	MAM	MAM	al_misr_arabic	sunni	
+2318	alwahat	MAM	MAM	MAM	al_misr_arabic	sunni	
+2319	asyut	MAM	MAM	MAM	al_misr_arabic	sunni	
+232	braganca	POR	POR	POR	portugese	catholic	
+2320	rasgharib	MAM	MAM	MAM	al_misr_arabic	sunni	
+2321	queseer	MAM	MAM	MAM	al_misr_arabic	sunni	
+2322	wadihalfa	MAK	MAK	MAK	nubian	coptic	
+2323	sahraannubyah	BEJ	BEJ	BEJ	nubian	coptic	
+2324	halaib	MAM	MAM	MAM,BEJ	beja	sunni	
+2325	tarrana	MAM	MAM	MAM	al_misr_arabic	sunni	
+2326	bardiyah	MAM	MAM	MAM	al_misr_arabic	sunni	
+2327	maan	MAM	MAM	MAM	bedouin_arabic	sunni	
+2328	tayma	HED	HED	HED	bedouin_arabic	sunni	
+2329	yanbu	HED	HED	HED	bedouin_arabic	sunni	
+233	cornwall	ENG	ENG	ENG,CRN	welsh	catholic	
+2330	ma'dinsulaym	HED	HED	HED	bedouin_arabic	sunni	
+2331	jeddah	HED	HED	HED	bedouin_arabic	sunni	
+2332	truba	HED	HED	HED	bedouin_arabic	sunni	
+2333	abdal	NAJ	NAJ	NAJ	bedouin_arabic	shiite	
+2335	tamara	NAJ	NAJ	NAJ	bedouin_arabic	sunni	
+2336	falaj	NAJ	NAJ	NAJ	bedouin_arabic	sunni	
+2337	unaizah	SHM	SHM	SHM	bedouin_arabic	sunni	
+2338	hafar	SHM	SHM	SHM	bedouin_arabic	sunni	
+2339	yabrin	NAJ	NAJ	NAJ	bedouin_arabic	sunni	
+234	hampshire	ENG	ENG	ENG	english	catholic	
+2340	grane	ALH	ALH	ALH	bedouin_arabic	sunni	
+2341	sharqiyah	OMA	OMA	OMA	omani_culture	ibadi	
+2342	wusta	OMA	OMA	OMA	omani_culture	ibadi	
+2343	kathiri	ADE	ADE	ADE	yemeni_culture	sunni	
+2344	aljawf	ADE	ADE	ADE	yemeni_culture	shiite	
+2345	ahqaf	ADE	ADE	ADE	yemeni_culture	shiite	
+2346	jazan	HED	HED	HED	bedouin_arabic	sunni	
+2347	hofuf	ALH	ALH	ALH	bedouin_arabic	shiite	
+2348	chios	GEN	GEN	GEN	greek	orthodox	
+2349	kizil	TIM	TIM	TIM,KHI	turkmeni	sunni	
+235	kent	ENG	ENG	ENG	english	catholic	
+2350	konjikala	TIM	TIM	TIM,KHI	turkmeni	sunni	
+2351	shekty	NOG	NOG	KZH,NOG	khazak	sunni	
+2352	alty	SHY	SHY	KZH,SHY	khazak	sunni	
+2353	tortkara	NOG	NOG	KZH,NOG	khazak	sunni	
+2354	shegendyk	SHY	SHY	KZH,SHY	khazak	sunni	
+2355	narym	SHY	SHY	KZH,SHY	khazak	sunni	
+2356	shymkent	TIM	TIM	TIM	uzbehk	sunni	
+2357	aksary	SHY	SHY	KZH,SHY	khazak	sunni	
+2358	altyn	SHY	SHY	KZH,SHY	khazak	sunni	
+2359	baganaly	SHY	SHY	SHY,KZH	khazak	sunni	
+236	london	ENG	ENG	ENG	english	catholic	
+2360	tobykty	SHY	SHY	KZH,SHY	khazak	sunni	
+2361	dzhaman	SHY	SHY	KZH,SHY	khazak	sunni	
+2362	gurganj	TIM	TIM	TIM,KHI	turkmeni	sunni	
+2363	atakent	SHY	SHY	KZH,SHY	khazak	sunni	
+2364	talas	CHG	CHG	CHG	kirgiz	sunni	
+2365	orda	NOG	NOG	NOG	nogaybak	sunni	
+2366	utva	NOG	NOG	NOG	nogaybak	sunni	
+2367	loweryik	NOG	NOG	NOG	nogaybak	sunni	
+2368	karamegdan	CHG	CHG	CHG,KZH	khazak	sunni	
+2369	lowerishim	SHY	SHY	KZH,SHY	khazak	sunni	
+237	oxfordshire	ENG	ENG	ENG	english	catholic	
+2370	kungirot	NOG	NOG	NOG	nogaybak	sunni	
+2371	songla	DAI	DAI	DAI	lao	mahayana	
+2372	haiphong	DAI	DAI	DAI	vietnamese	mahayana	
+2373	hue	DAI	DAI	DAI,ANN	vietnamese	mahayana	
+2374	kauthara	CHA	CHA	CHA	cham	hinduism	
+2375	taynguyen	CHA	CHA	CHA	cham	animism	
+2376	prekrussey	KHM	KHM	KHM	khmer	hinduism	
+2377	teukkhmao	KHM	KHM	KHM	khmer	hinduism	
+2378	kratie	KHM	KHM	KHM	khmer	animism	
+2379	battambang	KHM	KHM	KHM	khmer	buddhism	
+238	essex	ENG	ENG	ENG	english	catholic	
+2380	phnompenh	KHM	KHM	KHM	khmer	buddhism	
+2381	luangnamtha	LXA	LXA	LXA,LUA	lao	buddhism	
+2382	savanhnakhone	LXA	LXA	LXA	lao	buddhism	
+2383	khukhanorsurin	LXA	LXA	LXA	khmer	buddhism	
+2384	nongkhai	LXA	LXA	LXA	lao	buddhism	
+2385	nongbualamphu	LXA	LXA	LXA	lao	buddhism	
+2386	chaiyaphum	LXA	LXA	LXA	khmer	buddhism	
+2387	phetchaburi	AYU	AYU	AYU	central_thai	buddhism	
+2388	phitsanulok	AYU	AYU	AYU,SUK	central_thai	buddhism	
+2389	phrabang	SUK	SUK	SUK	central_thai	buddhism	
+239	gloucestershire	ENG	ENG	ENG	english	catholic	
+2390	chaiya	LIG	LIG	LIG,AYU	central_thai	buddhism	
+2391	thalang	LIG	LIG	LIG,AYU	malayan	sunni	
+2392	selangor	MLC	MLC	MLC,PRK	malayan	sunni	
+2393	terengganu	MLC	MLC	MLC,JOH	malayan	sunni	
+2394	kedah	KED	KED	KED	malayan	sunni	
+2395	hkamtilong	MYA	MYA	MYA,CDL	kachin	animism	
+2396	mongkawng	MYA	MYA	MYA,CDL	kachin	buddhism	
+2397	tamanthi	MYA	MYA	MYA,CDL	shan	buddhism	
+2398	thaungdut	MYA	MYA	MYA	chin	animism	
+2399	pagan	AVA	AVA	AVA	burmese	buddhism	
+24	agder	NOR	NOR	NOR	norwegian	catholic	
+240	marches	ENG	ENG	ENG	english	catholic	
+2400	hsipaw	HSE	HSE	HSE	shan	buddhism	
+2401	mongpai	HSE	HSE	HSE	karen	animism	
+2402	sandoway	ARK	ARK	ARK	arakanese	buddhism	
+2403	martaban	PEG	PEG	PEG	karen	buddhism	
+2404	mergui	AYU	AYU	AYU	mon	buddhism	
+2405	bendery	MOL	MOL	MOL	romanian	orthodox	
+2406	ingil	CRI	CRI	CRI,ZAZ	crimean	sunni	
+2407	pereyaslav	LIT	LIT	LIT,CHR	ruthenian	orthodox	
+2408	lipetsk	GOL	GOL	GOL	mishary	sunni	
+2409	bahmut	GOL	GOL	GOL	mishary	sunni	
+241	glamorgan	ENG	ENG	ENG,WLS	welsh	catholic	
+2410	theodoro	TRE	TRE	TRE	goths	orthodox	
+2411	mansur	CRI	CRI	CRI	crimean	sunni	
+2412	kyzyl	CRI	CRI	CRI	crimean	sunni	
+2413	tyn	CRI	CRI	CRI	crimean	sunni	
+2414	azaraba	CRI	CRI	CRI	crimean	sunni	
+2415	etkara	GOL	GOL	GOL	mishary	sunni	
+2416	majar	GOL	GOL	GOL,AST	astrakhani	sunni	
+2417	kuma	GOL	GOL	GOL,AST	astrakhani	sunni	
+2418	ukek	GOL	GOL	GOL,AST	astrakhani	sunni	
+2419	kanadey	KAZ	KAZ	KAZ	kazani	sunni	
+242	gwynedd	ENG	ENG	ENG,WLS	welsh	catholic	
+2420	agyidel	NOG	NOG	NOG,BSH	bashkir	sunni	
+2421	ar	KAZ	KAZ	KAZ	kazani	sunni	
+2422	veda	KAZ	KAZ	KAZ	kazani	sunni	
+2423	alatyr	MOS	MOS	NZH,MOS	russian	orthodox	
+2424	peremyshl	POL	POL	POL,VOL	ruthenian	orthodox	
+2427	ostyaki	SHY	SHY	SIB,SHY	ostyaki	tengri_pagan_reformed	
+2428	yugan	SHY	SHY	SIB,SHY	ostyaki	sunni	
+2429	agan	SHY	SHY	SIB,SHY	ostyaki	sunni	
+243	lincoln	ENG	ENG	ENG	english	catholic	
+2430	baykha				samoyed	tengri_pagan_reformed	
+2431	uchamin				tungus	tengri_pagan_reformed	
+2432	chulym				tungus	tengri_pagan_reformed	
+2433	vah	SHY	SHY	SHY,SIB	ostyaki	tengri_pagan_reformed	
+2434	barnaul				kirgiz	tengri_pagan_reformed	
+2435	nukhtui				yakut	tengri_pagan_reformed	
+2436	chuna				tungus	tengri_pagan_reformed	
+2437	seganka				tungus	tengri_pagan_reformed	
+2438	kharya				yakut	tengri_pagan_reformed	
+2439	yarmanka				yukagyr	tengri_pagan_reformed	
+244	lancashire	ENG	ENG	ENG	english	catholic	
+2440	kagyrgyn	CHU	CHU	CHU	kamchatkan	tengri_pagan_reformed	
+2441	iglino	SHY	SHY	SIB,SHY	siberian	tengri_pagan_reformed	
+2442	ust				buryat	tengri_pagan_reformed	
+2443	kan				buryat	tengri_pagan_reformed	
+2444	bashgird	KAZ	KAZ	KAZ,BSH	bashkir	sunni	
+2445	mangazea				samoyed	tengri_pagan_reformed	
+2446	chara	BRT	BRT	BRT	buryat	tengri_pagan_reformed	
+2447	mantrega	GEN	GEN	GEN,CIR,CRI	pontic_greek	orthodox	
+2448	fezzan	FZA	FZA	FZA	tunisian	sunni	
+2449	jufra	FZA	FZA	FZA	tunisian	sunni	
+245	yorkshire	ENG	ENG	ENG,NOL	english	catholic	
+2450	ghadames	GHD	GHD	GHD	tunisian	sunni	
+2451	thubaqt	TUN	TUN	TUN,TRP	tunisian	sunni	
+2452	zuwarah	TUN	TUN	TUN,TRP	tunisian	ibadi	
+2453	sfax	TUN	TUN	TUN	tunisian	sunni	
+2454	kairouan	TUN	TUN	TUN	tunisian	sunni	
+2455	bizerte	TUN	TUN	TUN	tunisian	sunni	
+2456	touggourt	TGT	TGT	TGT	algerian	sunni	
+2457	mzab	MZB	MZB	MZB	berber	ibadi	
+2458	kabylia	TUN	TUN	TUN,KBA	algerian	sunni	
+2459	titteri	TLC	TLC	TLC,ALG	algerian	sunni	
+246	northumberland	ENG	ENG	ENG,NOL	english	catholic	
+2460	saoura	MOR	MOR	MOR,TFL	moroccan	sunni	
+2461	dahra	TLC	TLC	TLC,ALG	algerian	sunni	
+2462	ouarsenis	TLC	TLC	TLC,ALG	berber	sunni	
+2463	maaskar	TLC	TLC	TLC	berber	sunni	
+2464	ouarzazate	MOR	MOR	MOR,SOS,TFL	berber	sunni	
+2465	oudja	TLC	TLC	TLC	berber	sunni	
+2466	draa	MOR	MOR	MOR,TFL	moroccan	sunni	
+2467	meknes	MOR	MOR	FEZ,MOR	moroccan	sunni	
+2468	tadla	MOR	MOR	MOR	moroccan	sunni	
+2469	dukkala	MOR	MOR	MOR	moroccan	sunni	
+247	cumbria	ENG	ENG	ENG,NOL	english	catholic	
+2470	haha	MOR	MOR	MOR	berber	sunni	
+2472	ouargla	TGT	TGT	TGT	berber	ibadi	
+2473	souss	TUN	TUN	TUN	tunisian	sunni	
+2474	tajhari				tuareg	sunni	
+2475	djado				tuareg	sunni	
+2476	kumeyaay				piman	totemism	
+2477	yuki				piman	totemism	
+2478	tachi				chinook	totemism	
+2479	maidu				chinook	totemism	
+248	lothian	SCO	SCO	SCO	scottish	catholic	
+2480	shasta				chinook	totemism	
+2481	klamath				chinook	totemism	
+2482	kalapuya				chinook	totemism	
+2483	umatilla				chinook	totemism	
+2484	quileute				salish	totemism	
+2485	chehalis				salish	totemism	
+2486	yakima				salish	totemism	
+2487	spokane				salish	totemism	
+2488	palus				salish	totemism	
+2489	bohogue				shoshone	totemism	
+249	ayrshire	SCO	SCO	SCO	scottish	catholic	
+2490	goshute				shoshone	totemism	
+2491	hualapai				piman	totemism	
+2492	chiricahua				pueblo	totemism	
+2493	hopi				pueblo	totemism	
+2494	zuni				pueblo	totemism	
+2495	acoma	PUE	PUE	PUE	pueblo	totemism	
+2496	jicarilla				navajo	totemism	
+2497	lipiyanes				navajo	totemism	
+2498	jumao				navajo	totemism	
+2499	coahuilteco				chichimecan	totemism	
+25	gotland	DAN	DAN	GOT,DAN,SWE	swedish	catholic	
+250	fife	SCO	SCO	SCO	scottish	catholic	
+2500	querecho				navajo	totemism	
+2501	piegan				blackfoot	totemism	
+2502	haaninin	KIO	KIO	KIO	arapaho	totemism	
+2503	ashshipite				shoshone	totemism	
+2504	eelalapito				shoshone	totemism	
+2505	tsitsistas				shoshone	totemism	
+2506	kuccuntikka				shoshone	totemism	
+2507	baachinena				wichita	totemism	
+2508	skiri				pawnee	totemism	
+2509	utsehta				osage	totemism	
+251	aberdeen	SCO	SCO	SCO,HSC	highland_scottish	catholic	
+2510	mandan				dakota	totemism	
+2511	itscheabine	ARP	ARP	ARP	arapaho	totemism	
+2512	wahpekute				dakota	totemism	
+2513	moingwena				illini	totemism	
+2514	michigamea				illini	totemism	
+2515	satuskhdin				osage	totemism	
+2516	adai				caddo	totemism	
+2517	mdewakanton	SIO	SIO	SIO	dakota	totemism	
+2518	noquet				anishinabe	totemism	
+2519	kilatika				illini	totemism	
+252	inverness	SCO	SCO	SCO,HSC	highland_scottish	catholic	
+2520	mengkonkia				illini	totemism	
+2521	okouara				mesquakie	totemism	
+2522	mascouten				mesquakie	totemism	
+2523	piankeshaw				illini	totemism	
+2524	wabash	SHA	SHA	SHA	shawnee	totemism	
+2525	chillicothe	SHA	SHA	SHA	shawnee	totemism	
+2526	shatteras				shawnee	totemism	
+2527	chickamauga				cherokee	totemism	
+2528	yazoo				chickasaw	totemism	
+2529	natchez				chickasaw	totemism	
+253	westernisles	SCO	SCO	SCO,HSC	highland_scottish	catholic	
+2530	biloxi				choctaw	totemism	
+2531	napochi				chickasaw	totemism	
+2532	tohome	CHO	CHO	CHO	choctaw	totemism	
+2533	chatot				creek	totemism	
+2534	yustaga				creek	totemism	
+2535	calusa				creek	totemism	
+2536	mayaimi				arawak	totemism	
+2537	hitchiti				creek	totemism	
+2538	yamasee				creek	totemism	
+2539	mocama				creek	totemism	
+254	poznan	POL	POL	POL	polish	catholic	
+2540	coweta				creek	totemism	
+2541	saluda				catawba	totemism	
+2542	cusabo				catawba	totemism	
+2543	waccamaw				catawba	totemism	
+2544	yadkin				catawba	totemism	
+2545	waxhaw				catawba	totemism	
+2546	chicora				catawba	totemism	
+2547	roanoke				powhatan	totemism	
+2548	tutelo	CHE	CHE	CHE	cherokee	totemism	
+2549	moratok				powhatan	totemism	
+255	kalisz	POL	POL	POL	polish	catholic	
+2550	doeg				powhatan	totemism	
+2551	monongahela				susquehannock	totemism	
+2552	manahoac				susquehannock	totemism	
+2553	potomac				susquehannock	totemism	
+2554	nanticoke				powhatan	totemism	
+2555	honniasont				susquehannock	totemism	
+2556	juniata				susquehannock	totemism	
+2557	atrakwaye				susquehannock	totemism	
+2558	espachomy				delaware	totemism	
+2559	adirondack				iroquois	totemism	
+256	plock	MAZ	MAZ	MAZ	polish	catholic	
+2560	quinnipiac				pequot	totemism	
+2561	wampanoag				pequot	totemism	
+2562	pennacook				abenaki	totemism	
+2563	missiquoi				abenaki	totemism	
+2564	sokoki				abenaki	totemism	
+2565	kennebec				abenaki	totemism	
+2566	passamaquoddy				abenaki	totemism	
+2567	aroostook				abenaki	totemism	
+2568	kespukwitk	MIK	MIK	MIK	mikmaq	totemism	
+2569	eskikewakik				mikmaq	totemism	
+257	warszawa	MAZ	MAZ	MAZ	polish	catholic	
+2570	wolystoq				mikmaq	totemism	
+2571	madawaska				abenaki	totemism	
+2572	siknikt				mikmaq	totemism	
+2573	placentia				cree	totemism	
+2574	sikumiut				inuit	totemism	
+2575	naskapi				cree	totemism	
+2576	mingan				cree	totemism	
+2577	manicouagan				cree	totemism	
+2578	anticosti				cree	totemism	
+2579	piekougami				cree	totemism	
+258	lodz	POL	POL	POL	polish	catholic	
+2580	atikamekw				cree	totemism	
+2581	timiskaming				cree	totemism	
+2582	maliseet				abenaki	totemism	
+2583	etchemins				huron	totemism	
+2584	loup				huron	totemism	
+2585	kichesipi				anishinabe	totemism	
+2586	tionontate	HUR	HUR	HUR	huron	totemism	
+2587	odawa	OTT	OTT	OTT	anishinabe	totemism	
+2588	piscatang				cree	totemism	
+2589	kesagami	WCR	WCR	WCR	cree	totemism	
+259	sandomierz	POL	POL	POL	polish	catholic	
+2590	shaggami				cree	totemism	
+2591	outoulibi				cree	totemism	
+2592	omushkego				cree	totemism	
+2593	wappus				cree	totemism	
+2594	quenebigon				cree	totemism	
+2595	kesyehotinne				cree	totemism	
+2596	mahmikiwiniyak				cree	totemism	
+2597	sipiwininiwak				cree	totemism	
+2598	hebina				nakota	totemism	
+2599	athabasca				athabascan	totemism	
+26	halland	DAN	DAN	DAN	danish	catholic	
+260	lublin	POL	POL	POL	polish	catholic	
+2600	nihithawak				athabascan	totemism	
+2601	danezaa				athabascan	totemism	
+2602	siksikawa				blackfoot	totemism	
+2603	sekani				athabascan	totemism	
+2604	dakelh				athabascan	totemism	
+2605	secwepemc				athabascan	totemism	
+2606	tsilhoqotin				athabascan	totemism	
+2607	okanagan				salish	totemism	
+2609	nisga'a				chinook	totemism	
+261	halicz	POL	POL	POL,VOL	ruthenian	orthodox	
+2610	heiltsuk				salish	totemism	
+2611	kodiak				aleutian	totemism	
+2612	eyak				haida	totemism	
+2613	sitka				haida	totemism	
+2614	cotoname				chichimecan	nahuatl	
+2615	guamares				piman	nahuatl	
+2616	seri				piman	totemism	
+2617	huichol				piman	nahuatl	
+2618	toboso				piman	animism	
+2619	laguneros				chichimecan	nahuatl	
+262	krakow	POL	POL	POL,KRA	polish	catholic	
+2620	nakipa				piman	totemism	
+2621	tizapan	CLM	CLM	CLM	tecos	nahuatl	
+2622	cuitzeo	TAR	TAR	TAR	purepecha	nahuatl	
+2623	cutzamala	TAR	TAR	TAR	purepecha	nahuatl	
+2624	patzcuaro	TAR	TAR	TAR	purepecha	nahuatl	
+2625	hinonoeino				wichita	totemism	
+2626	tulucan	AZT	AZT	AZT	aztek	nahuatl	
+2627	cihuatlan	TLA	TLA	TLA	tlapanec	nahuatl	
+2628	tepeacac	AZT	AZT	AZT	aztek	nahuatl	
+2629	coyolapan	MIX	MIX	MIX	mixtec	nahuatl	
+263	ratibor	SIL	SIL	SIL	schlesian	catholic	
+2630	tochtepec	ZAP	ZAP	ZAP	zapotek	nahuatl	
+2631	zaachila	ZAP	ZAP	ZAP	zapotek	nahuatl	
+2632	xicallanco	ITZ	ITZ	ITZ	putun	mesoamerican_religion	
+2633	mani	XIU	XIU	XIU	yucatec	mesoamerican_religion	
+2634	uaymil	COC	COC	COC	yucatec	mesoamerican_religion	
+2635	chiapas	ITZ	ITZ	ITZ	putun	mesoamerican_religion	
+2636	chacujal	KIC	KIC	KIC	highland_mayan	mesoamerican_religion	
+2637	chortli				highland_mayan	mesoamerican_religion	
+2638	xoconochco	KIC	KIC	KIC	highland_mayan	mesoamerican_religion	
+2639	raritan				delaware	totemism	
+264	breslau	SIL	SIL	SIL	schlesian	catholic	
+2640	lenca				miskito	animism	
+2641	tziccoac	TOT	TOT	TOT	totonac	nahuatl	
+2642	metztitlan	TOT	TOT	TOT	totonac	nahuatl	
+2643	apatzingan	TAR	TAR	TAR	purepecha	nahuatl	
+2644	cholula	TLX	TLX	TLX	aztek	nahuatl	
+2645	teloloapan	TLA	TLA	TLA	tlapanec	nahuatl	
+2646	coixtlahuacan	MIX	MIX	MIX	mixtec	nahuatl	
+2647	cuetlaxtlan	TOT	TOT	TOT	totonac	nahuatl	
+2648	yopitzinco	TLA	TLA	TLA	tlapanec	nahuatl	
+2649	tehuantepec	ZAP	ZAP	ZAP	zapotek	nahuatl	
+265	moravia	BOH	BOH	BOH	czech	catholic	
+2650	champutun	XIU	XIU	XIU	yucatec	mesoamerican_religion	
+2651	ahcanul	XIU	XIU	XIU	yucatec	mesoamerican_religion	
+2652	ecab	COC	COC	COC	yucatec	mesoamerican_religion	
+2653	iximche	KIC	KIC	KIC	highland_mayan	mesoamerican_religion	
+2654	baracoa				arawak	animism	
+2655	bayamo				arawak	animism	
+2656	camaguey				arawak	animism	
+2657	colima	CLM	CLM	CLM	tecos	nahuatl	
+2658	maguana				arawak	animism	
+2659	magua				arawak	animism	
+266	prague	BOH	BOH	BOH	czech	catholic	
+2660	managua				miskito	animism	
+2661	uluas				miskito	animism	
+2662	olancho				miskito	animism	
+2663	nicoya				muisca	animism	
+2664	veraguas				muisca	animism	
+2665	ais				caddo	totemism	
+2666	tuintsunde				navajo	totemism	
+2667	cacaxtes				chichimecan	totemism	
+2668	borrado				chichimecan	totemism	
+2669	hasinai				caddo	totemism	
+267	plsen	BOH	BOH	BOH	czech	catholic	
+2670	tkaronto	HUR	HUR	HUR	huron	totemism	
+2671	mississage				huron	totemism	
+2672	kitkehaki				pawnee	totemism	
+2673	pasai	PSA	PSA	PSA	sumatran	sunni	
+2674	peureulak	PSA	PSA	PSA	sumatran	sunni	
+2675	rokan	PSA	PSA	PSA	sumatran	sunni	
+2676	indragiri	SAK	SAK	SAK	sumatran	sunni	
+2677	jambi	SAK	SAK	SAK	sumatran	sunni	
+2678	bangka				sumatran	sunni	
+2679	belitung				sumatran	sunni	
+268	moldavia	MOL	MOL	MOL	romanian	orthodox	
+2680	muko	PGR	PGR	PGR	sumatran	buddhism	
+2681	pagarruyung	PGR	PGR	PGR	sumatran	buddhism	
+2682	pariaman	PGR	PGR	PGR	sumatran	sunni	
+2683	mentawai				sumatran	sunni	
+2684	nias				sumatran	sunni	
+2685	gayo	PSA	PSA	PSA	sumatran	sunni	
+2686	bintan	MLC	MLC	MLC,JOH	malayan	sunni	
+2687	pakuan	SUN	SUN	SUN	javanese	hinduism	
+2688	cirebon	SUN	SUN	SUN	javanese	hinduism	
+2689	kendal	MAJ	MAJ	MAJ	javanese	hinduism	
+269	podlasia	LIT	LIT	LIT	polish	catholic	
+2690	pajang	MAJ	MAJ	MAJ	javanese	hinduism	
+2691	kediri	MAJ	MAJ	MAJ	javanese	hinduism	
+2692	madura	MAJ	MAJ	MAJ	javanese	hinduism	
+2693	lombok				papuan	animism	
+2694	eastgangwon	KOR	KOR	KOR	korean	confucianism	
+2695	easttimor				papuan	animism	
+2696	yamdena				moluccan	animism	
+2697	tondo				filipino	animism	
+2698	pangasinan				filipino	animism	
+2699	bikol				filipino	animism	
+27	finland	SWE	SWE	SWE,FIN	swedish	catholic	
+270	troki	LIT	LIT	LIT	lithuanian	catholic	
+2700	panay				filipino	animism	
+2701	tagloc				filipino	animism	
+2702	butuan				filipino	animism	
+2703	lehaddatu	BEI	BEI	BEI	bornean	sunni	
+2704	sibu	BEI	BEI	BEI	bornean	sunni	
+2705	kuching	BEI	BEI	BEI	bornean	sunni	
+2706	katapang				bornean	sunni	
+2707	barito				bornean	hinduism	
+2708	sampit				bornean	hinduism	
+2709	tarakan	KUT	KUT	KUT	bornean	hinduism	
+271	samogitia	LIT	LIT	LIT	lithuanian	catholic	
+2710	berau	KUT	KUT	KUT	bornean	hinduism	
+2711	bulungan	KUT	KUT	KUT	bornean	hinduism	
+2712	samarinda	KUT	KUT	KUT	bornean	hinduism	
+2713	gorontalo				sulawesi	animism	
+2714	palu				sulawesi	animism	
+2715	palopo	LUW	LUW	LUW	sulawesi	animism	
+2716	buton	BTN	BTN	BTN	sulawesi	animism	
+2717	sula				moluccan	animism	
+2718	fak				papuan	animism	
+2719	madang				papuan	animism	
+272	lithuania	LIT	LIT	LIT	lithuanian	catholic	
+2720	lae				papuan	animism	
+2721	kerema				papuan	animism	
+2722	daru				papuan	animism	
+2723	yossudarso				papuan	animism	
+2724	asmat				papuan	animism	
+2725	aru				moluccan	animism	
+2726	malgana				aboriginal	animism	
+2727	minang				aboriginal	animism	
+2728	tiwi				aboriginal	animism	
+2729	yolngu				aboriginal	animism	
+273	latgalia	LIV	LIV	LIV,LVA	latvian	catholic	
+2730	awngthim				aboriginal	animism	
+2731	guuguyimithirr				aboriginal	animism	
+2732	wulgurukaba				aboriginal	animism	
+2733	baiali				aboriginal	animism	
+2734	yuin				aboriginal	animism	
+2735	gunditjmara				aboriginal	animism	
+2736	nukunu				aboriginal	animism	
+2737	ahuriri				polynesian	animism	
+2738	waitaha				polynesian	animism	
+2739	kirikiriroa				polynesian	animism	
+274	pskov	PSK	PSK	PSK	novgorodian	orthodox	
+2741	jeju	KOR	KOR	KOR	korean	confucianism	
+2742	yukjin	KOR	KOR	KOR	korean	confucianism	
+2743	northhamgyeong	KOR	KOR	KOR	korean	confucianism	
+2744	northpyongan	KOR	KOR	KOR	korean	confucianism	
+2745	eastgyeongsang	KOR	KOR	KOR	korean	confucianism	
+2746	vidin	TUR	TUR	TUR,BUL	bulgarian	orthodox	
+2747	kharanarinula	KHA	KHA	KHA	mongol	vajrayana	
+2748	jianchang	MNG	MNG	MNG,CYI,CDL,CXI	yi	animism	
+2749	tikhvin	NOV	NOV	NOV	novgorodian	orthodox	
+275	polotsk	LIT	LIT	PLT,LIT	byelorussian	orthodox	
+2750	plovdiv	TUR	TUR	TUR,BUL	bulgarian	orthodox	
+2751	cuenca	CAS	CAS	CAS	castillian	catholic	
+2752	sogn	NOR	NOR	NOR	norwegian	catholic	
+2753	narbonne	FRA	FRA	FRA,TOU	occitain	catholic	
+2754	lamancha	CAS	CAS	CAS	castillian	catholic	
+2755	soria	CAS	CAS	CAS	castillian	catholic	
+2756	welayta	WLY	WLY	WLY	sidamo	shamanism	
+2757	kaffa	KAF	KAF	KAF	sidamo	coptic	
+2758	illubabor	ENA	ENA	ENA	sidamo	coptic	
+2759	gambela	KAF	KAF	KAF	sidamo	shamanism	
+276	minsk	LIT	LIT	LIT	byelorussian	orthodox	
+2760	hadiya	HDY	HDY	HDY	sidamo	sunni	
+2761	arsi	HDY	HDY	HDY	amhara	sunni	
+2762	damot	DAM	DAM	DAM	amhara	coptic	
+2763	asosa	DAM	DAM	DAM	amhara	coptic	
+2764	aussa	ADA	ADA	ADA,AFA	afar	sunni	
+2765	assab	ADA	ADA	ADA,AFA	afar	sunni	
+2766	mendefera	MED	MED	MED	tigray	coptic	
+2767	enderta	ETH	ETH	ETH	tigray	coptic	
+2768	angot	ETH	ETH	ETH	afar	sunni	
+2769	lasta	ETH	ETH	ETH	amhara	coptic	
+277	brest	LIT	LIT	LIT	byelorussian	orthodox	
+2770	agew	ETH	ETH	ETH	amhara	coptic	
+2771	semien	ETH	ETH	ETH,BTI	amhara	jewish	
+2772	dembiya	ETH	ETH	ETH,BTI	amhara	jewish	
+2773	mora	ADA	ADA	ADA,HAR	harari	sunni	
+2774	kismayo	AJU	AJU	AJU	somali	sunni	
+2775	merca	AJU	AJU	AJU	somali	sunni	
+2776	afgooye	AJU	AJU	AJU	somali	sunni	
+2777	bardera	AJU	AJU	AJU	somali	sunni	
+2778	werder	MRE	MRE	MRE	somali	sunni	
+2779	afder				somali	sunni	
+278	pinsk	LIT	LIT	LIT	byelorussian	orthodox	
+2780	beledweyne	AJU	AJU	AJU,HOB	somali	sunni	
+2781	gedo	AJU	AJU	AJU	somali	sunni	
+2782	warsheikh	MDI	MDI	MDI	somali	sunni	
+2783	hobyo	AJU	AJU	AJU,HOB	somali	sunni	
+2784	galkayo	MRE	MRE	MRE,MJE	somali	sunni	
+2785	elbuur	AJU	AJU	AJU,HOB	somali	sunni	
+2786	bosaso	WAR	WAR	WAR	somali	sunni	
+2787	hamasien	MED	MED	MED	tigray	coptic	
+2788	hafun	MRE	MRE	MRE,MJE	somali	sunni	
+2789	laskhorey	WAR	WAR	WAR	somali	sunni	
+279	volhynia	LIT	LIT	VOL,LIT	ruthenian	orthodox	
+2790	sanaag	WAR	WAR	WAR	somali	sunni	
+2791	ankober	ETH	ETH	ETH,SOA	amhara	sunni	
+2792	togdheer	WAR	WAR	WAR	somali	sunni	
+2793	hargeisa	ADA	ADA	ADA	somali	sunni	
+2794	barawa	AJU	AJU	AJU	somali	sunni	
+2795	meregh	AJU	AJU	AJU,HOB	somali	sunni	
+2796	pate	PTE	PTE	PTE	swahili	sunni	
+2797	shendy	ABB	ABB	ABB,ALO	nubian	sunni	
+2798	soba	ALO	ALO	ALO	nubian	coptic	
+2799	sennar	ALO	ALO	ALO	nubian	coptic	
+28	nyland	SWE	SWE	SWE,FIN	finnish	catholic	
+280	kiev	LIT	LIT	KIE,LIT	ruthenian	orthodox	
+2800	kosti				nubian	shamanism	
+2801	medwa			DAR	nubian	shamanism	
+2802	kobbe			DAR	nubian	shamanism	
+2803	delta				carib	animism	
+2804	guasipati				carib	animism	
+2805	uyapari	CAB	CAB	CAB	carib	animism	
+2806	guajira				guajiro	animism	
+2807	altagracia				carib	animism	
+2808	coro				guajiro	animism	
+2809	llanos				guajiro	animism	
+281	kamienec	POL	POL	VOL,POL	ruthenian	orthodox	
+2810	apure				guajiro	animism	
+2811	atabapo				guajiro	animism	
+2812	pore				carib	animism	
+2813	merida				carib	animism	
+2814	meta				carib	animism	
+2815	puertocarreno				guajiro	animism	
+2816	guavire				guajiro	animism	
+2817	neiva	MCA	MCA	MCA	muisca	inti	
+2818	popayan				muisca	inti	
+2819	darien				muisca	animism	
+282	yedisan	CRI	CRI	CRI,ZAZ	crimean	sunni	
+2820	esmeraldas	QTO	QTO	QTO	cara	inti	
+2821	piwra	CHM	CHM	CHM	chimuan	inti	
+2822	tucume	CHM	CHM	CHM	chimuan	inti	
+2823	moyobamba	CYA	CYA	CYA	chachapoyan	inti	
+2824	wankapampa	CJA	CJA	CJA	inca	inti	
+2825	pisqupampa	HJA	HJA	HJA	inca	inti	
+2826	chimbote	CHM	CHM	CHM	chimuan	inti	
+2827	huaraz	HJA	HJA	HJA	inca	inti	
+2828	camana				aimara	inti	
+2829	ayaviri	CSU	CSU	CSU	aimara	inti	
+283	zaporozhia	CRI	CRI	CRI,ZAZ	crimean	sunni	
+2830	quero	CSU	CSU	CSU	inca	inti	
+2831	tiahuanaco	PCJ	PCJ	PCJ	aimara	inti	
+2832	exaltacion				maipurean	animism	
+2833	madrededios				maipurean	animism	
+2834	santacruzdelasierra				guarani	animism	
+2835	sucre	CRA	CRA	CRA	aimara	inti	
+2836	tucuman				diaguita	animism	
+2837	santacatalina	CCQ	CCQ	CCQ	diaguita	inti	
+2838	tarija	CCQ	CCQ	CCQ	aimara	inti	
+2839	punadeatacama				diaguita	animism	
+284	crimea	CRI	CRI	CRI	crimean	sunni	
+2840	calama				diaguita	animism	
+2841	antofagasta				diaguita	animism	
+2842	santiagodelestero				diaguita	animism	
+2843	larioja				huarpe	animism	
+2844	chepes				huarpe	animism	
+2845	sanjuan				huarpe	animism	
+2846	quisquisacate				huarpe	animism	
+2847	sanluis				huarpe	animism	
+2848	santafe				charruan	animism	
+2849	rosario				charruan	animism	
+285	kaffa	GEN	GEN	GEN	pontic_greek	orthodox	
+2850	montevideo				charruan	animism	
+2851	colonia				charruan	animism	
+2852	salto				charruan	animism	
+2853	yareyu				guarani	animism	
+2854	chacocentral				chacoan	animism	
+2855	misiones				guarani	animism	
+2856	highveld				nguni	shamanism	
+2857	riograndedosul				guarani	animism	
+2858	santiago				guarani	animism	
+2859	itapua				guarani	animism	
+286	azow	GEN	GEN	GEN	crimean	sunni	
+2860	querandi				het	animism	
+2861	sauce				het	animism	
+2862	coquimbo				mapuche	animism	
+2863	rionegro				het	animism	
+2864	senqu				khoisan	shamanism	
+2865	sergpipe				het	animism	
+2866	jeremoabo				het	animism	
+2867	inhambupe				het	animism	
+2868	pambu				het	animism	
+2869	floridablanca				patagonian	animism	
+287	kouban	CRI	CRI	CRI	crimean	sunni	
+2870	tehuelmapu				patagonian	animism	
+2871	poya				patagonian	animism	
+2872	chiquiyami				huarpediscovered_by	animism	
+2873	chiloe				mapuche	animism	
+2874	alegoas				patagonian	animism	
+2875	borborema				patagonian	animism	
+2876	teush				patagonian	animism	
+2877	mendoza				huarpe	animism	
+2878	matara				chacoan	animism	
+2879	santatecla				guarani	animism	
+288	cherkassk	GOL	GOL	GOL	mishary	sunni	
+2880	griqualand				khoisan	shamanism	
+2881	corumba				maipurean	animism	
+2882	fuerteborbon				chacoan	animism	
+2883	melodia				chacoan	animism	
+2884	povosdasmissoes	GUA	GUA	GUA	guarani	animism	
+2885	barra				ge	animism	
+2886	parnaiba				ge	animism	
+2887	santacatarina				guarani	animism	
+2888	cuiaba				ge	animism	
+2889	riobranco				carib	animism	
+289	chernigov	LIT	LIT	CHR,LIT	ryazanian	orthodox	
+2890	marajo				tupinamba	animism	
+2891	santaanadasminas				ge	animism	
+2892	araxas				ge	animism	
+2893	ofaie				ge	animism	
+2894	saojoaodelrei				tupinamba	animism	
+2895	castro				guarani	animism	
+2896	campinas				tupinamba	animism	
+2897	araraquara				ge	animism	
+2898	serro				ge	animism	
+2899	vilarica				ge	animism	
+29	tavastland	SWE	SWE	SWE,FIN	finnish	catholic	
+290	poltava	LIT	LIT	CHR,LIT	ruthenian	orthodox	
+2900	guapore				maipurean	animism	
+2901	cerejeiras				maipurean	animism	
+2902	vilabela				guarani	animism	
+2903	caceres				maipurean	animism	
+2904	diamantino				carib	animism	
+2905	riodasmortes				ge	animism	
+2906	ipora				ge	animism	
+2907	vilaboa				ge	animism	
+2908	arrialdoscouros				ge	animism	
+2909	conceicao				ge	animism	
+291	kharkov	CRI	CRI	CHR,CRI	ryazanian	orthodox	
+2910	pontal				ge	animism	
+2911	natividad				ge	animism	
+2912	sergpipe				tupinamba	animism	
+2913	jeremoabo				ge	animism	
+2914	inhambupe				ge	animism	
+2915	pambu				ge	animism	
+2916	riocontas				tupinamba	animism	
+2917	paratinga				ge	animism	
+2918	campolargo				ge	animism	
+2919	luziana				ge	animism	
+292	mogilyov	LIT	LIT	LIT,PLT	byelorussian	orthodox	
+2920	coxim				ge	animism	
+2921	alagoas				tupinamba	animism	
+2922	borborema				ge	animism	
+2923	pastosbons				ge	animism	
+2924	timon				ge	animism	
+2925	parnagua				ge	animism	
+2926	grajau				ge	animism	
+2927	alcantara				ge	animism	
+2928	tucurui				tupinamba	animism	
+2929	para				tupinamba	animism	
+293	smolensk	SMO	SMO	SMO	ryazanian	orthodox	
+2930	santarem				tupinamba	animism	
+2931	alenquer				carib	animism	
+2932	obidos				nubian	shamanism	
+2933	faro				carib	animism	
+2934	manaus				tupinamba	animism	
+2935	muturu				tupinamba	animism	
+2937	suriname				carib	animism	
+2938	oiapoque				guajiro	animism	
+2939	zaraza				carib	animism	
+294	tver	TVE	TVE	TVE	russian	orthodox	
+2940	chichas	PCJ	PCJ	PCJ	aimara	inti	
+2941	choquechaca	CRA	CRA	CRA	aimara	inti	
+2942	charcas	CRA	CRA	CRA	aimara	inti	
+2943	chachapoyas	CYA	CYA	CYA	chachapoyan	inti	
+2944	ucayali				maipurean	inti	
+2945	yurimaguas				jivaro	animism	
+2946	quillacas	PCJ	PCJ	PCJ	aimara	inti	
+2947	macaya	CLA	CLA	CLA	aimara	inti	
+2948	matamba	NDO	NDO	NDO	mbundu	shamanism	
+2949	mbata	KON	KON	KON	kongolese	shamanism	
+295	moskva	MOS	MOS	MOS	russian	orthodox	
+2950	buhera	ZIM	ZIM	ZIM	shona	shamanism	
+2951	manikya	ZIM	ZIM	ZIM	shona	shamanism	
+2952	madanda	ZIM	ZIM	ZIM	shona	shamanism	
+2954	djerba	TUN	TUN	TUN,TRP	tunisian	ibadi	
+2955	ingolstadt	BAV	BAV	BAV	bavarian	catholic	
+2956	straubing	BAV	BAV	BAV	bavarian	catholic	
+2957	regensburg	BAV	BAV	BAV	bavarian	catholic	
+2958	osterode	TEU	TEU	TEU	prussian	catholic	
+2959	tarnow	POL	POL	POL	polish	catholic	
+296	mozhaisk	MOS	MOS	MOS	russian	orthodox	
+2960	sadecki	POL	POL	POL	polish	catholic	
+2961	lwow	POL	POL	POL,VOL	ruthenian	orthodox	
+2962	rowne	LIT	LIT	VOL,LIT	ruthenian	orthodox	
+2963	notec	POL	POL	POL	polish	catholic	
+2964	altmark	BRA	BRA	BRA	saxon	catholic	
+2965	vogtland	SAX	SAX	SAX	saxon	catholic	
+2966	leignitz	SIL	SIL	SIL	schlesian	catholic	
+2967	eger	BOH	BOH	BOH	czech	catholic	
+2968	budejovice	BOH	BOH	BOH	czech	catholic	
+2969	sternberg	BRA	BRA	BRA	saxon	catholic	
+297	bryansk	LIT	LIT	LIT,SMO	ryazanian	orthodox	
+2970	hradecko	BOH	BOH	BOH	czech	catholic	
+2971	hoya	BRU	BRU	BRU	hannoverian	catholic	
+2972	paderborn	KOL	KOL	KOL	hannoverian	catholic	
+2973	meppen	MUN	MUN	MUN	hannoverian	catholic	
+2974	loon	LIE	LIE	LIE	flemish	catholic	
+2975	kleves	KLE	KLE	KLE	hessian	catholic	
+2976	umbria	PAP	PAP	PAP	umbrian	catholic	
+2977	urbino	URB	URB	URB	umbrian	catholic	
+2978	arezzo	LAN	LAN	LAN	tuscan	catholic	
+2979	novarra	MLO	MLO	MLO	lombard	catholic	
+298	kursk	LIT	LIT	CHR,LIT	ryazanian	orthodox	
+2980	lucca	LUC	LUC	LUC	tuscan	catholic	
+2981	montferrat	MFA	MFA	MFA	piedmontese	catholic	
+2982	syracuse	SIC	SIC	SIC,NAP	sicilian	catholic	
+2983	salerno	NAP	NAP	NAP	neapolitan	catholic	
+2984	costenza	NAP	NAP	NAP	neapolitan	catholic	
+2985	capitanata	NAP	NAP	NAP	neapolitan	catholic	
+2986	cagliari	SAR	SAR	SAR	sardinian	catholic	
+2987	urgell	ARA	ARA	ARA,CAT	catalan	catholic	
+2988	tarragona	ARA	ARA	ARA,CAT	catalan	catholic	
+2989	rioja	CAS	CAS	CAS	castillian	catholic	
+299	voronezh	GOL	GOL	GOL	mishary	sunni	
+2990	teruel	ARA	ARA	ARA	aragonese	catholic	
+2991	draguignan	PRO	PRO	PRO	occitain	catholic	
+2992	albenga	GEN	GEN	GEN	ligurian	catholic	
+2993	uckermark	BRA	BRA	BRA	pommeranian	catholic	
+2994	greifswald	POM	POM	POM	pommeranian	catholic	
+2995	stolp	POM	POM	POM	pommeranian	catholic	
+2996	wismar	MKL	MKL	MKL	pommeranian	catholic	
+2997	pomorskie	TEU	TEU	TEU	prussian	catholic	
+2998	buzau	WAL	WAL	WAL	romanian	orthodox	
+2999	hormuz	ORM	ORM	ORM	bedouin_arabic	sunni	
+3	kalmar	SWE	SWE	SWE	swedish	catholic	
+30	viborg	SWE	SWE	SWE,FIN	finnish	catholic	
+300	tula	RYA	RYA	RYA	ryazanian	orthodox	
+3000	nis	SER	SER	SER	serbian	orthodox	
+3001	skopje	TUR	TUR	TUR,BUL,SER	serbian	orthodox	
+3002	sarajevo	BOS	BOS	BOS	serbian	orthodox	
+3003	euboea	VEN	VEN	VEN	greek	orthodox	
+301	ryazan	RYA	RYA	RYA	ryazanian	orthodox	
+302	tambow	GOL	GOL	GOL	mishary	sunni	
+303	saratow	GOL	GOL	GOL	mishary	sunni	
+304	pensa	KAZ	KAZ	KAZ	kazani	sunni	
+305	perm	KAZ	KAZ	KAZ,PRM	uralic	tengri_pagan_reformed	
+306	nijni	MOS	MOS	NZH,MOS	russian	orthodox	
+307	vladimir	MOS	MOS	MOS	russian	orthodox	
+308	yaroslavl	YAR	YAR	YAR	russian	orthodox	
+309	olonets	NOV	NOV	NOV	karelian	orthodox	
+31	savolaks	SWE	SWE	SWE,FIN	finnish	catholic	
+310	novgorod	NOV	NOV	NOV	novgorodian	orthodox	
+311	kholm	NOV	NOV	NOV	novgorodian	orthodox	
+312	vologda	MOS	MOS	MOS	novgorodian	orthodox	
+313	soroka	NOV	NOV	NOV	novgorodian	orthodox	
+314	vologda	MOS	MOS	MOS,NOV	russian	orthodox	NOV
+315	finnmark	NOR	NOR	NOR	sapmi	catholic	
+316	kocaeli	TUR	TUR	TUR	turkish	sunni	
+317	hudavendigar	TUR	TUR	TUR	turkish	sunni	
+318	sugla	AYD	AYD	AYD	turkish	sunni	
+319	mentese	TUR	TUR	MEN,TUR	turkish	sunni	
+32	keksholm	NOV	NOV	NOV	karelian	orthodox	
+320	rhodes	KNI	KNI	KNI	greek	orthodox	
+321	cyprus	CYP	CYP	CYP	greek	orthodox	
+322	kutahya	TUR	TUR	TUR,GRM	turkish	sunni	
+323	konya	KAR	KAR	KAR	turkish	sunni	
+324	karaman	KAR	KAR	KAR	turkish	sunni	
+325	kastamonu	CND	CND	CND	turkish	sunni	
+326	ankara	TUR	TUR	TUR,GRM	turkish	sunni	
+327	adana	RAM	RAM	RAM	turkish	sunni	
+328	sinop	CND	CND	CND	turkish	sunni	
+329	sivas	TUR	TUR	TUR,ERE	turkish	sunni	
+33	neva	NOV	NOV	NOV	karelian	orthodox	
+330	trebizond	TRE	TRE	TRE	pontic_greek	orthodox	
+331	erzurum	TIM	TIM	TIM	armenian	coptic	
+332	marash	DUL	DUL	DUL	turkish	sunni	
+333	thebaleares	ARA	ARA	ARA,CAT	catalan	catholic	
+334	tangiers	MOR	MOR	MOR	moroccan	sunni	
+335	mellila	MOR	MOR	FEZ,MOR	berber	sunni	
+336	tlemcen	TLC	TLC	TLC	berber	sunni	
+337	oran	TLC	TLC	TLC	algerian	sunni	
+338	al	TUN	TUN	TUN,ALG	algerian	sunni	
+339	bejaia	TUN	TUN	TUN,KBA	berber	sunni	
+34	ingermanland	NOV	NOV	NOV	novgorodian	orthodox	
+340	constantine	TUN	TUN	TUN	berber	sunni	
+341	tunis	TUN	TUN	TUN	tunisian	sunni	
+342	toubkhal	MOR	MOR	MOR	moroccan	sunni	
+343	fez	MOR	MOR	MOR,FEZ	moroccan	sunni	
+344	marrakech	MOR	MOR	MOR	moroccan	sunni	
+345	safi	MOR	MOR	MOR	moroccan	sunni	
+346	figuig	MOR	MOR	MOR,TFL	moroccan	sunni	
+347	ifni	MOR	MOR	MOR,SOS	berber	sunni	
+348	sus	MOR	MOR	MOR,SOS,TFL	berber	sunni	
+349	atlas	TLC	TLC	TLC,TFL	berber	sunni	
+35	osel	LIV	LIV	LIV,EST	estonian	catholic	
+350	aures	MZB	MZB	MZB	algerian	sunni	
+351	biskra	TGT	TGT	TGT	berber	sunni	
+352	gafsa	GHD	GHD	GHD	tunisian	sunni	
+353	gabes	TUN	TUN	TUN,TRP	tunisian	sunni	
+354	tripolitania	TUN	TUN	TUN,TRP	tunisian	sunni	
+355	sirt	FZA	FZA	FZA,TRP	tunisian	sunni	
+356	benghazi	MAM	MAM	MAM	al_misr_arabic	sunni	
+357	darnah	MAM	MAM	MAM	al_misr_arabic	sunni	
+358	alexandria	MAM	MAM	MAM	al_misr_arabic	sunni	
+359	faiyum	MAM	MAM	MAM	al_misr_arabic	sunni	
+36	estland	LIV	LIV	LIV,EST	estonian	catholic	
+360	qena	MAM	MAM	MAM	al_misr_arabic	sunni	
+361	cairo	MAM	MAM	MAM	al_misr_arabic	sunni	
+362	rosetta	MAM	MAM	MAM	al_misr_arabic	sunni	
+363	damietta	MAM	MAM	MAM	al_misr_arabic	sunni	
+364	gaza	MAM	MAM	MAM	al_suryah_arabic	sunni	
+365	sinai	MAM	MAM	MAM	bedouin_arabic	sunni	
+366	thecanarias				berber	animism	
+367	theazores				berber	animism	
+368	madeira				berber	animism	
+369	orkney	NOR	NOR	NOR	norwegian	catholic	
+37	livland	LIV	LIV	LIV,LVA	latvian	catholic	
+370	reykjavik	NOR	NOR	NOR,ICE	norwegian	catholic	
+371	akureyri	NOR	NOR	NOR,ICE	norwegian	catholic	
+372	tyrone	TYR	TYR	TYR	irish	catholic	
+373	meath	ENG	ENG	ENG,MTH	irish	catholic	
+374	leinster	LEI	LEI	LEI	irish	catholic	
+375	munster	MNS	MNS	MNS	irish	catholic	
+376	connaught	CNN	CNN	CNN	irish	catholic	
+377	aleppo	MAM	MAM	SYR,MAM	al_suryah_arabic	sunni	
+378	tripoli	MAM	MAM	LEB,SYR,MAM	al_suryah_arabic	sunni	
+379	jerusalem	MAM	MAM	MAM	al_suryah_arabic	sunni	
+38	riga	RIG	RIG	RIG	prussian	catholic	
+380	alkarak	MAM	MAM	MAM	bedouin_arabic	sunni	
+381	ajlun	MAM	MAM	MAM	al_suryah_arabic	sunni	
+382	damascus	MAM	MAM	SYR,MAM	al_suryah_arabic	sunni	
+383	tabuk	HED	HED	HED	bedouin_arabic	sunni	
+384	medina	HED	HED	HED	bedouin_arabic	sunni	
+385	mecca	HED	HED	HED	bedouin_arabic	sunni	
+386	asir	HED	HED	HED	bedouin_arabic	sunni	
+387	mokha	ADE	ADE	ADE	yemeni_culture	sunni	
+388	aden	ADE	ADE	ADE	yemeni_culture	sunni	
+389	kinda	ADE	ADE	ADE	yemeni_culture	sunni	
+39	kurland	LIV	LIV	LIV	latvian	catholic	
+390	sanaa	ADE	ADE	ADE	yemeni_culture	shiite	
+391	najran	ADE	ADE	ADE	yemeni_culture	shiite	
+392	al	NAJ	NAJ	NAJ	bedouin_arabic	sunni	
+393	jabalshammar	SHM	SHM	SHM	bedouin_arabic	sunni	
+394	elcatif	ALH	ALH	ALH	bedouin_arabic	shiite	
+395	qatar	ALH	ALH	ALH,ORM	bedouin_arabic	shiite	
+396	bahrain	ALH	ALH	ALH,ORM	bedouin_arabic	shiite	
+397	baniyas	NAJ	NAJ	NAJ,SHR	bedouin_arabic	shiite	
+398	qawasim	OMA	OMA	OMA,SHR	bedouin_arabic	ibadi	
+399	suhar	OMA	OMA	OMA	omani_culture	ibadi	
+4	bergslagen	SWE	SWE	SWE	swedish	catholic	
+40	memel	TEU	TEU	TEU	prussian	catholic	
+400	muscat	OMA	OMA	OMA	omani_culture	ibadi	
+401	dhofar	OMA	OMA	OMA	omani_culture	ibadi	
+402	mahra	ADE	ADE	ADE	yemeni_culture	sunni	
+4020	comoros				madagasque	sunni	
+4021	antankara	BTS	BTS	BTS	madagasque	shamanism	
+4022	iboina	SKA	SKA	SKA	madagasque	shamanism	
+4023	tsimihety	BTS	BTS	BTS	madagasque	shamanism	
+4024	maroantsetra	BTS	BTS	BTS	madagasque	shamanism	
+4025	vatomandry	BTS	BTS	BTS	madagasque	shamanism	
+4026	antemoro	ANT	ANT	ANT	madagasque	sunni	
+4027	betsileo	MIR	MIR	MIR	madagasque	shamanism	
+4028	mahafaly	MFY	MFY	MFY	madagasque	shamanism	
+4029	antanosy	ANT	ANT	ANT	madagasque	sunni	
+403	nizwa	OMA	OMA	OMA	omani_culture	ibadi	
+4030	bara	MIR	MIR	MIR	madagasque	shamanism	
+4031	antsalova	SKA	SKA	SKA	madagasque	shamanism	
+4032	fiherana	SKA	SKA	SKA	madagasque	shamanism	
+4033	alqadirif	ALO	ALO	ALO	nubian	sunni	
+4034	makua	MKU	MKU	MKU	makua	shamanism	
+4035	ngindo				makua	shamanism	
+4036	wayao				makua	shamanism	
+4037	katsekera	MRA	MRA	MRA	nyasa	shamanism	
+4038	lolo	MKU	MKU	MKU	nyasa	shamanism	
+4039	lundu	LDU	LDU	LDU	nyasa	shamanism	
+404	liwa	NAJ	NAJ	NAJ	bedouin_arabic	shiite	
+4040	kalonga	MRA	MRA	MRA	nyasa	shamanism	
+4041	kinga				bena	shamanism	
+4042	makonde				makua	shamanism	
+4043	phangwa				nyasa	shamanism	
+4044	ngonde	TBK	TBK	TBK	nyasa	shamanism	
+4045	tumbuka	TBK	TBK	TBK	nyasa	shamanism	
+4046	lala				bemba	shamanism	
+4047	nsenga	LDU	LDU	LDU	nyasa	shamanism	
+4048	lomwe	MRA	MRA	MRA	makua	shamanism	
+4049	ibo	ZAN	ZAN	ZAN	swahili	sunni	
+405	tadmor	MAM	MAM	MAM,SYR	al_suryah_arabic	sunni	
+4050	luangwa				bemba	shamanism	
+4051	ewasongiro				somali	sunni	
+4052	dawa				somali	sunni	
+4053	turkana				acholi	shamanism	
+4054	kuria				masaba	shamanism	
+4055	shamba				swahili	shamanism	
+4056	gogo				takama	shamanism	
+4057	nyatura				takama	shamanism	
+4058	zigua				swahili	shamanism	
+4059	shaga				masaba	shamanism	
+406	assahiliyah	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	sunni	
+4060	kikuyu				bantu	shamanism	
+4061	buzinza	KRW	KRW	KRW	takama	shamanism	
+4062	basoga	BSG	BSG	BSG	masaba	shamanism	
+4063	karagwe	KRW	KRW	KRW	ganda	shamanism	
+4064	buganda	BUG	BUG	BUG	ganda	shamanism	
+4065	bunyoro	BNY	BNY	BNY	ganda	shamanism	
+4066	ndorwe	NKO	NKO	NKO	ganda	shamanism	
+4067	nduga	RWA	RWA	RWA	rwandan	shamanism	
+4068	buzozo	RWA	RWA	RWA	rwandan	shamanism	
+4069	bushubi	UBH	UBH	UBH	rwandan	shamanism	
+407	arraqqa	MAM	MAM	SYR,MAM	al_suryah_arabic	sunni	
+4070	nkoma	BUU	BUU	BUU	rwandan	shamanism	
+4071	buyogoma	UBH	UBH	UBH	rwandan	shamanism	
+4072	ruguru	UBH	UBH	UBH	rwandan	shamanism	
+4073	hehe				bena	shamanism	
+4074	pubungo	BNY	BNY	BNY	acholi	shamanism	
+4075	lango				acholi	shamanism	
+4076	muhambwe				takama	shamanism	
+4077	rukwa				bena	shamanism	
+4078	mayumba	LOA	LOA	LOA	kongolese	shamanism	
+4079	ngoyo	KON	KON	KON,SYO	kongolese	shamanism	
+408	basra	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	sunni	
+4080	soyo	KON	KON	KON,SYO	kongolese	shamanism	
+4081	tyo	KON	KON	KON	kongolese	shamanism	
+4082	kasanje	KSJ	KSJ	KSJ	mbangala	shamanism	
+4083	shinje	KSJ	KSJ	KSJ	mbangala	shamanism	
+4084	malem	KSJ	KSJ	KSJ	mbangala	shamanism	
+4085	yaka	YAK	YAK	YAK	yaka	shamanism	
+4086	nunu	KUB	KUB	KUB	kuba	shamanism	
+4087	kumbana	YAK	YAK	YAK	yaka	shamanism	
+4088	munene	KUB	KUB	KUB	kuba	shamanism	
+4089	kuba	KUB	KUB	KUB	kuba	shamanism	
+409	hillah	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	shiite	
+4090	songye	KLD	KLD	KLD	luba	shamanism	
+4091	mpasu	LND	LND	LND	lunda	shamanism	
+4092	rund	LND	LND	LND	lunda	shamanism	
+4093	lwena	LND	LND	LND	lunda	shamanism	
+4094	chokwe	CKW	CKW	CKW	chokwe	shamanism	
+4095	ishindi	CKW	CKW	CKW	chokwe	shamanism	
+4096	kalundwe	KLD	KLD	KLD	luba	shamanism	
+4097	luba	LUB	LUB	LUB	luba	shamanism	
+4098	upemba	KIK	KIK	KIK	luba	shamanism	
+4099	hemba	LUB	LUB	LUB	luba	shamanism	
+41	konigsberg	TEU	TEU	TEU	prussian	catholic	
+410	baghdad	QAR	QAR	IRQ,QAR	al_iraqiya_arabic	sunni	
+4100	luapala	KZB	KZB	KZB	luba	shamanism	
+4101	lualaba	KZB	KZB	KZB	luba	shamanism	
+4102	bemba				bemba	shamanism	
+4103	tabwa	KZB	KZB	KZB	luba	shamanism	
+4104	lamba				bemba	shamanism	
+4105	kusu	LUB	LUB	LUB	luba	shamanism	
+4106	lenje				bemba	shamanism	
+4107	kanongesha	KIK	KIK	KIK	luba	shamanism	
+4108	kaonde				bemba	shamanism	
+4109	lega				luba	shamanism	
+411	mosul	QAR	QAR	IRQ,QAR,BHT	kurdish	sunni	
+4110	sutherland	SCO	SCO	SCO,HSC	highland_scottish	catholic	
+4111	saintonge	FRA	FRA	FRA	cosmopolitan_french	catholic	
+4112	cahors	FRA	FRA	FRA,GUY	gascon	catholic	
+4113	rovaniemi	SWE	SWE	SWE	finnish	catholic	
+4114	northernlappmarks				sapmi	catholic	
+4115	mazyr	LIT	LIT	LIT	byelorussian	orthodox	
+4116	upperoka	OKA	OKA	OKA	ryazanian	orthodox	
+4117	bezhetsk	MOS	MOS	MOS	novgorodian	orthodox	
+4118	desmond	DMS	DMS	DMS	irish	catholic	
+4119	sligo	SLN	SLN	SLN	irish	catholic	
+412	khuzestan	TIM	TIM	PER,TIM	al_iraqiya_arabic	shiite	
+4120	kildare	KID	KID	KID	irish	catholic	
+4121	ulster	ULS	ULS	ULS	irish	catholic	
+4122	shenkursk	NOV	NOV	NOV	novgorodian	orthodox	
+4123	birkaland	SWE	SWE	SWE,FIN	finnish	catholic	
+4124	kovero	NOV	NOV	NOV	karelian	orthodox	
+4125	szolnok	HUN	HUN	HUN	hungarian	catholic	
+4126	bacs	HUN	HUN	HUN	hungarian	catholic	
+4127	turda	HUN	HUN	HUN,TRA	transylvanian	orthodox	
+4128	kiralyfold	HUN	HUN	HUN,TRA	transylvanian	catholic	
+4129	ustvym	PRM	PRM	PRM,NOV	uralic	orthodox	NOV
+413	lorestan	TIM	TIM	PER,TIM	persian	shiite	
+4130	somerset	ENG	ENG	ENG	english	catholic	
+4131	mutsu	RFR	RFR	RFR	togoku	shinto	
+414	hamadan	TIM	TIM	PER,TIM	persian	shiite	
+4141	ditmarschen	DTT	DTT	DTT	hannoverian	catholic	
+4142	aarhus	DAN	DAN	DAN	danish	catholic	
+4143	smalenene	NOR	NOR	NOR	norwegian	catholic	
+4144	bratsberg	NOR	NOR	NOR	norwegian	catholic	
+4145	agdesiden	NOR	NOR	NOR	norwegian	catholic	
+4147	rostov	MOS	MOS	MOS	russian	orthodox	
+4148	luki	NOV	NOV	NOV	novgorodian	orthodox	
+4149	kolding	DAN	DAN	DAN	danish	catholic	
+415	shahrizor	TIM	TIM	IRQ,TIM,BHT,ARD	kurdish	sunni	
+4150	evora	POR	POR	POR	portugese	catholic	
+4151	inari	SWE	SWE	SWE	sapmi	catholic	
+4152	kajaani	SWE	SWE	SWE	sapmi	catholic	
+4158	janjero	JJI	JJI	JJI	sidamo	shamanism	
+416	azerbaijan	QAR	QAR	QAR,PER	azerbaijani	shiite	
+4163	elfsborg	SWE	SWE	SWE	swedish	catholic	
+4164	dal	SWE	SWE	SWE	swedish	catholic	
+4165	goinge	DAN	DAN	DAN	danish	catholic	
+4166	tioharad	SWE	SWE	SWE	swedish	catholic	
+417	gilan	TAB	TAB	PER,TAB	mazandarani	shiite	
+4171	abarquh	TIM	TIM	PER,TIM	persian	shiite	
+4173	syrmia	HUN	HUN	HUN,SER	serbian	orthodox	
+4174	durres	VEN	VEN	VEN,ALB	albanian	orthodox	
+4175	lezhe	ALB	ALB	ALB	albanian	orthodox	
+4176	branicevo	SER	SER	SER	serbian	orthodox	
+418	diyarbakir	AKK	AKK	AKK	kurdish	sunni	
+419	yerevan	TIM	TIM	TIM,ARM	armenian	coptic	
+42	warmia	TEU	TEU	TEU	prussian	catholic	
+420	ganja	QAR	QAR	QAR	azerbaijani	shiite	
+421	shirvan	SRV	SRV	SRV	azerbaijani	shiite	
+422	imereti	GEO	GEO	GEO,IME	georgian	orthodox	
+423	kartli	GEO	GEO	GEO	georgian	orthodox	
+424	ardabil	QAR	QAR	QAR,PER	azerbaijani	shiite	
+425	dagestan	SRV	SRV	SRV	dagestani	shiite	
+426	mazandaran	TAB	TAB	PER,TAB	mazandarani	shiite	
+427	qumis	TIM	TIM	PER,TIM,KHO	khorasani	shiite	
+428	rey	TIM	TIM	PER,TIM	persian	shiite	
+429	isfahan	TIM	TIM	PER,TIM	persian	shiite	
+43	danzig	TEU	TEU	TEU,DNZ	prussian	catholic	
+430	bushehr	TIM	TIM	PER,TIM	persian	shiite	
+431	mogostan	TIM	TIM	PER,TIM	persian	shiite	
+432	kerman	TIM	TIM	PER,TIM	persian	shiite	
+433	yazd	TIM	TIM	PER,TIM	persian	zoroastrian	
+434	quhistan	BAL	BAL	BAL	baluchi	sunni	
+435	sistan	TIM	TIM	TIM,KHO,PER	khorasani	sunni	
+436	birjand	TIM	TIM	PER,TIM,KHO	khorasani	sunni	
+437	atak	TIM	TIM	TIM,KHI	turkmeni	sunni	
+438	karakum	TIM	TIM	TIM,KHI	turkmeni	sunni	
+439	mangyshlak	NOG	NOG	NOG	nogaybak	sunni	
+44	hamburg	HAM	HAM	HAM	hannoverian	catholic	
+440	qaraqalpak	SHY	SHY	SHY,KHI	uzbehk	sunni	
+441	khiva	TIM	TIM	TIM,KHI	uzbehk	sunni	
+442	bukhara	TIM	TIM	TIM	uzbehk	sunni	
+443	ustyurt	NOG	NOG	NOG	nogaybak	sunni	
+444	charjuy	TIM	TIM	TIM,KHI	uzbehk	sunni	
+445	merv	TIM	TIM	TIM	turkmeni	sunni	
+446	herat	TIM	TIM	PER,TIM,KHO	khorasani	sunni	
+447	kandahar	TIM	TIM	TIM,AFG,KHO	afghani	sunni	
+448	gazni	TIM	TIM	TIM,AFG	afghani	sunni	
+449	ghor	TIM	TIM	TIM,AFG	afghani	sunni	
+45	lubeck	HSA	HSA	HSA	hannoverian	catholic	
+450	balkh	TIM	TIM	TIM,AFG	afghani	sunni	
+451	kabul	TIM	TIM	TIM,AFG	afghani	sunni	
+452	badakhshan	TIM	TIM	TIM,AFG	afghani	sunni	
+453	qarshi	TIM	TIM	TIM	uzbehk	sunni	
+454	samarkand	TIM	TIM	TIM	uzbehk	sunni	
+455	kyrzyl	SHY	SHY	KZH,SHY	khazak	sunni	
+456	turkestan	SHY	SHY	KZH,SHY	khazak	sunni	
+457	tashkent	TIM	TIM	TIM	uzbehk	sunni	
+458	kokand	TIM	TIM	TIM,KOK	uzbehk	sunni	
+459	taraz	CHG	CHG	CHG,KZH	khazak	sunni	
+46	rostock	MKL	MKL	MKL	pommeranian	catholic	
+460	uzkend	CHG	CHG	KOK,CHG	kirgiz	sunni	
+461	almaty	CHG	CHG	CHG,KZH	khazak	sunni	
+462	mingrelia	GEO	GEO	GEO,IME	georgian	orthodox	
+463	circassia	CIR	CIR	CIR	circassian	orthodox	
+464	astrakhan	GOL	GOL	GOL,AST	astrakhani	sunni	
+465	nogay	NOG	NOG	NOG	nogaybak	sunni	
+466	sarai	GOL	GOL	GOL,AST	astrakhani	sunni	
+467	borisoglebsk	GOL	GOL	GOL	mishary	sunni	
+468	khazaria	GOL	GOL	GOL,AST	astrakhani	sunni	
+469	ryn	NOG	NOG	NOG	nogaybak	sunni	
+47	stralsund	POM	POM	POM	pommeranian	catholic	
+470	bayuly	NOG	NOG	NOG	nogaybak	sunni	
+471	alimuly	NOG	NOG	NOG	nogaybak	sunni	
+472	jetyru	NOG	NOG	NOG	nogaybak	sunni	
+473	samara	KAZ	KAZ	KAZ	kazani	sunni	
+474	yaik	NOG	NOG	NOG	nogaybak	sunni	
+475	bashkortostan	KAZ	KAZ	KAZ,BSH	bashkir	sunni	
+476	kypshak	SHY	SHY	SHY,KZH	khazak	sunni	
+477	nadym	SHY	SHY	KZH,SHY	khazak	sunni	
+478	argyn	SHY	SHY	KZH,SHY	khazak	sunni	
+479	kerey	SHY	SHY	KZH,SHY	khazak	sunni	
+48	kolberg	POM	POM	POM	pommeranian	catholic	
+480	kulunda				kirgiz	tengri_pagan_reformed	
+482	bahamas				arawak	animism	
+483	turksislands				carib	animism	
+484	havana				arawak	animism	
+485	moron				arawak	animism	
+486	guantanamo				arawak	animism	
+487	jamaica				arawak	animism	
+488	lescayes				arawak	animism	
+489	tortuga				arawak	animism	
+49	neumark	BRA	BRA		saxon	catholic	
+490	barahonas				arawak	animism	
+491	curacao				arawak	animism	
+492	puertorico				arawak	animism	
+493	stthomas				arawak	animism	
+494	stkitts				arawak	animism	
+495	antigua				carib	animism	
+496	guadeloupe				carib	animism	
+497	dominica				carib	animism	
+498	martinique				carib	animism	
+499	stlucia				carib	animism	
+5	varmland	SWE	SWE	SWE	swedish	catholic	
+50	berlin	BRA	BRA	BRA	saxon	catholic	
+500	stvincent				arawak	animism	
+501	barbados				carib	animism	
+502	trinidad				carib	animism	
+503	kutch	KAT	KAT	KAT,GUJ	gujarati	hinduism	
+504	thatta	SND	SND	SND	sindhi	sunni	
+505	sehwan	SND	SND	SND	sindhi	sunni	
+506	multan	MUL	MUL	DLH,MUL	panjabi	sunni	
+507	lahore	DLH	DLH	MUL,DLH,PUN	panjabi	hinduism	
+508	kashmir	KSH	KSH	KSH	kashmiri	hinduism	
+509	kangra	KGR	KGR	KGR	panjabi	hinduism	
+51	ruppin	BRA	BRA	BRA	saxon	catholic	
+510	sirhind	MUL	MUL	MUL,DLH,PUN,PTA	panjabi	hinduism	
+511	garhwal	GHR	GHR	GHR	nepali	hinduism	
+512	jangladesh	JAN	JAN	JAN	rajput	hinduism	
+513	jaisalmer	JSL	JSL	JSL	rajput	hinduism	
+514	marwar	MAW	MAW	MAW	rajput	hinduism	
+515	girnar	KAT	KAT	KAT	gujarati	hinduism	
+516	baroda	GUJ	GUJ	GUJ	gujarati	hinduism	
+517	surat	GUJ	GUJ	GUJ	gujarati	hinduism	
+518	chittor	MER	MER	MER	rajput	hinduism	
+519	dhundar	DHU	DHU	DHU	rajput	hinduism	
+52	magdeburg	MAG	MAG	MAG	saxon	catholic	
+520	mewat	MEW	MEW	MEW	rajput	hinduism	
+521	kathiawar	GUJ	GUJ	GUJ,KAT	gujarati	hinduism	
+522	delhi	DLH	DLH	DLH,MUL	kanauji	hinduism	
+523	oudh	JNP	JNP	JNP,DLH,ODH	avadhi	hinduism	
+524	centraldoab	DLH	DLH	DLH,JNP	kanauji	hinduism	
+525	gird	GWA	GWA	GWA	kanauji	hinduism	
+526	mandu	MLW	MLW	MLW	malvi	hinduism	
+527	khandesh	KHD	KHD	KHD	malvi	hinduism	
+528	hadoti	HAD	HAD	HAD	rajput	hinduism	
+529	northkonkan	BAH	BAH	AHM	marathi	hinduism	
+53	luneburg	LUN	LUN	LUN	hannoverian	catholic	
+530	southkonkan	BAH	BAH	BIJ,VIJ	marathi	hinduism	
+531	northkanara	VIJ	VIJ	VIJ	kannada	hinduism	
+532	raichurdoab	VIJ	VIJ	BIJ,VIJ	kannada	hinduism	
+533	mysore	MYS	MYS	MYS	kannada	hinduism	
+534	malabar	MAB	MAB	MAB	malayalam	hinduism	
+535	kochin	KOC	KOC	KOC	malayalam	hinduism	
+536	madurai	VIJ	VIJ	MAD	tamil	hinduism	
+537	venad	VND	VND	VND	malayalam	hinduism	
+538	kongu	VIJ	VIJ	MAD	tamil	hinduism	
+539	tondainadu	VIJ	VIJ	VIJ	telegu	hinduism	
+54	stade	VER	VER	VER	hannoverian	catholic	
+540	coromandel	VIJ	VIJ	VIJ,MAD	tamil	hinduism	
+541	vijayanagar	VIJ	VIJ	VIJ,KLN	kannada	hinduism	
+542	golconda	GOC	GOC	GOC	telegu	hinduism	
+543	velanadu	YOR	YOR	GOC,YOR	telegu	hinduism	
+544	ahmadnagar	BAH	BAH	BAH,AHM	marathi	hinduism	
+545	marathwada	BAH	BAH	BAH,AHM	marathi	hinduism	
+546	eastberar	BAH	BAH	BRR,BAH	gondi	hinduism	
+547	bastar	BST	BST	BST	gondi	hinduism	
+548	westberar	BAH	BAH	BAH,BRR	marathi	hinduism	
+549	kalingandhra	ORI	ORI	YOR,ORI	telegu	hinduism	
+55	oldenburg	OLD	OLD	OLD	hannoverian	catholic	
+550	mahakoshal	GDW	GDW	BRR,GDW	gondi	hinduism	
+551	mandla	GDW	GDW	GDW	gondi	hinduism	
+552	cuttack	ORI	ORI	ORI	oriya	hinduism	
+553	sambalpur	GRJ	GRJ	GRJ	garjati	hinduism	
+554	baisirajya	NPL	NPL	NPL	nepali	hinduism	
+555	jaunpur	JNP	JNP	JNP	avadhi	hinduism	
+556	lowerdoab	JNP	JNP	JNP	avadhi	hinduism	
+557	katmandu	NPL	NPL	NPL	nepali	hinduism	
+558	patna	JNP	JNP	JNP	bihari	hinduism	
+559	bundelkhand	BND	BND	BND	kanauji	hinduism	
+56	osnabruck	MUN	MUN	MUN	hannoverian	catholic	
+560	jharkand	NGP	NGP	NGP	jharkhandi	hinduism	
+561	bengaldelta	BNG	BNG	BNG	bengali	hinduism	
+562	kochbehar	KMT	KMT	KMT	bengali	hinduism	
+563	gauda	BNG	BNG	BNG	bengali	hinduism	
+564	dakha	BNG	BNG	BNG	bengali	hinduism	
+565	bhutan	UTS	UTS	UTS,BHU	tibetan	vajrayana	
+566	assam	ASS	ASS	ASS	assamese	hinduism	
+567	silhet	BNG	BNG	BNG	bengali	hinduism	
+568	chittagong	BNG	BNG	BNG,ARK	bengali	hinduism	
+569	bijapur	BAH	BAH	BAH,BIJ	kannada	hinduism	
+57	brunswick	BRU	BRU	BRU	hannoverian	catholic	
+570	naga	KAC	KAC	KAC	chin	hinduism	
+571	darrang	ASS	ASS	ASS	assamese	hinduism	
+572	kotte	CEY	CEY	CEY	sinhala	buddhism	
+573	cachar	KAC	KAC	KAC	chin	hinduism	
+574	theandamans				bengali	animism	
+575	easternmakran	BAL	BAL	BAL	baluchi	sunni	
+576	kalat	BAL	BAL	BAL	baluchi	sunni	
+577	quetta	BAL	BAL	BAL	baluchi	sunni	
+578	roh	TIM	TIM	TIM,AFG	afghani	sunni	
+579	mrauku	ARK	ARK	ARK	arakanese	buddhism	
+58	anhalt	ANH	ANH	ANH	saxon	catholic	
+580	kale	AVA	AVA	AVA	chin	animism	
+581	sagaing	AVA	AVA	AVA	burmese	buddhism	
+582	mongyang	MYA	MYA	MYA,CDL	shan	buddhism	
+583	hsenwi	HSE	HSE	HSE,CDL	shan	buddhism	
+584	ava	AVA	AVA	AVA	burmese	buddhism	
+585	taungoo	TAU	TAU	TAU	burmese	buddhism	
+586	pegu	PEG	PEG	PEG	mon	buddhism	
+587	kengtung	HSE	HSE	HSE	northern_thai	animism	
+588	mongnai	HSE	HSE	HSE	shan	buddhism	
+589	chiangmai	LNA	LNA	LNA	northern_thai	buddhism	
+59	wittenberg	SAX	SAX	SAX	saxon	catholic	
+590	moulmein	PEG	PEG	PEG	karen	buddhism	
+591	tavoy	AYU	AYU	AYU	mon	buddhism	
+592	ratchaburi	AYU	AYU	AYU	central_thai	buddhism	
+593	nakhonsithammarat	LIG	LIG	LIG,AYU	malayan	sunni	
+594	pattani	PAT	PAT	PAT	malayan	sunni	
+595	perak	MLC	MLC	MLC,PRK	malayan	sunni	
+596	malacca	MLC	MLC	MLC	malayan	sunni	
+597	johor	MLC	MLC	MLC,JOH	malayan	sunni	
+598	pahang	MLC	MLC	MLC,JOH	malayan	sunni	
+599	kelantan	MLC	MLC	MLC,JOH	malayan	sunni	
+6	skane	DAN	DAN	DAN	danish	catholic	
+60	lausitz	BOH	BOH	BOH	saxon	catholic	
+600	ayutthaya	AYU	AYU	AYU	central_thai	buddhism	
+601	sukhothai	SUK	SUK	SUK	central_thai	buddhism	
+602	chiangrai	LNA	LNA	LNA	northern_thai	buddhism	
+603	nakhonthungyai	AYU	AYU	AYU	central_thai	buddhism	
+604	oudong	KHM	KHM	KHM	khmer	buddhism	
+605	preynokor	KHM	KHM	KHM	khmer	hinduism	
+606	panduranga	CHA	CHA	CHA	cham	hinduism	
+607	vijaya	CHA	CHA	CHA	cham	hinduism	
+608	champassak	LXA	LXA	LXA	lao	buddhism	
+609	angkor	KHM	KHM	KHM	khmer	hinduism	
+61	dresden	MEI	MEI	MEI	saxon	catholic	
+610	thanhhoa	DAI	DAI	DAI,TOK	vietnamese	mahayana	
+611	sikhottabong	LXA	LXA	LXA	lao	buddhism	
+612	khorat	AYU	AYU	AYU	khmer	buddhism	
+613	dongkinh	DAI	DAI	DAI	vietnamese	mahayana	
+614	vientiane	LXA	LXA	LXA	lao	buddhism	
+615	luangprabang	LXA	LXA	LXA,LUA	lao	buddhism	
+616	caobang	DAI	DAI	DAI	zhuang	mahayana	
+617	lamuri	PSA	PSA	PSA	sumatran	sunni	
+618	deli	PSA	PSA	PSA	sumatran	sunni	
+619	batak	PSA	PSA	PSA	sumatran	sunni	
+62	leipzig	SAX	SAX	SAX	saxon	catholic	
+620	siak	SAK	SAK	SAK	sumatran	sunni	
+621	bengkulu				sumatran	sunni	
+622	palembang				sumatran	sunni	
+623	tulangbewang				sumatran	sunni	
+624	banten	SUN	SUN	SUN	javanese	hinduism	
+625	ciamis	SUN	SUN	SUN	javanese	hinduism	
+626	karta	MAJ	MAJ	MAJ	javanese	hinduism	
+627	blambangan	MAJ	MAJ	MAJ	javanese	hinduism	
+628	surabaya	MAJ	MAJ	MAJ	javanese	hinduism	
+629	demak	MAJ	MAJ	MAJ	javanese	hinduism	
+63	erfurt	SAX	SAX	SAX,THU	saxon	catholic	
+630	kalapa	SUN	SUN	SUN	javanese	hinduism	
+631	bali	MAJ	MAJ	MAJ,BLI	javanese	hinduism	
+632	sumbawa				papuan	animism	
+633	flores				papuan	animism	
+634	sumba				papuan	animism	
+635	westtimor				papuan	animism	
+636	brunei	BEI	BEI	BEI	bornean	sunni	
+637	jesselton	BEI	BEI	BEI	bornean	sunni	
+638	kutai	KUT	KUT	KUT	bornean	hinduism	
+639	banjar				bornean	hinduism	
+64	landshut	BAV	BAV	BAV	bavarian	catholic	
+640	pontianak				bornean	sunni	
+641	makassar	MKS	MKS	MKS	sulawesi	animism	
+642	kendari				sulawesi	animism	
+643	poso				sulawesi	animism	
+644	manado				sulawesi	animism	
+645	buru				moluccan	animism	
+646	ambon				moluccan	animism	
+647	ceram				moluccan	animism	
+648	halmahera				moluccan	animism	
+649	ternate	TER	TER	TER	moluccan	animism	
+65	munchen	BAV	BAV	BAV	bavarian	catholic	
+650	tidore	TID	TID	TID	moluccan	animism	
+651	sulu				filipino	sunni	
+652	maguindanao				filipino	animism	
+653	lanao				filipino	animism	
+654	visayas				filipino	animism	
+655	palawan				filipino	animism	
+656	manila				filipino	animism	
+657	ilocos				filipino	animism	
+658	cagayan				filipino	animism	
+659	lingga	SAK	SAK	SAK	sumatran	sunni	
+66	bamberg	WBG	WBG	WBG	franconian	catholic	
+660	sibsongbanna	MNG	MNG	MNG,CDL	shan	buddhism	
+661	dali	MNG	MNG	MNG,CDL	bai	buddhism	
+662	yunnan	MNG	MNG	MNG,CDL	bai	buddhism	
+663	guangnan	MNG	MNG	MNG,CDL	bai	buddhism	
+664	lingyun	MNG	MNG	MNG,CGS	zhuang	confucianism	
+665	shiuhing	MNG	MNG	MNG,YUE	cantonese	confucianism	
+666	kiungchow	MNG	MNG	MNG	chimin	confucianism	
+667	canton	MNG	MNG	MNG,YUE	cantonese	confucianism	
+668	macau	MNG	MNG	MNG,YUE	cantonese	confucianism	
+669	fuzhou	MNG	MNG	MNG,MIN	chimin	confucianism	
+67	nurnberg	NUM	NUM	NUM	franconian	catholic	ANS
+670	ganzhou	MNG	MNG	MNG,NNG	hakka	confucianism	
+671	changsha	MNG	MNG	MNG,CHC	xiang	confucianism	
+672	wulin	MNG	MNG	MNG,CXI,CHC	xiang	confucianism	
+673	zhenyuan	MNG	MNG	MNG,CMI	miao	animism	
+674	guiyang	MNG	MNG	MNG,CYI,CDL	yi	animism	
+675	umung	MNG	MNG	MNG,CYI	yi	animism	
+676	shigatse	UTS	UTS	UTS	tibetan	vajrayana	
+677	lhasa	UTS	UTS	UTS	tibetan	vajrayana	
+678	tachienlu	KAM	KAM	KAM	tibetan	vajrayana	
+679	chengdu	MNG	MNG	MNG,CXI,SHU	sichuanese	confucianism	
+68	memmingen	MEM	MEM	MEM	swabian	catholic	
+680	chongqing	MNG	MNG	MNG,CXI,SHU	sichuanese	confucianism	
+681	yichang	MNG	MNG	MNG,CXI,SHU	sichuanese	confucianism	
+682	wuchang	MNG	MNG	MNG,CHC,CXI	hubei	confucianism	
+683	nanchang	MNG	MNG	MNG,NNG	gan	confucianism	
+684	hangzhou	MNG	MNG	MNG,WUU	wu	confucianism	
+685	yangzhou	MNG	MNG	MNG,WUU	jianghuai	confucianism	
+686	anqing	MNG	MNG	MNG	jianghuai	confucianism	
+687	nanyang	MNG	MNG	MNG,TNG,LNG	zhongyuan	confucianism	
+688	kaifeng	MNG	MNG	MNG,LNG	zhongyuan	confucianism	
+689	hanzhong	MNG	MNG	MNG,CSH,QIN	xibei	confucianism	
+69	oberschwaben	RVA	RVA	RVA	swabian	catholic	
+690	qingzhou	MNG	MNG	MNG,QIC	shandong_culture	confucianism	
+691	jinan	MNG	MNG	MNG,QIC	shandong_culture	confucianism	
+692	huaiqing	MNG	MNG	MNG,JIN	jin	confucianism	
+693	taiyuan	MNG	MNG	MNG,JIN	jin	confucianism	
+694	pingyang	MNG	MNG	MNG,JIN	jin	confucianism	
+695	hejian	MNG	MNG	MNG,YAN	chihan	confucianism	
+696	baoding	MNG	MNG	MNG,YAN	chihan	confucianism	
+697	datong	MNG	MNG	MNG,JIN	jin	confucianism	
+698	ningxia	MNG	MNG	MNG,CSH	mongol	confucianism	
+699	lanzhou	MNG	MNG	MNG,CSH	xibei	confucianism	
+7	skaraborg	SWE	SWE	SWE	swedish	catholic	
+70	wurttemberg	WUR	WUR	WUR	swabian	catholic	
+700	xi'an	MNG	MNG	MNG,CSH,QIN	xibei	confucianism	
+701	ordos	MNG	MNG	MNG,KHA	mongol	vajrayana	
+702	hohhot	MNG	MNG	MNG,KHA	mongol	vajrayana	
+703	chengde	KRC	KRC	KRC	chahar	vajrayana	
+704	ningyuan	MNG	MNG	MNG	chihan	confucianism	
+705	gyegu	KAM	KAM	KAM	tibetan	vajrayana	
+706	tsaidam	SYG	SYG	SYG	oirats	vajrayana	
+707	yumen	MNG	MNG	MNG,HMI,CSH	oirats	vajrayana	
+708	gansu	MNG	MNG	MNG,CSH,OIR	xibei	confucianism	
+709	alxa	OIR	OIR	OIR	mongol	vajrayana	
+71	ansbach	ANS	ANS	ANS	franconian	catholic	
+710	hotan	KAS	KAS	KAS	uyghur	sunni	
+711	qarqan	KAS	KAS	KAS	uyghur	vajrayana	
+712	aksu	KAS	KAS	KAS	uyghur	sunni	
+713	bechbaliq	CHG	CHG	CHG,OIR	uyghur	tengri_pagan_reformed	
+714	hoboksar	OIR	OIR	OIR,CHG	oirats	tengri_pagan_reformed	
+715	urumqi	CHG	CHG	CHG	uyghur	tengri_pagan_reformed	
+716	tannuuriankhai	OIR	OIR	OIR	buryat	tengri_pagan_reformed	
+717	kherlen	KHA	KHA	KHA,OIR	khalkha	tengri_pagan_reformed	
+718	kobdo	OIR	OIR	OIR	oirats	tengri_pagan_reformed	
+719	uliastai	OIR	OIR	OIR	khalkha	tengri_pagan_reformed	
+72	breisgau	BAD	BAD	BAD	swabian	catholic	
+720	dornogovi	KHA	KHA	KHA,OIR	khalkha	tengri_pagan_reformed	
+721	setsen	KHA	KHA	KHA	khalkha	tengri_pagan_reformed	
+722	jirem	KRC	KRC	KRC,KHA	chahar	vajrayana	
+723	xilingol	KHA	KHA	KHA	mongol	vajrayana	
+724	hulunbuir	KRC	KRC	KRC	khalkha	tengri_pagan_reformed	
+725	cicigar	KRC	KRC	KRC	chahar	tengri_pagan_reformed	
+726	shenyang	MNG	MNG	MNG	manchu	confucianism	
+727	aigun	MHX	MHX	MHX	manchu	tengri_pagan_reformed	
+728	tuwan	MHX	MHX	MHX	manchu	tengri_pagan_reformed	
+729	bohori	MYR	MYR	MYR	manchu	tengri_pagan_reformed	
+73	tirol	HAB	HAB	HAB,TIR	austrian	catholic	
+730	girin	MHX	MHX	MHX	manchu	confucianism	
+731	ilanhala	MJZ	MJZ	MJZ	manchu	tengri_pagan_reformed	
+732	southhamgyeong	KOR	KOR	KOR	korean	confucianism	
+733	hwanghae	KOR	KOR	KOR	korean	confucianism	
+734	westgangwon	KOR	KOR	KOR	korean	confucianism	
+735	gyeonggi	KOR	KOR	KOR	korean	confucianism	
+736	westgyeongsang	KOR	KOR	KOR	korean	confucianism	
+737	jeolla	KOR	KOR	KOR	korean	confucianism	
+738	sakam				polynesian	animism	
+739	kashgar	KAS	KAS	KAS	uyghur	sunni	
+74	baden	BAD	BAD	BAD	swabian	catholic	
+740	chanderi	MLW	MLW	MLW	malvi	hinduism	
+741	cumana				carib	animism	
+742	guayana				carib	animism	
+743	essequibo	ARW	ARW	ARW	guajiro	animism	
+744	demerara				guajiro	animism	
+745	suriname				guajiro	animism	
+746	cayenne				guajirodiscovered_by	animism	
+747	tucujulandia				guajiro	animism	
+748	graopara	TPA	TPA	TPA	tupinamba	animism	
+749	maranhao				ge	animism	
+75	elsass	ALS	ALS	ALS	swabian	catholic	
+750	alpercatas				ge	animism	
+751	ceara	PTG	PTG	PTG	tupinamba	animism	
+752	oeiras				ge	animism	
+753	riogrande				tupinamba	animism	
+754	itamaraca				tupinamba	animism	
+755	pernambuco				tupinamba	animism	
+756	bahia				tupinamba	animism	
+757	ilheus	TPQ	TPQ	TPQ	tupinamba	animism	
+758	goias				ge	animism	
+759	diamentina				ge	animism	
+76	salzburg	SLZ	SLZ	SLZ	austrian	catholic	
+760	portoseguro				ge	animism	
+761	espiritosanto	TUA	TUA	TUA	ge	animism	
+762	saotome				tupinamba	animism	
+763	riodejaneiro				tupinamba	animism	
+764	santoamaro				tupinambadiscovered_by	animism	
+765	minasgerais				gediscovered_by	animism	
+766	saovicente				tupinamba	animism	
+767	ortelsburg	TEU	TEU	TEU	prussian	catholic	
+768	guayra				guarani	animism	
+769	curitiba				guarani	animism	
+77	heidelberg	PAL	PAL	PAL	hessian	catholic	
+770	braslaw	LIT	LIT	LIT	lithuanian	catholic	
+771	vitebsk	LIT	LIT	LIT,PLT	byelorussian	orthodox	
+772	paysandu				charruan	animism	
+773	bandaoriente				charruan	animism	
+774	aljunaynahr			DAR	nubian	shamanism	
+775	xeres				guarani	animism	
+776	itenines				guarani	animism	
+777	parana				guarani	animism	
+778	riodelaplata	CUA	CUA	CUA	charruan	animism	
+779	serranos				het	animism	
+78	mainz	MAI	MAI	MAI	hessian	catholic	
+780	tehuelmapu				patagonian	animism	
+781	patagoniaoriental				patagonian	animism	
+782	tierradelfuego				patagonian	animism	
+783	patagoniaoccidental				patagonian	animism	
+784	huillimapu	MPC	MPC	MPC	mapuche	animism	
+785	pehuenmapu				mapuche	animism	
+786	salinasgrande				het	animism	
+787	pincunmapu				mapuche	animism	
+788	angoche	ZAN	ZAN	ZAN	swahili	sunni	
+789	mtetwa				nguni	shamanism	
+79	wurzburg	WBG	WBG	WBG	franconian	catholic	
+790	chacoaustral				chacoan	animism	
+791	catamarca				diaguita	animism	
+792	copiapo				mapuche	animism	
+793	atacama				diaguita	animism	
+794	jujuy	CCQ	CCQ	CCQ	diaguita	inti	
+795	potosi	CRA	CRA	CRA	aimara	inti	
+796	arica				aimara	inti	
+797	caracara	PCJ	PCJ	PCJ	aimara	inti	
+798	nsoyo	KON	KON	KON	mbundu	shamanism	
+799	chacoboreal				chacoan	animism	
+8	dalaskogen	SWE	SWE	SWE	swedish	catholic	
+80	trier	TRI	TRI	TRI	hessian	catholic	
+800	chiquitos				maipurean	animism	
+801	caranga				guarani	animism	
+802	chuquiabo	CLA	CLA	CLA	aimara	inti	
+803	moxos				guarani	animism	
+804	puno	CLA	CLA	CLA	aimara	inti	
+805	arequipa				aimara	inti	
+806	nazca				inca	inti	
+807	huamanga	CSU	CSU	CSU	inca	inti	
+808	cuzco	CSU	CSU	CSU	inca	inti	
+809	lima	ICM	ICM	ICM	inca	inti	
+81	hessen	HES	HES	HES	hessian	catholic	
+810	huancavelica	WKA	WKA	WKA	inca	inti	
+811	tarma	WKA	WKA	WKA	inca	inti	
+812	chanchan	CHM	CHM	CHM	chimuan	inti	
+813	cajamarca	CJA	CJA	CJA	inca	inti	
+814	huanuco	HJA	HJA	HJA	inca	inti	
+815	maynas				jivaro	animism	
+816	tumbes	CHM	CHM	CHM	chimuan	inti	
+817	cuenca	QTO	QTO	QTO	cara	inti	
+818	canelos				jivaro	animism	
+819	guayaquil	QTO	QTO	QTO	cara	inti	
+82	lippe	KOL	KOL	KOL	hannoverian	catholic	
+820	quito	QTO	QTO	QTO	cara	inti	
+821	quijos				jivaro	animism	
+822	caqueta				jivaro	animism	
+823	cauca				guajiro	animism	
+824	mariquita				guajiro	animism	
+825	bogota	MCA	MCA	MCA	muisca	inti	
+826	choco				guajiro	animism	
+827	antioquia				muisca	animism	
+828	cartagena				guajiro	animism	
+829	magdalena				muisca	animism	
+83	nassau	NSA	NSA	NSA	hessian	catholic	
+830	maracaibo				guajiro	animism	
+831	caracas				caribdiscovered_by	animism	
+832	chiancon	MCA	MCA	MCA	muisca	inti	
+833	graaffreinet				nguni	shamanism	
+834	barinas				guajiro	animism	
+835	panama				muisca	animism	
+836	chorotega				muisca	animism	
+837	nicaragua				miskito	animism	
+838	mosquito				miskito	animism	
+839	pipil				aztek	mesoamerican_religion	
+84	berg	KLE	KLE	KLE	hessian	catholic	
+840	honduras				highland_mayan	mesoamerican_religion	
+841	guatemala	KIC	KIC	KIC	highland_mayan	mesoamerican_religion	
+842	peten	ITZ	ITZ	ITZ	putun	mesoamerican_religion	
+843	belize	ITZ	ITZ	ITZ	yucatec	mesoamerican_religion	
+844	zapotec	ZAP	ZAP	ZAP	zapotek	nahuatl	
+845	campeche	XIU	XIU	XIU	yucatec	mesoamerican_religion	
+846	yucatan	COC	COC	COC	yucatec	mesoamerican_religion	
+847	mixtec	MIX	MIX	MIX	mixtec	nahuatl	
+848	tohancapan	TOT	TOT	TOT	totonac	nahuatl	
+849	tlapanec	TLA	TLA	TLA	tlapanec	nahuatl	
+85	koln	KOL	KOL	KOL	hessian	catholic	
+850	tlaxcala	TLX	TLX	TLX	aztek	nahuatl	
+851	tarasco	CLM	CLM	TAR	tecos	nahuatl	
+852	mexico	AZT	AZT	AZT	aztek	nahuatl	
+853	huastec	AZT	AZT	AZT	aztek	nahuatl	
+854	sayultecas	CLM	CLM	CLM	tecos	nahuatl	
+855	huichol				chichimecan	nahuatl	
+856	zacatecas				chichimecan	nahuatl	
+857	guachichil				chichimecan	nahuatl	
+858	tamaulipas				chichimecan	nahuatl	
+859	sinaloa				piman	animism	
+86	munster	MUN	MUN	MUN	hannoverian	catholic	
+860	tepehuan				navajo	animism	
+861	coahuila				navajo	animism	
+862	yaqui				piman	animism	
+863	suma				navajo	animism	
+864	concho				navajo	animism	
+865	cochimi				piman	animism	
+866	guaycura				piman	animism	
+867	mojave				piman	totemism	
+868	chumash				piman	totemism	
+869	salinan				piman	totemism	
+87	calais	ENG	ENG	ENG	flemish	catholic	
+870	yorkuts				chinook	totemism	
+871	pomo				piman	totemism	
+872	kalapuya				chinook	totemism	
+873	chinook	CNK	CNK	CNK	chinook	totemism	
+874	salish	SAL	SAL	SAL	salish	totemism	
+875	canyon	NAH	NAH	NAH	navajo	totemism	
+876	yavapai				piman	totemism	
+877	pima	PIM	PIM	PIM	piman	totemism	
+878	navajo	NAH	NAH	NAH	navajo	totemism	
+879	apache	APA	APA	APA	apache	totemism	
+88	artois	BUR	BUR	BUR,PIC	wallonian	catholic	
+880	pueblo	PUE	PUE	PUE	pueblo	totemism	
+881	piro	PUE	PUE	PUE	pueblo	totemism	
+882	mescalero				navajo	totemism	
+883	lipan				navajo	totemism	
+884	karankawa				caddo	totemism	
+885	comanche				navajo	totemism	
+886	waco	WIC	WIC	WIC	wichita	totemism	
+887	tonkawa				caddo	totemism	
+888	atakapa				caddo	totemism	
+889	arapaho				wichita	totemism	
+89	picardie	FRA	FRA	FRA,PIC	cosmopolitan_french	catholic	
+890	kiowa				pawnee	totemism	
+891	jicarilla				pawnee	totemism	
+892	wichita				wichita	totemism	
+893	chitimacha				choctaw	totemism	
+894	caddo	CAD	CAD	CAD	caddo	totemism	
+895	arkansas				osage	totemism	
+896	ozark				wichita	totemism	
+897	quapaw				osage	totemism	
+898	kansas				pawnee	totemism	
+899	osage	OSA	OSA	OSA	osage	totemism	
+9	halsingland	SWE	SWE	SWE	swedish	catholic	
+90	vlaanderen	FLA	FLA	FLA	flemish	catholic	
+900	tamaroa				illini	totemism	
+901	pawnee	PAW	PAW	PAW	pawnee	totemism	
+902	missouri				chiwere	totemism	
+903	omaha				pawnee	totemism	
+904	nakota				dakota	totemism	
+905	iowa				chiwere	totemism	
+906	lakota				dakota	totemism	
+907	dakota				dakota	totemism	
+908	minnesota				dakota	totemism	
+909	mandan				nakota	totemism	
+91	hainaut	BUR	BUR	BUR,HAI	wallonian	catholic	
+910	chippewa	CHY	CHY	CHY	cheyenne	totemism	
+911	menominee				anishinabe	totemism	
+912	sauk				anishinabe	totemism	
+913	fox				chiwere	totemism	
+914	winnebago				chiwere	totemism	
+915	illinois	ILL	ILL	ILL	illini	totemism	
+916	kaskaskia				illini	totemism	
+917	cahokia				illini	totemism	
+918	tennessee	CHI	CHI	CHI	chickasaw	totemism	
+919	chickasaw	CHI	CHI	CHI	chickasaw	totemism	
+92	brabant	BRB	BRB	BRB	flemish	catholic	
+920	choctaw	CHO	CHO	CHO	choctaw	totemism	
+921	bayougoula				choctaw	totemism	
+922	mobile				creek	totemism	
+923	pensacola				creek	totemism	
+924	alabama				choctaw	totemism	
+925	tuskegee	CRE	CRE	CRE	creek	totemism	
+926	seminole				creek	totemism	
+927	timucua				creek	totemism	
+928	apalachee				creek	totemism	
+929	muskogee				creek	totemism	
+93	liege	LIE	LIE	LIE	wallonian	catholic	
+930	yamasee	CRE	CRE	CRE	creek	totemism	
+931	chiaha	CRE	CRE	CRE	creek	totemism	
+932	santee				catawba	totemism	
+933	catawba				catawba	totemism	
+934	shawnee				shawnee	totemism	
+935	cherokee	CHE	CHE	CHE	cherokee	totemism	
+936	cheraw	CHE	CHE	CHE	cherokee	totemism	
+937	tuscarora				iroquois	totemism	
+938	pamlico				powhatan	totemism	
+939	pennyrile				chickasaw	totemism	
+94	luxemburg	BUR	BUR	BUR,LUX	wallonian	catholic	
+940	kentucky				shawnee	totemism	
+941	cumberland				shawnee	totemism	
+942	wea				illini	totemism	
+943	miami	MMI	MMI	MMI	illini	totemism	
+944	potawatomi	POT	POT	POT	anishinabe	totemism	
+945	michigan	FOX	FOX	FOX	chiwere	totemism	
+946	wyandot				huron	totemism	
+947	erie				susquehannock	totemism	
+948	ohio				shawnee	totemism	
+949	monacan				catawba	totemism	
+95	breda	BRB	BRB	BRB	dutch	catholic	
+950	powhatan				powhatan	totemism	
+951	kanawha				shawnee	totemism	
+952	powhatan	POW	POW	POW	powhatan	totemism	
+953	conoy				powhatan	totemism	
+954	allegheny				susquehannock	totemism	
+955	susquehanna	SUS	SUS	SUS	susquehannock	totemism	
+956	lenape	LEN	LEN	LEN	delaware	totemism	
+957	delaware				delaware	totemism	
+958	seneca				huron	totemism	
+959	cayuga	IRO	IRO	IRO	iroquois	totemism	
+96	zeeland	HOL	HOL	HOL	dutch	catholic	
+960	onondaga	IRO	IRO	IRO	iroquois	totemism	
+961	oneida	IRO	IRO	IRO	iroquois	totemism	
+962	unami				delaware	totemism	
+963	mahican				mahican	totemism	
+964	mohawk	IRO	IRO	IRO	iroquois	totemism	
+965	manhattan				delaware	totemism	
+966	nipmuc				pequot	totemism	
+967	narraganset				pequot	totemism	
+968	massachusetts				pequot	totemism	
+969	pocumtuk	MAH	MAH	MAH	mahican	totemism	
+97	holland	HOL	HOL	HOL	dutch	catholic	
+970	pennacook				abenaki	totemism	
+971	abnaki	ABE	ABE	ABE	abenaki	totemism	
+972	nootka				aleutian	totemism	
+973	squamish				salish	totemism	
+974	kwakiutl				aleutian	totemism	
+975	tsimshian				chinook	totemism	
+976	tlingit				haida	totemism	
+977	yakutat				aleutian	totemism	
+978	alaska				aleutian	totemism	
+979	aleut				aleutian	totemism	
+98	utrecht	UTR	UTR	UTR	dutch	catholic	
+980	beothuk				cree	totemism	
+981	taqamkuk				cree	totemism	
+982	unamakik				mikmaq	totemism	
+983	epekwitk				mikmaq	totemism	
+984	acadia				mikmaq	totemism	
+985	micmac				mikmaq	totemism	
+986	kespek				mikmaq	totemism	
+987	niagara	HUR	HUR	HUR	huron	totemism	
+988	huron	HUR	HUR	HUR	huron	totemism	
+989	ontario				huron	totemism	
+99	gelre	GEL	GEL	GEL	dutch	catholic	
+990	kwedech				huron	totemism	
+991	ottawa				anishinabe	totemism	
+992	algonquin				anishinabe	totemism	
+993	hochelega				huron	totemism	
+994	stadacona				huron	totemism	
+995	atiamekw				cree	totemism	
+996	innu				cree	totemism	
+997	labrador				inuit	totemism	
+998	ungava				inuit	totemism	
+999	nunavik				cree	totemism	

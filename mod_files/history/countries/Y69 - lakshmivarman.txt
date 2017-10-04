@@ -1,0 +1,23 @@
+# Lakshmivarman
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = sunni
+capital = 521
+1444.1.1 = {
+	monarch = {
+		name = "Lakshmivarman"
+		birth_date = 1409.10.25
+		dynasty = "Lakshmivarman"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 521
+	add_treasury = 8
+	add_prestige = 7
+}

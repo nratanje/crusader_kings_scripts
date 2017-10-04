@@ -1,0 +1,36 @@
+# Chrusarkha
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = nestorian
+clear_scripted_personalities = yes
+capital = 1099
+1430.3.8 = {
+	monarch = {
+		name = "Hnanisho"
+		birth_date = 1395.1.1
+		dynasty = "Chrusarkha"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Theodosis"
+		monarch_name = "Theodosis III"
+		dynasty = "Chrusarkha"
+		birth_date = 1417.1.1
+		death_date = 1497.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 1099
+	add_treasury = 6
+	add_prestige = 15
+}

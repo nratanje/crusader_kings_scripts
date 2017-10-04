@@ -1,0 +1,36 @@
+# Venice
+government = merchant_republic
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 112
+1435.12.31 = {
+	monarch = {
+		name = "Francesco"
+		birth_date = 1385.1.2
+		dynasty = "Dandolo"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Raniero"
+		monarch_name = "Raniero"
+		dynasty = "Dandolo"
+		birth_date = 1365.1.2
+		death_date = 1445.1.2
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 112
+	add_treasury = 17
+	add_prestige = 18
+}

@@ -1,0 +1,36 @@
+# Germiyan
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1848
+1434.1.1 = {
+	monarch = {
+		name = "Mehmed"
+		birth_date = 1405.1.1
+		dynasty = "Germiyan"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Suleyman"
+		monarch_name = "Suleyman"
+		dynasty = "Germiyan"
+		birth_date = 1433.1.1
+		death_date = 1513.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1848
+	add_treasury = 8
+	add_prestige = 12
+}

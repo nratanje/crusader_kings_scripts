@@ -1,0 +1,23 @@
+# The Papacy
+government = papal_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 118
+1441.12.20 = {
+	monarch = {
+		name = "Benedictus XI"
+		birth_date = 1392.1.1
+		dynasty = "Fournier"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 118
+	add_treasury = 17
+	add_prestige = 9
+}

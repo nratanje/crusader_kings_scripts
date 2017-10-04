@@ -1,0 +1,23 @@
+# Kartid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 447
+1439.1.1 = {
+	monarch = {
+		name = "Mu'izz II ud-Din"
+		birth_date = 1422.1.1
+		dynasty = "Kartid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 447
+	add_treasury = 9
+	add_prestige = 39
+}

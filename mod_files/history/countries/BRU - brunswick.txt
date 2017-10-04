@@ -1,0 +1,26 @@
+# Brunswick
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1758
+1425.9.22 = {
+	monarch = {
+		name = "Otto II"
+		birth_date = 1397.1.2
+		dynasty = "Welf"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1758
+	add_treasury = 6
+	add_prestige = 105
+	elector = yes
+}

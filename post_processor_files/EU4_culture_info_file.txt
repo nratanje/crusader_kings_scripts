@@ -1,0 +1,336 @@
+germanic	pommeranian	POM
+germanic	prussian	PRU
+germanic	hannoverian	HAN
+germanic	hessian	HES
+germanic	saxon	SAX
+germanic	franconian	ANS
+germanic	swabian	WUR
+germanic	swiss	SWI
+germanic	bavarian	BAV
+germanic	austrian	HAB
+germanic	dutch	NED
+germanic	flemish	FLA
+scandinavian	swedish	SWE
+scandinavian	danish	DAN
+scandinavian	norwegian	NOR
+scandinavian	finnish	FIN
+scandinavian	sapmi	SMI
+british	english	ENG
+british	american	USA
+british	welsh	WLS
+british	scottish	SCO
+gaelic	irish	IRE
+gaelic	highland_scottish	HSC
+latin	lombard	MLO
+latin	tuscan	TUS
+latin	sardinian	SAR
+latin	romagnan	FER
+latin	ligurian	GEN
+latin	venetian	VEN
+latin	neapolitan	NAP
+latin	piedmontese	SAV
+latin	umbrian	URB
+latin	sicilian	SIC
+latin	maltese	JAI
+iberian	castillian	CAS
+iberian	leonese	LON
+iberian	aragonese	ARA
+iberian	catalan	CAT
+iberian	galician	GAL
+iberian	andalucian	GRA
+iberian	portugese	POR
+iberian	basque	NAV
+french	cosmopolitan_french	FRA
+french	gascon	GUY
+french	normand	NRM
+french	aquitaine	TOU
+french	burgundian	BUR
+french	occitain	PRO
+french	wallonian	HAI
+french	breton	BRI
+finno_ugric	uralic	PRM
+finno_ugric	samoyed	
+finno_ugric	ostyaki	
+finno_ugric	ingrian	
+south_slavic	croatian	CRO
+south_slavic	serbian	SER
+south_slavic	bulgarian	BUL
+south_slavic	albanian	ALB
+west_slavic	czech	BOH
+west_slavic	polish	POL
+west_slavic	schlesian	SIL
+carpathian	slovak	SLO
+carpathian	transylvanian	TRA
+carpathian	romanian	WAL
+carpathian	hungarian	HUN
+east_slavic	russian	MOS
+east_slavic	novgorodian	NOV
+east_slavic	ryazanian	RYA
+east_slavic	byelorussian	PLT
+east_slavic	ruthenian	KIE
+east_slavic	karelian	KRL
+baltic	estonian	EST
+baltic	lithuanian	LIT
+baltic	latvian	LVA
+byzantine	greek	GRE
+byzantine	pontic_greek	TRE
+byzantine	goths	FEO
+caucasian	georgian	GEO
+caucasian	circassian	CIR
+caucasian	dagestani	GAZ
+caucasian	armenian	ARM
+turko_semitic	turkish	TUR
+turko_semitic	al_misr_arabic	MAM
+turko_semitic	al_suryah_arabic	SYR
+turko_semitic	al_iraqiya_arabic	IRQ
+turko_semitic	bedouin_arabic	NAJ
+turko_semitic	omani_culture	OMA
+turko_semitic	yemeni_culture	ADE
+maghrebi	moroccan	MOR
+maghrebi	tunisian	TUN
+maghrebi	algerian	ALG
+maghrebi	berber	TLC
+iranian	persian	PER
+iranian	azerbaijani	SRV
+iranian	khorasani	KHO
+iranian	baluchi	BAL
+iranian	afghani	AFG
+iranian	kurdish	ARD
+iranian	mazandarani	TAB
+altaic	mongol	KHA
+altaic	chahar	CHH
+altaic	khalkha	KLK
+altaic	oirats	ZUN
+altaic	uzbehk	SHY
+altaic	turkmeni	KHI
+altaic	uyghur	KAS
+altaic	khazak	KZH
+altaic	kirgiz	CHG
+central_american	tecos	
+central_american	aztek	AZT
+central_american	purepecha	TAR
+central_american	totonac	TOT
+central_american	chichimecan	
+maya	yucatec	XIU
+maya	putun	ITZ
+maya	mayan	MAY
+maya	highland_mayan	
+otomanguean	zapotek	ZAP
+otomanguean	mixtec	MIX
+otomanguean	tlapanec	TLA
+andean_group	inca	CSU
+andean_group	aimara	CRA
+andean_group	diaguita	CCQ
+andean_group	chimuan	CHM
+je_tupi	tupinamba	TPQ
+je_tupi	guarani	GUA
+je	charruan	CUA
+je	ge	TUA
+maranon	jivaro	
+maranon	chachapoyan	CYA
+chibchan	muisca	MCA
+chibchan	cara	QTO
+chibchan	miskito	
+mataco	chacoan	
+araucanian	mapuche	MPC
+araucanian	patagonian	
+araucanian	het	
+araucanian	huarpe	
+carribean	arawak	
+carribean	maipurean	
+carribean	carib	CAB
+carribean	guajiro	ARW
+eskaleut	aleutian	
+eskaleut	inuit	
+central_algonquian	shawnee	SHA
+central_algonquian	illini	ILL
+central_algonquian	anishinabe	OJI
+central_algonquian	cree	WCR
+central_algonquian	mesquakie	
+plains_algonquian	cheyenne	CHY
+plains_algonquian	blackfoot	BLA
+plains_algonquian	arapaho	ARP
+eastern_algonquian	delaware	LEN
+eastern_algonquian	abenaki	ABE
+eastern_algonquian	mikmaq	MIK
+eastern_algonquian	mahican	
+eastern_algonquian	powhatan	POW
+eastern_algonquian	pequot	PEQ
+iroquoian	iroquois	IRO
+iroquoian	cherokee	CHE
+iroquoian	huron	HUR
+iroquoian	susquehannock	SUS
+siouan	dakota	SIO
+siouan	nakota	ASI
+siouan	chiwere	FOX
+siouan	osage	OSA
+siouan	catawba	
+caddoan	wichita	WIC
+caddoan	caddo	CAD
+caddoan	pawnee	PAW
+muskogean	creek	CRE
+muskogean	choctaw	CHO
+muskogean	chickasaw	CHI
+sonoran	pueblo	PUE
+sonoran	piman	PIM
+sonoran	shoshone	SHO
+sonoran	kiowa	KIO
+na_dene	apache	APA
+na_dene	navajo	NAH
+na_dene	chipewyan	
+na_dene	haida	HDA
+na_dene	athabascan	
+penutian	salish	SAL
+penutian	chinook	CNK
+penutian	yokuts	
+east_asian	manchu	MCH
+east_asian	chihan	YAN
+east_asian	miao	CMI
+east_asian	cantonese	YUE
+east_asian	jin	JIN
+east_asian	wu	WUU
+east_asian	chimin	MIN
+east_asian	hakka	HUA
+east_asian	gan	NNG
+east_asian	xiang	CHC
+east_asian	sichuanese	SHU
+east_asian	jianghuai	MNG
+east_asian	xibei	CSH
+east_asian	hubei	CXI
+east_asian	zhongyuan	LNG
+east_asian	shandong_culture	QIC
+korean_g	korean	KOR
+japanese_g	togoku	JAP
+japanese_g	japanese	MRI
+japanese_g	kyushuan	OTM
+mon_khmer	khmer	KHM
+mon_khmer	mon	PEG
+malay	polynesian	
+malay	cham	CHA
+malay	malayan	MLC
+malay	sumatran	ATJ
+malay	javanese	MAJ
+malay	filipino	SUL
+malay	bornean	BEI
+malay	madagascan	
+malay	sulawesi	MKS
+thai	central_thai	AYU
+thai	lao	LUA
+thai	northern_thai	LNA
+thai	shan	SST
+thai	zhuang	
+burman	burmese	TAU
+burman	tibetan	UTS
+burman	chin	MLB
+burman	yi	CYI
+burman	bai	CDL
+burman	karen	
+burman	kachin	
+burman	arakanese	ARK
+pacific	papuan	
+pacific	aboriginal	
+pacific	melanesian	
+pacific	moluccan	TER
+eastern_aryan	assamese	ASS
+eastern_aryan	bengali	BNG
+eastern_aryan	bihari	TRT
+eastern_aryan	nepali	NPL
+eastern_aryan	oriya	ORI
+eastern_aryan	sinhala	CEY
+hindusthani	avadhi	ODH
+hindusthani	kanauji	DLH
+hindusthani	panjabi	PUN
+hindusthani	kashmiri	KSH
+western_aryan	gujarati	GUJ
+western_aryan	marathi	MAR
+western_aryan	sindhi	SND
+western_aryan	rajput	MER
+western_aryan	malvi	MLW
+dravidian	kannada	MYS
+dravidian	malayalam	VND
+dravidian	tamil	MAD
+dravidian	telegu	GOC
+central_indic	gondi	GDW
+central_indic	garjati	GRJ
+central_indic	jharkhandi	NGP
+mande	mali	MAL
+mande	songhai	SON
+mande	soninke	ZAF
+mande	bambara	SOF
+mande	bozo	JNN
+mande	dyola	KNG
+sahelian	hausa	HAU
+sahelian	kanuri	KBO
+sahelian	bilala	YAO
+sahelian	tuareg	AIR
+sahelian	senegambian	JOL
+sahelian	fulani	FUL
+west_african	yorumba	OYO
+west_african	aka	ASH
+west_african	nupe	NUP
+west_african	fon	DAH
+west_african	mossi	MSI
+west_african	dagomba	DGB
+southern_african	makua	MKU
+southern_african	nguni	
+southern_african	bemba	
+southern_african	khoisan	
+southern_african	shona	ZIM
+southern_african	nyasa	MRA
+kongo_group	lunda	LND
+kongo_group	luba	LUB
+kongo_group	kongolese	KON
+kongo_group	yaka	YAK
+kongo_group	kuba	KUB
+kongo_group	mbundu	NDO
+kongo_group	chokwe	CKW
+kongo_group	mbangala	KSJ
+kongo_group	jukun	
+kongo_group	sawabantu	
+great_lakes_group	rwandan	RWA
+great_lakes_group	ganda	BUG
+great_lakes_group	masaba	
+african	madagasque	
+african	takama	
+african	bena	
+african	bantu	
+african	swahili	ZAN
+cushitic	somali	ADA
+cushitic	harari	HAR
+cushitic	afar	AFA
+cushitic	oromo	JIM
+cushitic	tigray	MED
+cushitic	sidamo	KAF
+cushitic	amhara	ETH
+sudanese	acholi	
+sudanese	nubian	NUB
+sudanese	beja	BEJ
+evenks	yakut	
+evenks	yukagyr	HOD
+evenks	buryat	BRT
+evenks	tungus	
+kamchatkan_g	ainu	ANU
+kamchatkan_g	kamchatkan	KMC
+tartar	astrakhani	AST
+tartar	bashkir	BSH
+tartar	crimean	CRI
+tartar	kazani	KAZ
+tartar	mishary	GOL
+tartar	nogaybak	NOG
+tartar	siberian	SIB
+lost_cultures_group	atlantean	
+lost_cultures_group	spartan	
+lost_cultures_group	athenian	
+lost_cultures_group	old_egyptian	
+lost_cultures_group	roman	
+lost_cultures_group	jan_mayenese	
+lost_cultures_group	pruthenian	
+lost_cultures_group	phoenician	
+lost_cultures_group	scanian	
+lost_cultures_group	anglosaxon	
+lost_cultures_group	babylonian	
+lost_cultures_group	etrurian	
+lost_cultures_group	parthian	
+lost_cultures_group	aramaic	
+lost_cultures_group	hebrew	
+lost_cultures_group	scythian	

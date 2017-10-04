@@ -1,0 +1,23 @@
+# The Isles
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = catholic
+capital = 253
+1437.1.1 = {
+	monarch = {
+		name = "John"
+		birth_date = 1433.1.1
+		dynasty = "Mac Domnaill"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 253
+	add_treasury = 6
+	add_prestige = 9
+}

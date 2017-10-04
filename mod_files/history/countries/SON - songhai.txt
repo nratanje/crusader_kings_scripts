@@ -1,0 +1,23 @@
+# Songhay
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+capital = 1133
+1427.1.1 = {
+	monarch = {
+		name = "Bär Kayna Ankabi"
+		birth_date = 1407.1.1
+		dynasty = "Sonni"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 1133
+	add_treasury = 6
+	add_prestige = 13
+}

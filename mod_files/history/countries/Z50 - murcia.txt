@@ -1,0 +1,26 @@
+# Murcia
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 221
+1390.12.25 = {
+	monarch = {
+		name = "Juan"
+		birth_date = 1389.5.5
+		dynasty = "de Villena"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 221
+	add_treasury = 7
+	add_prestige = 8
+}

@@ -1,0 +1,23 @@
+# Pandya
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tamil
+religion = hinduism
+capital = 540
+1434.1.1 = {
+	monarch = {
+		name = "Vira"
+		birth_date = 1367.1.1
+		dynasty = "Pandya"
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 540
+	add_treasury = 14
+	add_prestige = 113
+}

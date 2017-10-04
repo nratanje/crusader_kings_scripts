@@ -1,0 +1,23 @@
+# Volhynia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 1940
+1432.1.2 = {
+	monarch = {
+		name = "Dmitriy"
+		birth_date = 1410.1.2
+		dynasty = "Gediminaitis"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 1940
+	add_treasury = 6
+	add_prestige = 78
+}

@@ -1,0 +1,25 @@
+# Dihistan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2349
+1417.1.1 = {
+	monarch = {
+		name = "Togha Temur"
+		birth_date = 1397.1.1
+		dynasty = "Borjigin"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2349
+	add_treasury = 8
+	add_prestige = 807
+}

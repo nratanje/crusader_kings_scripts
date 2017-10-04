@@ -1,0 +1,24 @@
+# Baden
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 74
+1404.1.1 = {
+	monarch = {
+		name = "Rudolf"
+		birth_date = 1398.1.1
+		dynasty = "von Zähringen"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 74
+	add_treasury = 4
+	add_prestige = 25
+	elector = no
+}

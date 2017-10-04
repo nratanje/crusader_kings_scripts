@@ -1,0 +1,26 @@
+# Flanders
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = dutch
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1744
+1429.9.17 = {
+	monarch = {
+		name = "Louis"
+		birth_date = 1411.1.1
+		dynasty = "de Dampierre"
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1744
+	add_treasury = 8
+	add_prestige = 16
+}

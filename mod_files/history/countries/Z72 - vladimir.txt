@@ -1,0 +1,25 @@
+# Vladimir
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 307
+1434.1.2 = {
+	monarch = {
+		name = "Ivan"
+		birth_date = 1395.1.2
+		dynasty = "Rurikid"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 307
+	add_treasury = 9
+	add_prestige = 996
+}

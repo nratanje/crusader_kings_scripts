@@ -1,0 +1,37 @@
+# Golden Horde
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 466
+1419.1.2 = {
+	monarch = {
+		name = "Özbeg"
+		birth_date = 1389.1.1
+		dynasty = "Borjigin"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1427.1.2 = {
+	heir = {
+		name = "Tinibeg"
+		monarch_name = "Tinibeg"
+		dynasty = "Borjigin"
+		birth_date = 1427.1.2
+		death_date = 1507.1.2
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 466
+	add_treasury = 11
+	add_prestige = 809
+}

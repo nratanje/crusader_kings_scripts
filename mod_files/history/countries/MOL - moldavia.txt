@@ -1,0 +1,23 @@
+# Moldau
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = sunni
+capital = 268
+1432.1.1 = {
+	monarch = {
+		name = "Qara-Quchuq"
+		birth_date = 1407.1.1
+		dynasty = "Borjigin"
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 268
+	add_treasury = 8
+	add_prestige = 807
+}

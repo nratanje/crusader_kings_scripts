@@ -1,0 +1,23 @@
+# Bikrampur
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 564
+1392.1.1 = {
+	monarch = {
+		name = "Dasarathadeva"
+		birth_date = 1367.1.1
+		dynasty = "Deva"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 564
+	add_treasury = 5
+	add_prestige = 14
+}

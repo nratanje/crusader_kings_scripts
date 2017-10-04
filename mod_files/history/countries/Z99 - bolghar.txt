@@ -1,0 +1,35 @@
+# Bolghar
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = bolghar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1082
+1444.1.1 = {
+	monarch = {
+		name = "Bichur"
+		birth_date = 1407.1.1
+		dynasty = "Dulo"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Tsog"
+		monarch_name = "Tsog"
+		dynasty = "Dulo"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1082
+	add_treasury = 10
+	add_prestige = 229
+}

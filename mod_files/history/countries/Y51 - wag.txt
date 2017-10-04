@@ -1,0 +1,23 @@
+# Wag
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+capital = 1227
+1415.1.1 = {
+	monarch = {
+		name = "Tesfaye"
+		birth_date = 1389.1.1
+		dynasty = "Zagwe"
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 6
+	add_prestige = 56
+}

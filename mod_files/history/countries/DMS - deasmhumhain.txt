@@ -1,0 +1,33 @@
+# Deasmhumhain
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = catholic
+capital = 375
+1432.7.1 = {
+	monarch = {
+		name = "Cormac"
+		birth_date = 1407.1.1
+		dynasty = "Mac Carthaigh"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Domnall"
+		monarch_name = "Domnall"
+		dynasty = "Mac Carthaigh"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 375
+	add_treasury = 4
+	add_prestige = 16
+}

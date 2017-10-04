@@ -1,0 +1,23 @@
+# Dana
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+capital = 2413
+1444.1.1 = {
+	monarch = {
+		name = "Khal"
+		birth_date = 1402.1.1
+		dynasty = "Dana"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2413
+	add_treasury = 8
+	add_prestige = 8
+}

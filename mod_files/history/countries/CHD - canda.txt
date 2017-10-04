@@ -1,0 +1,38 @@
+# Canda
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2050
+1389.1.1 = {
+	monarch = {
+		name = "Hir Sah"
+		birth_date = 1367.1.1
+		dynasty = "Chanda"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1427.1.1 = {
+	heir = {
+		name = "Bhuma"
+		monarch_name = "Bhuma"
+		dynasty = "Chanda"
+		birth_date = 1427.1.1
+		death_date = 1507.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2050
+	add_treasury = 4
+	add_prestige = 13
+}

@@ -1,0 +1,23 @@
+# Alexandria
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = sunni
+capital = 358
+1437.1.1 = {
+	monarch = {
+		name = "al-Muzzafar Haji"
+		birth_date = 1435.1.1
+		dynasty = "Bahri"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 358
+	add_treasury = 8
+	add_prestige = 67
+}

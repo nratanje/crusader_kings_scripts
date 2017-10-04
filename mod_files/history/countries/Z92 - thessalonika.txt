@@ -1,0 +1,26 @@
+# Thessalonika
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1853
+1427.10.12 = {
+	monarch = {
+		name = "Ioannes VI"
+		birth_date = 1399.1.1
+		dynasty = "Kantakouzenos"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1853
+	add_treasury = 8
+	add_prestige = 22
+}

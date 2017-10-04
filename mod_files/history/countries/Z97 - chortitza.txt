@@ -1,0 +1,23 @@
+# Chortitza
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+capital = 2411
+1420.1.1 = {
+	monarch = {
+		name = "Taghai"
+		birth_date = 1402.1.1
+		dynasty = "Taghai"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2411
+	add_treasury = 4
+	add_prestige = 2
+}

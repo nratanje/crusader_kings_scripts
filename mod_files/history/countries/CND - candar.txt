@@ -1,0 +1,33 @@
+# Candar
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 328
+1415.1.1 = {
+	monarch = {
+		name = "Suleyman"
+		birth_date = 1387.1.1
+		dynasty = "Candar"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim"
+		dynasty = "Candar"
+		birth_date = 1403.1.1
+		death_date = 1483.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 328
+	add_treasury = 9
+	add_prestige = 11
+}

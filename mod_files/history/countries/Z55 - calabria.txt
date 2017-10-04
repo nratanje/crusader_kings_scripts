@@ -1,0 +1,23 @@
+# Calabria
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 1934
+1435.11.9 = {
+	monarch = {
+		name = "Andre"
+		birth_date = 1434.1.2
+		dynasty = "d'Anjou"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1934
+	add_treasury = 7
+	add_prestige = 60
+}

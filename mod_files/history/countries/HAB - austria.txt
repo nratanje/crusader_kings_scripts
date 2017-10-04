@@ -1,0 +1,26 @@
+# Austria
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 134
+1437.2.14 = {
+	monarch = {
+		name = "Albrecht III"
+		birth_date = 1405.12.12
+		dynasty = "von Habsburg"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 134
+	add_treasury = 8
+	add_prestige = 48
+	elector = yes
+}

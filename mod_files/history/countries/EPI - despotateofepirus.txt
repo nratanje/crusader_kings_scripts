@@ -1,0 +1,34 @@
+# Epirus
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+capital = 144
+1442.1.1 = {
+	monarch = {
+		name = "Nikephoros III"
+		birth_date = 1436.1.1
+		dynasty = "Orsini"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Tomaida"
+		monarch_name = "Tomaida"
+		dynasty = "Orsini"
+		birth_date = 1438.1.1
+		death_date = 1518.1.1
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 144
+	add_treasury = 7
+	add_prestige = 12
+}

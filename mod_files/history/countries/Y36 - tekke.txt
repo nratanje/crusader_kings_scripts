@@ -1,0 +1,35 @@
+# Tekke
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2298
+1434.1.1 = {
+	monarch = {
+		name = "Khadersinan"
+		birth_date = 1427.1.1
+		dynasty = "Tekke"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed"
+		dynasty = "Tekke"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2298
+	add_treasury = 8
+	add_prestige = 14
+}

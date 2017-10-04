@@ -1,0 +1,26 @@
+# Aegean Islands
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 164
+1430.1.1 = {
+	monarch = {
+		name = "Niccolò"
+		birth_date = 1392.1.1
+		dynasty = "Sanudo"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 164
+	add_treasury = 6
+	add_prestige = 10
+}

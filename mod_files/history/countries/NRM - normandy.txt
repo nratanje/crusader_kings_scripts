@@ -1,0 +1,23 @@
+# Normandy
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 167
+1439.1.1 = {
+	monarch = {
+		name = "Jean III"
+		birth_date = 1426.4.16
+		dynasty = "de Valois"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 167
+	add_treasury = 8
+	add_prestige = 16
+}

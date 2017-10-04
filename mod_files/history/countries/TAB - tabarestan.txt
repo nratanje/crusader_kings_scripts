@@ -1,0 +1,23 @@
+# Tabaristan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = shiite
+capital = 2216
+1435.1.1 = {
+	monarch = {
+		name = "Malek Asraf"
+		birth_date = 1428.1.1
+		dynasty = "Chupanid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2216
+	add_treasury = 7
+	add_prestige = 15
+}

@@ -1,0 +1,24 @@
+# Köln
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 85
+1439.1.5 = {
+	monarch = {
+		name = "Walram"
+		birth_date = 1411.1.1
+		dynasty = "von Jülich"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 85
+	add_treasury = 6
+	add_prestige = 7
+	elector = no
+}

@@ -1,0 +1,35 @@
+# Tughluq
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = turkish
+religion = sunni
+capital = 556
+1432.2.1 = {
+	monarch = {
+		name = "Muhammad II"
+		birth_date = 1404.1.1
+		dynasty = "Tughluq"
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+1438.1.1 = {
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud III"
+		dynasty = "Tughluq"
+		birth_date = 1438.1.1
+		death_date = 1518.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 556
+	add_treasury = 55
+	add_prestige = 110
+}

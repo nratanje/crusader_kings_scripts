@@ -1,0 +1,23 @@
+# Lower Don
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+capital = 2412
+1422.1.1 = {
+	monarch = {
+		name = "Jajiradi"
+		birth_date = 1402.1.1
+		dynasty = "Jajiradi"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2412
+	add_treasury = 4
+	add_prestige = 2
+}

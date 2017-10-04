@@ -1,0 +1,37 @@
+# Usfurid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 395
+1417.1.1 = {
+	monarch = {
+		name = "Sa'id"
+		birth_date = 1407.1.1
+		dynasty = "Usfurid"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+1427.1.1 = {
+	heir = {
+		name = "Djarwan"
+		monarch_name = "Djarwan"
+		dynasty = "Usfurid"
+		birth_date = 1427.1.1
+		death_date = 1507.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 395
+	add_treasury = 7
+	add_prestige = 15
+}

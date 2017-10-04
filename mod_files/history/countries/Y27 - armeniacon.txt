@@ -1,0 +1,23 @@
+# Armeniacon
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 325
+1421.1.1 = {
+	monarch = {
+		name = "Ibrahim"
+		birth_date = 1403.1.1
+		dynasty = "Candar"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 325
+	add_treasury = 6
+	add_prestige = 10
+}

@@ -1,0 +1,25 @@
+# Gojjam
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1223
+1442.1.1 = {
+	monarch = {
+		name = "Yonas"
+		birth_date = 1407.1.1
+		dynasty = "Mengesha"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1223
+	add_treasury = 6
+	add_prestige = 23
+}

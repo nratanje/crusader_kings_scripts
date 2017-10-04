@@ -1,0 +1,35 @@
+# Portugal
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = portugese
+religion = catholic
+clear_scripted_personalities = yes
+capital = 227
+1432.1.7 = {
+	monarch = {
+		name = "Afonso IV"
+		birth_date = 1398.2.8
+		dynasty = "de Bourgogne"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Pedro"
+		monarch_name = "Pedro"
+		dynasty = "de Bourgogne"
+		birth_date = 1427.4.18
+		death_date = 1507.4.18
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 227
+	add_treasury = 10
+	add_prestige = 60
+}

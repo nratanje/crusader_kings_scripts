@@ -1,0 +1,24 @@
+# Lower Lorraine
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 80
+1414.12.22 = {
+	monarch = {
+		name = "Baldewin"
+		birth_date = 1392.1.1
+		dynasty = "de Luxembourg"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 80
+	add_treasury = 6
+	add_prestige = 25
+	elector = no
+}

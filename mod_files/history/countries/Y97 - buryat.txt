@@ -1,0 +1,23 @@
+# Buryat
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+capital = 716
+1444.1.1 = {
+	monarch = {
+		name = "Toghtoga"
+		birth_date = 1417.7.8
+		dynasty = "Buryat"
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 716
+	add_treasury = 8
+	add_prestige = 38
+}

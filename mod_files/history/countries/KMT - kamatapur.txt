@@ -1,0 +1,33 @@
+# Kamatapur
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = assamese
+religion = hinduism
+capital = 562
+1437.1.1 = {
+	monarch = {
+		name = "Durlabhnarayan"
+		birth_date = 1419.1.1
+		dynasty = "Khen"
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+	heir = {
+		name = "Indranarayan"
+		monarch_name = "Indranarayan"
+		dynasty = "Khen"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 562
+	add_treasury = 4
+	add_prestige = 6
+}

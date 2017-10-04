@@ -1,0 +1,25 @@
+# Perm
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 305
+1437.1.1 = {
+	monarch = {
+		name = "Sarin"
+		birth_date = 1417.1.1
+		dynasty = "Kazym"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 305
+	add_treasury = 6
+	add_prestige = 40
+}

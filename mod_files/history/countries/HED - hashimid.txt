@@ -1,0 +1,26 @@
+# Hashimid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 385
+1421.1.1 = {
+	monarch = {
+		name = "Rumaitha"
+		birth_date = 1387.1.1
+		dynasty = "Hashimid"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 385
+	add_treasury = 8
+	add_prestige = 61
+}

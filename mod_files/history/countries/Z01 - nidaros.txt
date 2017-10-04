@@ -1,0 +1,25 @@
+# Nidaros
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 23
+1444.1.1 = {
+	monarch = {
+		name = "Erling"
+		birth_date = 1399.1.2
+		dynasty = "Giske"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 23
+	add_treasury = 7
+	add_prestige = 7
+}

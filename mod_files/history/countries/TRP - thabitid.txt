@@ -1,0 +1,35 @@
+# Thabitid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+capital = 354
+1434.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		birth_date = 1412.1.1
+		dynasty = "Thabitid"
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+1437.1.1 = {
+	heir = {
+		name = "Thabit"
+		monarch_name = "Thabit II"
+		dynasty = "Thabitid"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 354
+	add_treasury = 8
+	add_prestige = 8
+}

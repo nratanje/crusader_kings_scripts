@@ -1,0 +1,23 @@
+# Ilkhanate
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mongol
+religion = shiite
+capital = 2211
+1443.7.24 = {
+	monarch = {
+		name = "Mohammad"
+		birth_date = 1434.1.2
+		dynasty = "Borjigin"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2211
+	add_treasury = 19
+	add_prestige = 809
+}

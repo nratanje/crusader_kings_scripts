@@ -1,0 +1,38 @@
+# Mallorca
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = catalan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 333
+1431.9.4 = {
+	monarch = {
+		name = "Jaume III"
+		birth_date = 1422.4.15
+		dynasty = "de Barcelona"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1443.8.24 = {
+	heir = {
+		name = "Jaume"
+		monarch_name = "Jaume IV"
+		dynasty = "de Barcelona"
+		birth_date = 1443.8.24
+		death_date = 1523.8.24
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 333
+	add_treasury = 8
+	add_prestige = 123
+}

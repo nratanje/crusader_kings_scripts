@@ -1,0 +1,23 @@
+# Nyitra
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = catholic
+capital = 1772
+1442.1.1 = {
+	monarch = {
+		name = "Máté IV"
+		birth_date = 1422.1.1
+		dynasty = "Csák"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 1772
+	add_treasury = 6
+	add_prestige = 28
+}

@@ -1,0 +1,23 @@
+# Suleimid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+capital = 356
+1444.1.1 = {
+	monarch = {
+		name = "Hamed"
+		birth_date = 1406.1.1
+		dynasty = "Suleimid"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 356
+	add_treasury = 6
+	add_prestige = 37
+}

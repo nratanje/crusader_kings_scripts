@@ -1,0 +1,23 @@
+# Danmark
+government = elective_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = catholic
+capital = 1984
+1439.8.2 = {
+	monarch = {
+		name = "Valdemar IV"
+		birth_date = 1427.1.1
+		dynasty = "Estrid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1984
+	add_treasury = 9
+	add_prestige = 142
+}

@@ -1,0 +1,24 @@
+# Württemberg
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 70
+1432.6.5 = {
+	monarch = {
+		name = "Ulrich"
+		birth_date = 1404.1.1
+		dynasty = "von Württemberg"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 70
+	add_treasury = 4
+	add_prestige = 6
+	elector = no
+}

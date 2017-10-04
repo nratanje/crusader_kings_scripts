@@ -1,0 +1,35 @@
+# Alodia
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1222
+1411.1.1 = {
+	monarch = {
+		name = "Guryuh"
+		birth_date = 1381.1.1
+		dynasty = "Azim"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios"
+		dynasty = "Azim"
+		birth_date = 1404.1.1
+		death_date = 1484.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1222
+	add_treasury = 6
+	add_prestige = 124
+}

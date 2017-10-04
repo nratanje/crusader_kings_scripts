@@ -1,0 +1,23 @@
+# Knights Hospitaller
+government = monastic_order_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 320
+1426.6.18 = {
+	monarch = {
+		name = "Hélion"
+		birth_date = 1377.1.1
+		dynasty = "de Villeneuve"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 320
+	add_treasury = 6
+	add_prestige = 4
+}

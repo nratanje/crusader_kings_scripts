@@ -1,0 +1,35 @@
+# Walashma
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1211
+1444.1.1 = {
+	monarch = {
+		name = "Ali IX"
+		birth_date = 1424.1.1
+		dynasty = "Walashma"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Ahmad ad-Din"
+		monarch_name = "Ahmad ad-Din"
+		dynasty = "Walashma"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1211
+	add_treasury = 7
+	add_prestige = 24
+}

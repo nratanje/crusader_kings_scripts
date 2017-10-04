@@ -1,0 +1,25 @@
+# Kaztal
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 474
+1444.1.1 = {
+	monarch = {
+		name = "Dagun"
+		birth_date = 1407.1.1
+		dynasty = "Kaztal"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 474
+	add_treasury = 8
+	add_prestige = 6
+}

@@ -1,0 +1,23 @@
+# Galich
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 261
+1432.1.2 = {
+	monarch = {
+		name = "Yuriy II"
+		birth_date = 1415.1.2
+		dynasty = "Piast"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 261
+	add_treasury = 7
+	add_prestige = 244
+}

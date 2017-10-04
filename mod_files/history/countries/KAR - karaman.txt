@@ -1,0 +1,33 @@
+# Karaman
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 324
+1440.1.1 = {
+	monarch = {
+		name = "Halil"
+		birth_date = 1407.1.1
+		dynasty = "Karaman"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa"
+		dynasty = "Karaman"
+		birth_date = 1429.1.1
+		death_date = 1509.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 324
+	add_treasury = 8
+	add_prestige = 22
+}

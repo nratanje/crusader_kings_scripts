@@ -1,0 +1,23 @@
+# Bhatti
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+capital = 513
+1437.1.1 = {
+	monarch = {
+		name = "Ratan"
+		birth_date = 1415.1.1
+		dynasty = "Bhatti"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 513
+	add_treasury = 6
+	add_prestige = 63
+}

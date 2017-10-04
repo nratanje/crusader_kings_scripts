@@ -1,0 +1,25 @@
+# Vidin
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2746
+1437.7.28 = {
+	monarch = {
+		name = "Liudovik"
+		birth_date = 1415.1.2
+		dynasty = "Shishman"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2746
+	add_treasury = 6
+	add_prestige = 19
+}

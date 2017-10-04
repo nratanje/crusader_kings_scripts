@@ -1,0 +1,24 @@
+# Brabant
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = dutch
+religion = catholic
+capital = 92
+1419.10.27 = {
+	monarch = {
+		name = "Jan III"
+		birth_date = 1407.10.20
+		dynasty = "Reginar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 92
+	add_treasury = 7
+	add_prestige = 48
+	elector = yes
+}

@@ -1,0 +1,23 @@
+# Novgorod
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 310
+1442.1.2 = {
+	monarch = {
+		name = "Feodor III"
+		birth_date = 1417.1.2
+		dynasty = "Danilovich"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 310
+	add_treasury = 7
+	add_prestige = 10
+}

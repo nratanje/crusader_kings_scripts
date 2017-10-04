@@ -1,0 +1,36 @@
+# Lithuania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = animism
+clear_scripted_personalities = yes
+capital = 272
+1423.1.1 = {
+	monarch = {
+		name = "Gediminas"
+		birth_date = 1377.1.2
+		dynasty = "Gediminaitis"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Gleb"
+		monarch_name = "Gleb"
+		dynasty = "Gediminaitis"
+		birth_date = 1401.1.2
+		death_date = 1481.1.2
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 272
+	add_treasury = 10
+	add_prestige = 79
+}

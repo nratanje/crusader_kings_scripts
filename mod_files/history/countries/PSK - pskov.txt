@@ -1,0 +1,33 @@
+# Pskov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 274
+1434.8.31 = {
+	monarch = {
+		name = "Alexandr"
+		birth_date = 1408.1.2
+		dynasty = "Rurikid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Vasiliy"
+		monarch_name = "Vasiliy"
+		dynasty = "Rurikid"
+		birth_date = 1411.1.2
+		death_date = 1491.1.2
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 274
+	add_treasury = 4
+	add_prestige = 995
+}

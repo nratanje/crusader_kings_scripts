@@ -1,0 +1,25 @@
+# Shewa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1213
+1439.1.1 = {
+	monarch = {
+		name = "Berhanua"
+		birth_date = 1405.1.1
+		dynasty = "Getachew"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1213
+	add_treasury = 6
+	add_prestige = 9
+}

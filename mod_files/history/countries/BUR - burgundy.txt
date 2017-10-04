@@ -1,0 +1,23 @@
+# Burgundy
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 192
+1422.5.9 = {
+	monarch = {
+		name = "Eudes IV"
+		birth_date = 1402.1.2
+		dynasty = "de Bourgogne"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 192
+	add_treasury = 8
+	add_prestige = 59
+}

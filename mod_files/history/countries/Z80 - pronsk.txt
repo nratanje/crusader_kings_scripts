@@ -1,0 +1,26 @@
+# Pronsk
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 300
+1433.1.2 = {
+	monarch = {
+		name = "Alexandr"
+		birth_date = 1409.1.2
+		dynasty = "Rurikid"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 300
+	add_treasury = 6
+	add_prestige = 996
+}

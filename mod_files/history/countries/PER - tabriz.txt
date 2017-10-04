@@ -1,0 +1,23 @@
+# Tabriz
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = sunni
+capital = 416
+1435.1.1 = {
+	monarch = {
+		name = "Hasan"
+		birth_date = 1426.1.1
+		dynasty = "Chupanid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 416
+	add_treasury = 7
+	add_prestige = 15
+}

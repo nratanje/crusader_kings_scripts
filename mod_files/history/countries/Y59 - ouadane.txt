@@ -1,0 +1,25 @@
+# Ouadane
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1127
+1427.1.1 = {
+	monarch = {
+		name = "Birama"
+		birth_date = 1407.1.1
+		dynasty = "Konare"
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1127
+	add_treasury = 4
+	add_prestige = 6
+}

@@ -1,0 +1,25 @@
+# Rasulid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 390
+1429.1.1 = {
+	monarch = {
+		name = "al-Mujahid Ali"
+		birth_date = 1410.1.1
+		dynasty = "Rasulid"
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 390
+	add_treasury = 8
+	add_prestige = 20
+}

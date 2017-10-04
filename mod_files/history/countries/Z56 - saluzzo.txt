@@ -1,0 +1,33 @@
+# Saluzzo
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 1875
+1443.6.29 = {
+	monarch = {
+		name = "Tommaso"
+		birth_date = 1411.1.1
+		dynasty = "Aleramicci"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Federigo"
+		monarch_name = "Federigo"
+		dynasty = "Aleramicci"
+		birth_date = 1439.1.1
+		death_date = 1519.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1875
+	add_treasury = 4
+	add_prestige = 30
+}

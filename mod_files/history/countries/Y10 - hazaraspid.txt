@@ -1,0 +1,23 @@
+# Hazaraspid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = sunni
+capital = 2210
+1440.1.1 = {
+	monarch = {
+		name = "Yusuf II Šah"
+		birth_date = 1407.1.1
+		dynasty = "Hazaraspid"
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 2210
+	add_treasury = 6
+	add_prestige = 19
+}

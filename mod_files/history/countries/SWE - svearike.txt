@@ -1,0 +1,25 @@
+# Svea Rike
+government = elective_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = swedish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1
+1426.7.8 = {
+	monarch = {
+		name = "Magnus IV"
+		birth_date = 1423.4.20
+		dynasty = "af Bjälbo"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1
+	add_treasury = 15
+	add_prestige = 75
+}

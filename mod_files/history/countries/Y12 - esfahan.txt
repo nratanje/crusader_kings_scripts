@@ -1,0 +1,25 @@
+# Esfahan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = shiite
+clear_scripted_personalities = yes
+capital = 429
+1442.1.1 = {
+	monarch = {
+		name = "Kai-Khusrau"
+		birth_date = 1417.1.1
+		dynasty = "Injuid"
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 429
+	add_treasury = 7
+	add_prestige = 8
+}

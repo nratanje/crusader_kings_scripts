@@ -1,0 +1,23 @@
+# Estonia
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = catholic
+capital = 36
+1439.1.1 = {
+	monarch = {
+		name = "Otto"
+		birth_date = 1419.1.2
+		dynasty = "Estrid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 36
+	add_treasury = 6
+	add_prestige = 141
+}

@@ -1,0 +1,25 @@
+# Baghdad
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = shiite
+clear_scripted_personalities = yes
+capital = 410
+1437.1.1 = {
+	monarch = {
+		name = "Hasan"
+		birth_date = 1412.1.1
+		dynasty = "Jalayar"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 410
+	add_treasury = 13
+	add_prestige = 22
+}

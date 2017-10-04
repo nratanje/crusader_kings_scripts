@@ -1,0 +1,35 @@
+# Semien
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = jewish
+clear_scripted_personalities = yes
+capital = 1227
+1428.1.1 = {
+	monarch = {
+		name = "Dawit IV"
+		birth_date = 1403.1.1
+		dynasty = "Gideon"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Yacob"
+		monarch_name = "Yacob II"
+		dynasty = "Gideon"
+		birth_date = 1424.1.1
+		death_date = 1504.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 7
+	add_prestige = 74
+}

@@ -1,0 +1,23 @@
+# Croatia
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = catholic
+capital = 1826
+1429.1.1 = {
+	monarch = {
+		name = "Mladen"
+		birth_date = 1377.1.1
+		dynasty = "Subic"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 1826
+	add_treasury = 6
+	add_prestige = 26
+}

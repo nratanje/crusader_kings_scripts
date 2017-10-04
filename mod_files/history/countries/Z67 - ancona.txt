@@ -1,0 +1,23 @@
+# Ancona
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 119
+1443.1.1 = {
+	monarch = {
+		name = "Rodolfo"
+		birth_date = 1407.1.1
+		dynasty = "Moschianos"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 119
+	add_treasury = 57
+	add_prestige = 4
+}

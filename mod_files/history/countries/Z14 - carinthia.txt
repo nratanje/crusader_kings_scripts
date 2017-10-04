@@ -1,0 +1,24 @@
+# Carinthia
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 132
+1442.4.2 = {
+	monarch = {
+		name = "Otto III"
+		birth_date = 1408.7.23
+		dynasty = "von Habsburg"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 132
+	add_treasury = 6
+	add_prestige = 48
+	elector = no
+}

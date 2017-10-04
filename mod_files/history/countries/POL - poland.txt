@@ -1,0 +1,36 @@
+# Poland
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 262
+1440.3.2 = {
+	monarch = {
+		name = "Kazimierz III"
+		birth_date = 1417.4.30
+		dynasty = "Piast"
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Elzbieta"
+		monarch_name = "Elzbieta"
+		dynasty = "Piast"
+		birth_date = 1433.1.2
+		death_date = 1513.1.2
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 262
+	add_treasury = 10
+	add_prestige = 245
+}

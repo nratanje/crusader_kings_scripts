@@ -1,0 +1,24 @@
+# Bohemia
+government = elective_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 266
+1417.1.1 = {
+	monarch = {
+		name = "Johann"
+		birth_date = 1403.8.10
+		dynasty = "de Luxembourg"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 266
+	add_treasury = 11
+	add_prestige = 26
+	elector = yes
+}

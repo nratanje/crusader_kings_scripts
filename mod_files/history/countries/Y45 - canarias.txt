@@ -1,0 +1,33 @@
+# Canarias
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = shamanism
+capital = 366
+1437.1.1 = {
+	monarch = {
+		name = "Betzenuriga"
+		birth_date = 1407.1.1
+		dynasty = "Tikanariyen"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	heir = {
+		name = "Hussamaddin"
+		monarch_name = "Hussamaddin"
+		dynasty = "Tikanariyen"
+		birth_date = 1407.1.1
+		death_date = 1487.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 366
+	add_treasury = 4
+	add_prestige = 12
+}

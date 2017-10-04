@@ -1,0 +1,36 @@
+# Lombardy
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 104
+1434.7.5 = {
+	monarch = {
+		name = "Azzone"
+		birth_date = 1409.12.7
+		dynasty = "Visconti"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Giovanni"
+		monarch_name = "Giovanni"
+		dynasty = "Visconti"
+		birth_date = 1387.1.1
+		death_date = 1467.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 104
+	add_treasury = 8
+	add_prestige = 23
+}

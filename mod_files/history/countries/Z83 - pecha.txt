@@ -1,0 +1,23 @@
+# Pecha
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+capital = 473
+1444.1.1 = {
+	monarch = {
+		name = "Batu"
+		birth_date = 1407.1.1
+		dynasty = "Pecha"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 473
+	add_treasury = 8
+	add_prestige = 6
+}

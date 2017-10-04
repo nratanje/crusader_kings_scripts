@@ -1,0 +1,23 @@
+# Nabhanid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = shiite
+capital = 400
+1392.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		birth_date = 1387.1.1
+		dynasty = "Nabhanid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 400
+	add_treasury = 9
+	add_prestige = 27
+}

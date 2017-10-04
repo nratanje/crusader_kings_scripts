@@ -1,0 +1,35 @@
+# Georgia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = orthodox
+capital = 423
+1420.1.1 = {
+	monarch = {
+		name = "Giorgi V"
+		birth_date = 1394.1.2
+		dynasty = "Bagrationi"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1437.1.2 = {
+	heir = {
+		name = "Davit"
+		monarch_name = "Davit IX"
+		dynasty = "Bagrationi"
+		birth_date = 1437.1.2
+		death_date = 1517.1.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 423
+	add_treasury = 10
+	add_prestige = 185
+}

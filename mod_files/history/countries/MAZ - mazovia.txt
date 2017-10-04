@@ -1,0 +1,23 @@
+# Mazovia
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = catholic
+capital = 256
+1420.4.20 = {
+	monarch = {
+		name = "Siemowit II"
+		birth_date = 1390.1.1
+		dynasty = "Piast"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 256
+	add_treasury = 6
+	add_prestige = 244
+}

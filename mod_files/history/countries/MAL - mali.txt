@@ -1,0 +1,33 @@
+# Mali
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+capital = 1132
+1444.1.1 = {
+	monarch = {
+		name = "Maghan"
+		birth_date = 1407.1.1
+		dynasty = "Keita"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	heir = {
+		name = "Mari-Djata"
+		monarch_name = "Mari-Djata II"
+		dynasty = "Keita"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1132
+	add_treasury = 10
+	add_prestige = 92
+}

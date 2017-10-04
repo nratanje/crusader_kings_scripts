@@ -1,0 +1,35 @@
+# Ortokid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 418
+1427.1.1 = {
+	monarch = {
+		name = "Dawud"
+		birth_date = 1407.1.1
+		dynasty = "Ortokid"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+1437.1.1 = {
+	heir = {
+		name = "'Isa"
+		monarch_name = "'Isa"
+		dynasty = "Ortokid"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 418
+	add_treasury = 7
+	add_prestige = 55
+}

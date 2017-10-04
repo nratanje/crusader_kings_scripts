@@ -1,0 +1,36 @@
+# Haihaya
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2082
+1407.1.1 = {
+	monarch = {
+		name = "Ramachandra"
+		birth_date = 1367.1.1
+		dynasty = "Haihaya"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Ratanasena"
+		monarch_name = "Ratanasena"
+		dynasty = "Haihaya"
+		birth_date = 1407.1.1
+		death_date = 1487.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2082
+	add_treasury = 8
+	add_prestige = 45
+}

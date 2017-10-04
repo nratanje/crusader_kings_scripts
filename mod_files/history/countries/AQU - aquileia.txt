@@ -1,0 +1,27 @@
+# Aquileia
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1769
+1426.1.1 = {
+	monarch = {
+		name = "Bertram"
+		birth_date = 1396.1.1
+		dynasty = "St. Genes"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1769
+	add_treasury = 4
+	add_prestige = 2
+	elector = no
+}

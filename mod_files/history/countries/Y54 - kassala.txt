@@ -1,0 +1,25 @@
+# Kassala
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 4033
+1419.1.1 = {
+	monarch = {
+		name = "Gennatios"
+		birth_date = 1401.1.1
+		dynasty = "Hadendoa"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4033
+	add_treasury = 4
+	add_prestige = 6
+}

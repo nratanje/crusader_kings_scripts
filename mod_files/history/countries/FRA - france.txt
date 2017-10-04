@@ -1,0 +1,33 @@
+# France
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 183
+1435.2.1 = {
+	monarch = {
+		name = "Philippe VI"
+		birth_date = 1400.1.2
+		dynasty = "de Valois"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean II"
+		dynasty = "de Valois"
+		birth_date = 1426.4.16
+		death_date = 1506.4.16
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 183
+	add_treasury = 15
+	add_prestige = 17
+}

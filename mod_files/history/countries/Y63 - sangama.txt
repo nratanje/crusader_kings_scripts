@@ -1,0 +1,33 @@
+# Sangama
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+capital = 532
+1444.1.1 = {
+	monarch = {
+		name = "Harihara"
+		birth_date = 1414.1.1
+		dynasty = "Sangama"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+	heir = {
+		name = "Bukka"
+		monarch_name = "Bukka"
+		dynasty = "Sangama"
+		birth_date = 1419.1.1
+		death_date = 1499.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 532
+	add_treasury = 12
+	add_prestige = 14
+}

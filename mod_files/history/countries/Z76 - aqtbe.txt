@@ -1,0 +1,23 @@
+# Aqtöbe
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+capital = 2357
+1444.1.1 = {
+	monarch = {
+		name = "Bilge"
+		birth_date = 1407.1.1
+		dynasty = "Aqtöbe"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2357
+	add_treasury = 8
+	add_prestige = 8
+}

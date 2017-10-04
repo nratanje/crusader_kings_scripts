@@ -1,0 +1,35 @@
+# Bhanja
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 547
+1431.1.1 = {
+	monarch = {
+		name = "Annam Dev"
+		birth_date = 1398.1.1
+		dynasty = "Bhanja"
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Hamir Dev"
+		monarch_name = "Hamir Dev"
+		dynasty = "Bhanja"
+		birth_date = 1422.1.1
+		death_date = 1502.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 547
+	add_treasury = 6
+	add_prestige = 5
+}

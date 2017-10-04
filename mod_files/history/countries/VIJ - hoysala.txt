@@ -1,0 +1,25 @@
+# Hoysala
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 541
+1398.1.1 = {
+	monarch = {
+		name = "Veeraballala III"
+		birth_date = 1356.1.1
+		dynasty = "Hoysala"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 541
+	add_treasury = 11
+	add_prestige = 75
+}

@@ -1,0 +1,23 @@
+# Chagatai
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+capital = 453
+1442.1.1 = {
+	monarch = {
+		name = "Changshi"
+		birth_date = 1422.1.1
+		dynasty = "Borjigin"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 453
+	add_treasury = 10
+	add_prestige = 809
+}

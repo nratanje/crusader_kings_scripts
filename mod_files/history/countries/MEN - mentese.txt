@@ -1,0 +1,37 @@
+# Mentese
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 319
+1426.1.1 = {
+	monarch = {
+		name = "Urhan"
+		birth_date = 1402.1.1
+		dynasty = "Mentese"
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim"
+		dynasty = "Mentese"
+		birth_date = 1418.1.1
+		death_date = 1498.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 319
+	add_treasury = 8
+	add_prestige = 11
+}

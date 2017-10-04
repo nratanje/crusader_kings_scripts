@@ -1,0 +1,35 @@
+# Eretnid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2301
+1442.1.1 = {
+	monarch = {
+		name = "Eretna"
+		birth_date = 1407.1.1
+		dynasty = "Eretnid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed"
+		dynasty = "Eretnid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2301
+	add_treasury = 11
+	add_prestige = 10
+}

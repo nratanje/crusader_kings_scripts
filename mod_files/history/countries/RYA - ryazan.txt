@@ -1,0 +1,23 @@
+# Ryazan
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 301
+1434.1.2 = {
+	monarch = {
+		name = "Ivan II"
+		birth_date = 1412.1.2
+		dynasty = "Rurikid"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 301
+	add_treasury = 6
+	add_prestige = 996
+}

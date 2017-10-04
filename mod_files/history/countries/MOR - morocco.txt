@@ -1,0 +1,25 @@
+# Marrakech
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 344
+1438.8.1 = {
+	monarch = {
+		name = "Ali"
+		birth_date = 1422.1.1
+		dynasty = "Marinid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 344
+	add_treasury = 7
+	add_prestige = 61
+}

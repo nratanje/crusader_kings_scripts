@@ -1,0 +1,36 @@
+# Bretagne
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 171
+1419.8.27 = {
+	monarch = {
+		name = "Jean III"
+		birth_date = 1393.3.8
+		dynasty = "de Dreux"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean IV"
+		dynasty = "de Dreux"
+		birth_date = 1400.1.1
+		death_date = 1480.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 171
+	add_treasury = 9
+	add_prestige = 22
+}

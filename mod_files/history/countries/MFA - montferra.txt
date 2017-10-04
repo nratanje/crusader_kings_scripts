@@ -1,0 +1,37 @@
+# Monferrato
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2981
+1412.1.1 = {
+	monarch = {
+		name = "Teodoro"
+		birth_date = 1398.1.1
+		dynasty = "Palaiologos"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+1419.1.1 = {
+	heir = {
+		name = "Giovanni"
+		monarch_name = "Giovanni"
+		dynasty = "Palaiologos"
+		birth_date = 1419.1.1
+		death_date = 1499.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2981
+	add_treasury = 4
+	add_prestige = 62
+}

@@ -1,0 +1,33 @@
+# Ottoman
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 317
+1431.1.1 = {
+	monarch = {
+		name = "Orhan"
+		birth_date = 1388.1.1
+		dynasty = "Ottoman"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	heir = {
+		name = "Suleyman"
+		monarch_name = "Suleyman"
+		dynasty = "Ottoman"
+		birth_date = 1423.1.1
+		death_date = 1503.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 317
+	add_treasury = 13
+	add_prestige = 19
+}

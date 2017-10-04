@@ -1,0 +1,25 @@
+# Alania
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = alan
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2197
+1420.1.1 = {
+	monarch = {
+		name = "Aspar"
+		birth_date = 1402.1.1
+		dynasty = "Senty"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2197
+	add_treasury = 6
+	add_prestige = 11
+}

@@ -1,0 +1,23 @@
+# Ayyubid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = kurdish
+religion = sunni
+capital = 377
+1427.1.1 = {
+	monarch = {
+		name = "al-Adil II Muhammad Mujir ad-Din"
+		birth_date = 1387.1.1
+		dynasty = "Ayyubid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 377
+	add_treasury = 7
+	add_prestige = 205
+}

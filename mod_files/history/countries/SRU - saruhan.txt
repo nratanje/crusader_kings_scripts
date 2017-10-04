@@ -1,0 +1,38 @@
+# Saruhan
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 318
+1417.1.1 = {
+	monarch = {
+		name = "Saruhan"
+		birth_date = 1395.1.1
+		dynasty = "Saruhan"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1420.1.1 = {
+	heir = {
+		name = "Ilyas"
+		monarch_name = "Ilyas"
+		dynasty = "Saruhan"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 318
+	add_treasury = 8
+	add_prestige = 11
+}

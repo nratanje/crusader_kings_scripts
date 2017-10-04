@@ -1,0 +1,33 @@
+# Cyprus
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 321
+1431.8.31 = {
+	monarch = {
+		name = "Hugues IV"
+		birth_date = 1400.1.1
+		dynasty = "de Lusignan"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Guy"
+		monarch_name = "Guy II"
+		dynasty = "de Lusignan"
+		birth_date = 1422.1.1
+		death_date = 1502.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 321
+	add_treasury = 9
+	add_prestige = 84
+}

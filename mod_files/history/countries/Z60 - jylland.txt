@@ -1,0 +1,23 @@
+# Jylland
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = catholic
+capital = 13
+1439.8.2 = {
+	monarch = {
+		name = "Valdemar VI"
+		birth_date = 1421.1.1
+		dynasty = "Estrid"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 13
+	add_treasury = 6
+	add_prestige = 141
+}

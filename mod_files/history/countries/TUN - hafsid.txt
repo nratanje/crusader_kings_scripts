@@ -1,0 +1,35 @@
+# Hafsid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 341
+1425.1.1 = {
+	monarch = {
+		name = "Yahya IV"
+		birth_date = 1373.1.1
+		dynasty = "Hafsid"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Ishaq"
+		monarch_name = "Ishaq II"
+		dynasty = "Hafsid"
+		birth_date = 1407.1.1
+		death_date = 1487.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 341
+	add_treasury = 13
+	add_prestige = 130
+}

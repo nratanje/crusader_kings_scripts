@@ -1,0 +1,1140 @@
+1	uppland	Z00	Z00	Z00	swedish	catholic	
+10	jamtland	Z00	Z00	Z00,Z03	norwegian	catholic	
+100	friesland	HOL	HOL	HOL	dutch	catholic	Z22,GEL
+101	liguria	GEN	GEN	GEN	italian	catholic	
+102	nice	GEN	GEN	GEN	italian	catholic	NAP
+103	piedmont	SAV	SAV	SAV	italian	catholic	
+104	lombardia	Z57	Z57	Z57	italian	catholic	
+105	parma	Z63	Z63	Z63	italian	catholic	
+106	modena	FER	FER	FER	italian	catholic	
+1066	altaiuriankhai	GOL	GOL	GOL	mongol	sunni	
+107	brescia	Z57	Z57	Z57	italian	catholic	
+1071	irtesh	GOL	GOL	GOL,SIB	mongol	sunni	
+1074	sibir	GOL	GOL	GOL,SIB	khanty	animism	
+1075	tyumen	GOL	GOL	GOL,SIB	mongol	sunni	
+1076	kurgan	GOL	GOL	GOL,Z76	mongol	sunni	
+1077	solikamsk	GOL	GOL	GOL,SIB	mongol	tengri_pagan_reformed	
+1078	middleurals	GOL	GOL	GOL,SIB	khanty	animism	
+1079	viatka	Z99	Z99	Z99	komi	animism	
+108	verona	Z63	Z63	Z63	italian	catholic	Z69
+1080	northurals	GOL	GOL	GOL,SIB	khanty	animism	
+1081	simbirsk	GOL	GOL	GOL	bolghar	sunni	
+1082	kazan	Z99	Z99	Z99	bolghar	sunni	
+1083	zavolochye	GOL	GOL	GOL	mordvin	animism	
+109	mantua	MAN	MAN	MAN	italian	catholic	Z63
+1099	socotra	Y93	Y93	Y93	bedouin_arabic	nestorian	Y47
+11	vasterbotten	Z00	Z00	Z00	swedish	catholic	
+110	trent	Z25	Z25	Z25	italian	catholic	Z57
+111	friuli	Z63	Z63	Z63	italian	catholic	
+1110	agadir	Y43	Y43	Y43,MOR	berber	sunni	
+1117	futajallon	MAL	MAL	MAL,Y56	mali	sunni	
+112	venezia	VEN	VEN	VEN	italian	catholic	
+1120	bambuk	MAL	MAL	MAL,Y56	mali	sunni	
+1121	bure	MAL	MAL	MAL,Y56	mali	sunni	
+1122	bagoe	MAL	MAL	MAL,Y56	mali	sunni	
+1123	segu	MAL	MAL	MAL	mali	shamanism	
+1124	wasuju	MAL	MAL	MAL,Y56	mali	sunni	
+1127	tuat	Y59	Y59	Y59	berber	sunni	MAL,Y60
+1128	taodeni	Y58	Y58	Y58	berber	sunni	MAL,Y57
+1129	azawadd	MAL	MAL	MAL	mali	sunni	
+113	ferrara	FER	FER	FER	italian	catholic	
+1130	tadmekka	MAL	MAL	MAL,SON	mali	sunni	
+1131	massina	MAL	MAL	MAL	mali	shamanism	
+1132	timbuktu	MAL	MAL	MAL	mali	sunni	
+1133	gao	MAL	MAL	MAL,SON	mali	sunni	
+1134	jenne	MAL	MAL	MAL	mali	sunni	
+1135	yatenga	MAL	MAL	MAL	mali	sunni	
+1136	gurma	MAL	MAL	MAL,Y56	mali	shamanism	
+1137	wagadugu	MAL	MAL	MAL,Y56	mali	shamanism	
+114	romagna	PAP	PAP	PAP	italian	catholic	FER,Z68
+1142	dendi	MAL	MAL	MAL,SON	mali	shamanism	
+115	pisa	Z64	Z64	Z64	italian	catholic	
+116	firenze	Z65	Z65	Z65	italian	catholic	
+117	siena	SIE	SIE	SIE	italian	catholic	
+118	roma	PAP	PAP	PAP	italian	catholic	
+119	ancona	Z67	Z67	Z67	italian	catholic	
+12	sjaelland	SHL	SHL	SHL	danish	catholic	Z18,Z58
+120	abbruzzi	PAP	PAP	PAP	italian	catholic	
+1208	haud	Y48	Y48	Y48	somali	sunni	ETH
+1209	berbera	Y48	Y48	Y48	somali	sunni	ETH
+121	napoli	NAP	NAP	NAP	italian	catholic	
+1210	ifat	ETH	ETH	ETH,Y53	amhara	coptic	
+1211	harer	Y49	Y49	Y49	amhara	sunni	ETH
+1212	zeila	Y48	Y48	Y48	somali	sunni	ETH
+1213	shoa	ETH	ETH	ETH,Y53	amhara	coptic	
+1214	wollo	ETH	ETH	ETH	amhara	coptic	
+1215	tajura	Y49	Y49	Y49	somali	sunni	ETH
+1218	kefa	ETH	ETH	ETH,Y53	amhara	coptic	
+122	apulia	NAP	NAP	NAP	italian	catholic	
+1220	darjaal	Y39	Y39	Y39	nubian	coptic	
+1222	gezira	ALO	ALO	ALO	nubian	coptic	
+1223	gojjam	ETH	ETH	ETH,Y50	amhara	coptic	
+1224	gonder	ETH	ETH	ETH	amhara	coptic	
+1225	butana	Y54	Y54	Y54	nubian	coptic	
+1226	taka	Y55	Y55	Y55	nubian	coptic	Y54
+1227	tigre	ETH	ETH	ETH	amhara	coptic	BTI
+1228	dongola	Y39	Y39	Y39	nubian	coptic	
+1229	berber	Y39	Y39	Y39	nubian	coptic	Y55
+123	calabria	Z55	Z55	Z55	italian	catholic	NAP
+1230	massawa	ETH	ETH	ETH	nubian	coptic	Y92
+1231	aswan	Y17	Y17	Y17	al_misr_arabic	coptic	
+1232	suakin	Y38	Y38	Y38	nubian	coptic	Y91
+1233	kargah	Y17	Y17	Y17,Y20	nubian	coptic	
+1234	nubia	Y38	Y38	Y38	nubian	coptic	
+124	messina	Z66	Z66	Z66	italian	catholic	BYZ
+1247	corsica	GEN	GEN	GEN	italian	catholic	
+1248	maldives	DGL	DGL	DGL	tamil	buddhism	Y61,Y63
+125	palermo	Z66	Z66	Z66	italian	catholic	BYZ
+126	malta	Z66	Z66	Z66	italian	catholic	BYZ
+127	sassari	ARA	ARA	ARA	italian	catholic	
+128	karnten	Z14	Z14	Z14	german	catholic	
+129	krain	Z14	Z14	Z14	german	catholic	Z32
+13	slesvig	Z58	Z58	Z58,Z60	danish	catholic	
+130	istria	VEN	VEN	VEN	croatian	catholic	Z14
+131	zagorje15	HUN	HUN	HUN,Z91	croatian	catholic	BYZ
+1318	szepes	Z89	Z89	Z89	hungarian	catholic	HUN
+132	steiermark	Z14	Z14	Z14	german	catholic	HAB
+133	linz	Z17	Z17	Z17	german	catholic	HAB
+134	wien	HAB	HAB	HAB	german	catholic	
+135	sopron	HUN	HUN	HUN	hungarian	catholic	
+136	dalmatia	VEN	VEN	VEN	croatian	catholic	HUN,BYZ,BOS
+137	ragusa	SER	SER	SER	serbian	orthodox	BYZ
+138	zeta	SER	SER	SER	serbian	orthodox	BYZ
+139	hum	SER	SER	SER	serbian	orthodox	BYZ
+14	fyn	SHL	SHL	SHL	danish	catholic	Z58
+140	usora	BOS	BOS	BOS	serbian	bogomilist	HUN,BYZ
+141	serbia	SER	SER	SER	serbian	orthodox	BYZ
+142	corfu	Z55	Z55	Z55	italian	catholic	EPI,BYZ
+143	vlore	SER	SER	SER	greek	orthodox	BYZ
+144	janina	EPI	EPI	EPI	greek	orthodox	BYZ
+145	morea	BYZ	BYZ	BYZ	greek	catholic	VEN
+146	athens	ATH	ATH	ATH	greek	orthodox	BYZ
+147	salonica	Z92	Z92	Z92	greek	orthodox	BYZ
+148	macedonia	Z92	Z92	Z92	greek	orthodox	BYZ
+149	edirne	Z92	Z92	Z92	greek	orthodox	BYZ
+15	jylland	Z58	Z58	Z58	danish	catholic	
+150	bulgaria	BUL	BUL	BUL	bulgarian	bogomilist	BYZ
+151	thrace	BYZ	BYZ	BYZ	greek	orthodox	
+152	belovar	HUN	HUN	HUN,Z91	croatian	catholic	BYZ
+153	pest	HUN	HUN	HUN	hungarian	catholic	
+154	szepes	Z89	Z89	Z89	hungarian	catholic	HUN
+155	bekes	HUN	HUN	HUN	hungarian	catholic	
+156	temes	HUN	HUN	HUN	hungarian	catholic	
+157	bihar	TRA	TRA	TRA	hungarian	catholic	HUN
+158	maros	TRA	TRA	TRA	hungarian	catholic	HUN
+159	silistria	BUL	BUL	BUL,Z95	bulgarian	orthodox	BYZ
+16	bohuslan	Z00	Z00	Z00	norwegian	catholic	
+160	oltenia	WAL	WAL	WAL	romanian	orthodox	
+161	wallachia	WAL	WAL	WAL	romanian	orthodox	
+162	zemplen	HUN	HUN	HUN,Z90	hungarian	catholic	
+163	crete	VEN	VEN	VEN	greek	orthodox	BYZ
+164	naxos	Z70	Z70	Z70	greek	orthodox	BYZ
+165	bern	Z26	Z26	Z26	german	catholic	Z39
+166	schwyz	Z57	Z57	Z57	italian	catholic	
+167	caux	FRA	FRA	FRA	cosmopolitan_french	catholic	
+168	normandie	NAV	NAV	NAV	cosmopolitan_french	catholic	FRA
+169	armor	Z49	Z49	Z49	breton	catholic	
+17	akershus	Z00	Z00	Z00	norwegian	catholic	
+170	finistere	Z49	Z49	Z49	breton	catholic	
+171	morbihan	Z49	Z49	Z49	breton	catholic	
+172	vendee	Z49	Z49	Z49	breton	catholic	
+173	labourd	ENG	ENG	ENG	basque	catholic	
+174	gascogne	ENG	ENG	ENG	occitain	catholic	
+1742	limburg	BRB	BRB	BRB	dutch	catholic	Z23,BOH
+1743	cambray	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1744	antwerpen	FRA	FRA	FRA,FLA	dutch	catholic	
+1745	cantabria	LON	LON	LON	castillian	catholic	
+1746	burgos	LON	LON	LON	castillian	catholic	
+1747	caceres	LON	LON	LON	castillian	catholic	
+1748	jaen	Z53	Z53	Z53	andalucian	sunni	
+1749	cadiz	LON	LON	LON	castillian	catholic	
+175	armagnac	ENG	ENG	ENG	occitain	catholic	
+1750	alicante	ARA	ARA	ARA	catalan	catholic	
+1751	ceuta	Y43	Y43	Y43,Y44	berber	sunni	
+1752	rzhev	NOV	NOV	NOV	russian_culture	orthodox	
+1753	kostroma	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+1754	orel	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+1755	ustyug	NOV	NOV	NOV	samoyed	animism	
+1756	budjak	GOL	GOL	GOL,MOL	romanian	orthodox	WAL
+1757	oberpfalz	NUM	NUM	NUM	german	catholic	BAV
+1758	hannover	BRU	BRU	BRU	german	catholic	
+1759	potsdam	BRA	BRA	BRA	german	catholic	
+176	bearn	TOU	TOU	TOU	occitain	catholic	ENG
+1760	koblenz	Z19	Z19	Z19	german	catholic	
+1761	alzey	Z19	Z19	Z19	german	catholic	
+1762	kassel	BRU	BRU	BRU	german	catholic	Z29,THU
+1763	niederlausitz	BRA	BRA	BRA	polish	catholic	POL
+1764	burgas	BUL	BUL	BUL	greek	orthodox	BYZ
+1765	nis	BUL	BUL	BUL	bulgarian	orthodox	BYZ
+1766	kosovo	SER	SER	SER	serbian	orthodox	BYZ
+1767	veroce	HUN	HUN	HUN,Z91	croatian	catholic	BYZ
+1768	lienz	TIR	TIR	TIR	german	catholic	
+1769	gorz	AQU	AQU	AQU	italian	catholic	Z14
+177	maine	FRA	FRA	FRA,NRM	cosmopolitan_french	catholic	
+1770	ostmarch	HAB	HAB	HAB	german	catholic	
+1771	erz	BOH	BOH	BOH	czech	catholic	
+1772	pozsony	Z89	Z89	Z89	hungarian	catholic	HUN
+1773	achaea	ACH	ACH	ACH	greek	orthodox	BYZ
+1774	treviso	Z63	Z63	Z63	italian	catholic	
+1775	holstein	SHL	SHL	SHL	danish	catholic	Z44
+1776	karelia	NOV	NOV	NOV	finnish	orthodox	
+1777	kola	NOV	NOV	NOV	sapmi	animism	
+1778	kasimov	GOL	GOL	GOL,RYA	russian_culture	orthodox	UKR
+178	anjou	FRA	FRA	FRA,NRM	cosmopolitan_french	catholic	
+179	berry	FRA	FRA	FRA,NRM	cosmopolitan_french	catholic	
+18	lappland	Z61	Z61	Z61	sapmi	catholic	Z00
+180	poitou	FRA	FRA	FRA,NRM	cosmopolitan_french	catholic	
+181	valenciennes	FRA	FRA	FRA	cosmopolitan_french	catholic	
+182	vermandois	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1826	lika	HUN	HUN	HUN,CRO	croatian	catholic	BYZ
+1827	raska	SER	SER	SER	serbian	orthodox	BYZ
+1828	soli	BOS	BOS	BOS	croatian	bogomilist	HUN,BYZ
+183	ile	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1831	travunia	SER	SER	SER	serbian	orthodox	BYZ
+1834	dorpat	TEU	TEU	TEU	estonian	catholic	
+184	orleanais	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1841	marienburg	TEU	TEU	TEU	german	catholic	LIT
+1842	narva	EST	EST	EST	estonian	catholic	
+1846	amasya	Y16	Y16	Y16	turkish	sunni	BYZ
+1848	hamid	Y35	Y35	Y35	turkish	sunni	BYZ
+1849	hamah	Y17	Y17	Y17	al_suryah_arabic	sunni	
+185	othe	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1851	ribatejo	POR	POR	POR	portugese	catholic	
+1853	kozani	Z92	Z92	Z92	greek	orthodox	BYZ
+1854	nablus	Y17	Y17	Y17	al_suryah_arabic	sunni	
+1855	sidon	Y17	Y17	Y17,Y18	al_suryah_arabic	sunni	
+1856	abkhazia	GEO	GEO	GEO	georgian	orthodox	BYZ
+1857	lauenburg	Z21	Z21	Z21	german	catholic	SHL
+1858	stettin	POM	POM	POM	pommeranian	catholic	Z42
+1859	torun	TEU	TEU	TEU	polish	catholic	LIT,POL
+186	champagne	FRA	FRA	FRA	cosmopolitan_french	catholic	
+1860	norfolk	ENG	ENG	ENG	english	catholic	
+1861	derby	ENG	ENG	ENG	english	catholic	
+1862	cremona	Z57	Z57	Z57	italian	catholic	
+1863	graz	HAB	HAB	HAB	german	catholic	
+1864	somogy	HUN	HUN	HUN	hungarian	catholic	
+1865	ghent	FRA	FRA	FRA,FLA	dutch	catholic	
+1866	namur	BRB	BRB	BRB	cosmopolitan_french	catholic	LIE,BOH
+1867	freiburg	SAV	SAV	SAV	cosmopolitan_french	catholic	
+1868	augsburg	BAV	BAV	BAV	german	catholic	
+1869	zurich	SWI	SWI	SWI	german	catholic	
+187	barrois	FRA	FRA	FRA	cosmopolitan_french	catholic	Z13,Z30,Z37,Z19,BAV
+1870	stgallen	HAB	HAB	HAB	german	catholic	
+1871	wallis	SAV	SAV	SAV	german	catholic	
+1872	ulm	ULM	ULM	ULM	german	catholic	
+1873	chur	Z36	Z36	Z36	german	catholic	
+1874	bremen	BRU	BRU	BRU	german	catholic	BRE,SHL
+1875	turin	Z56	Z56	Z56	italian	catholic	
+1876	frankfurt	NSA	NSA	NSA	german	catholic	THU
+1877	charolais	BUR	BUR	BUR	cosmopolitan_french	catholic	FRA
+1878	aachen	Z12	Z12	Z12	german	catholic	Z40,BOH
+1879	alencon	FRA	FRA	FRA	cosmopolitan_french	catholic	
+188	metz	Z13	Z13	Z13	german	catholic	Z31,Z19
+1880	sundgau	HAB	HAB	HAB	german	catholic	
+1882	bone	Y41	Y41	Y41	berber	sunni	
+189	lothringen	Z13	Z13	Z13	german	catholic	
+19	osterbotten	FIN	FIN	FIN	finnish	catholic	
+190	bourbon	FRA	FRA	FRA,Z11	cosmopolitan_french	catholic	
+191	nevers	FRA	FRA	FRA	cosmopolitan_french	catholic	
+192	bourgogne	BUR	BUR	BUR	cosmopolitan_french	catholic	FRA
+193	franche	BUR	BUR	BUR	cosmopolitan_french	catholic	
+1930	aland	Z00	Z00	Z00	swedish	catholic	
+1931	eastfrisia	BRU	BRU	BRU	dutch	catholic	EFR,GEL
+1933	bari	NAP	NAP	NAP	italian	catholic	
+1934	lucania	Z55	Z55	Z55	italian	catholic	NAP
+1935	semigallia	TEU	TEU	TEU	latvian	catholic	LIT
+1936	kovno	LIT	LIT	LIT,Z86	lithuanian	animism	
+1937	grodno	LIT	LIT	LIT,Z86	lithuanian	animism	
+1938	wizna	MAZ	MAZ	MAZ	polish	catholic	POL
+1939	leczyca	Z88	Z88	Z88	polish	catholic	POL
+194	perigord	NAV	NAV	NAV	cosmopolitan_french	catholic	ENG
+1940	belz	GOL	GOL	GOL,VOL	russian_culture	orthodox	UKR
+1941	turov	LIT	LIT	LIT,PLT	russian_culture	orthodox	UKR
+1942	zhytomyr	LIT	LIT	LIT,PLT	russian_culture	orthodox	UKR
+1943	bratslav	GOL	GOL	GOL,KIE	cuman	orthodox	UKR
+1944	cherkasy	GOL	GOL	GOL,KIE	cuman	orthodox	UKR
+1945	novgorod	UKR	UKR	UKR	russian_culture	orthodox	
+1946	desh	Y65	Y65	Y65,Y67	marathi	jain	Y63
+1947	carnatic	Y61	Y61	Y61	tamil	hinduism	Y63
+1948	bidar	Y65	Y65	Y65,Y67	kannada	hinduism	Y62,Y63
+1949	rayalaseema	Y64	Y64	Y64	telegu	hinduism	Y63
+195	limousin	BUR	BUR	BUR	occitain	catholic	
+1951	hunyad	TRA	TRA	TRA	romanian	orthodox	HUN
+1952	maramaros	TRA	TRA	TRA	hungarian	catholic	HUN
+1953	szabolcs	HUN	HUN	HUN,Z90	hungarian	catholic	
+1954	torontal	HUN	HUN	HUN	hungarian	catholic	
+1955	kholmogory	NOV	NOV	NOV	finnish	animism	
+1956	suzdal	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+1957	galich	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+1958	kargopol	NOV	NOV	NOV	finnish	orthodox	
+1959	torzhok	NOV	NOV	NOV	russian_culture	orthodox	
+196	toulouse	TOU	TOU	TOU	occitain	catholic	
+1960	ostrov	PSK	PSK	PSK	russian_culture	orthodox	
+1961	ladoga	NOV	NOV	NOV	russian_culture	orthodox	
+1962	kudymkar	GOL	GOL	GOL,PRM	komi	animism	
+1963	cherdyn	GOL	GOL	GOL,SIB	mongol	tengri_pagan_reformed	
+1964	ust	GOL	GOL	GOL,PRM	komi	animism	
+1965	buzuluk	GOL	GOL	GOL,Z83	mongol	sunni	
+1966	chelyaba	GOL	GOL	GOL,SIB	mongol	sunni	
+1967	khujand	CHG	CHG	CHG	mongol	sunni	
+1968	kulob	CHG	CHG	CHG	mongol	sunni	
+1969	sozak	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+197	roussillon	Z54	Z54	Z54	occitain	catholic	ARA,FRA
+1970	syghnak	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+1971	tsaritsyn	GOL	GOL	GOL	mongol	sunni	
+1972	udmurtia	GOL	GOL	GOL,PRM	komi	animism	
+1973	urgench	CHG	CHG	CHG	turkish	sunni	
+1974	yedishkul	GOL	GOL	GOL,CRI	mongol	sunni	
+1978	shetlands	Z00	Z00	Z00,Z02	scottish	catholic	
+1979	faroes	Z00	Z00	Z00	norwegian	catholic	
+198	rouergue	FRA	FRA	FRA	occitain	catholic	
+1981	bornholm	Z59	Z59	Z59	danish	catholic	Z58
+1982	blekinge	Z00	Z00	Z00	danish	catholic	Z58
+1983	lolland	SHL	SHL	SHL	danish	catholic	Z18,Z58
+1984	nordjylland	Z58	Z58	Z58	danish	catholic	
+1985	narke	Z00	Z00	Z00	swedish	catholic	
+199	auvergne	FRA	FRA	FRA	occitain	catholic	
+2	ostergotland	Z00	Z00	Z00	swedish	catholic	
+20	trondelag	Z01	Z01	Z01	norwegian	catholic	Z00
+200	languedoc	TOU	TOU	TOU	occitain	catholic	
+201	provence	NAP	NAP	NAP	occitain	catholic	
+202	avignon	PAP	PAP	PAP	occitain	catholic	NAP
+2026	tanjore	Y61	Y61	Y61	tamil	hinduism	Y63
+2027	arcot	Y62	Y62	Y62	kannada	jain	Y63
+2028	mahur	Y65	Y65	Y65	telegu	hinduism	Y63
+2029	southkanara	Y62	Y62	Y62	kannada	jain	Y61,Y63
+203	lyonnais	FRA	FRA	FRA	cosmopolitan_french	catholic	
+2030	goa	Y65	Y65	Y65	marathi	jain	Y63
+2031	morasandu	Y62	Y62	Y62	kannada	jain	Y63
+2032	melenadu	Y62	Y62	Y62	kannada	jain	Y63
+2033	savanur	Y65	Y65	Y65,Y67	marathi	jain	Y63,Y62
+2034	pune	Y65	Y65	Y65,Y67	marathi	jain	Y63
+2035	gulbarga	Y65	Y65	Y65	kannada	hinduism	Y62,Y63
+2036	baglana	Y65	Y65	Y65,Y67	marathi	jain	Y63
+2037	warangal	Y65	Y65	Y65	telegu	hinduism	Y63,Y64
+2038	midnapore	Y65	Y65	Y65,Y66	oriya	buddhism	
+2039	sunderbans	Y65	Y65	Y65,Y66	bengali	buddhism	
+204	dauphine	SAV	SAV	SAV	occitain	catholic	
+2040	sadiya	Y78	Y78	Y78	assamese	buddhism	Y90
+2042	kochhajo	Y90	Y90	Y90	assamese	buddhism	
+2043	balasore	Y73	Y73	Y73	oriya	buddhism	
+2044	bhagalpur	Y65	Y65	Y65,Y66	bengali	buddhism	
+2045	barind	Y65	Y65	Y65,Y66	bengali	buddhism	
+2046	nasirabad	Y65	Y65	Y65,Y66	assamese	buddhism	
+2047	tirhut	Y65	Y65	Y65,Y66	bengali	buddhism	
+2048	garjat	Y73	Y73	Y73	oriya	hinduism	
+2049	khudra	Y73	Y73	Y73	oriya	buddhism	
+205	savoie	SAV	SAV	SAV	italian	catholic	
+2050	chanda	Y87	Y87	Y87	telegu	hinduism	Y63
+2051	bhavanagar	Y65	Y65	Y65,Y69	gujarati	jain	
+2052	navanagar	Y65	Y65	Y65,Y69	gujarati	jain	
+2053	patan	Y65	Y65	Y65,Y69	gujarati	jain	
+2054	ahmadabad	Y65	Y65	Y65,Y69	gujarati	jain	
+2055	gorakhpur	Y65	Y65	Y65	avadhi	buddhism	
+2056	rewakantha	Y65	Y65	Y65,Y68	gujarati	jain	
+2057	bhilsa	Y65	Y65	Y65,Y68	avadhi	jain	
+2058	mewar	Y89	Y89	Y89	rajput	jain	Y65
+2059	kalpi	Y65	Y65	Y65	avadhi	buddhism	
+206	galicia	LON	LON	LON	portugese	catholic	
+2060	upperdoab	Y65	Y65	Y65	avadhi	buddhism	
+2061	katehar	Y65	Y65	Y65	avadhi	buddhism	
+2062	panipat	Y65	Y65	Y65	avadhi	buddhism	
+2063	etawah	Y65	Y65	Y65	avadhi	buddhism	
+2064	shekhawati	Y65	Y65	Y65	rajput	jain	
+2065	bhattiana	Y65	Y65	Y65	avadhi	jain	
+2066	nagaur	Y65	Y65	Y65	rajput	jain	
+2067	gorwar	Y77	Y77	Y77	rajput	jain	Y65
+2068	siwistan	Y65	Y65	Y65	sindhi	sunni	
+207	asturias	LON	LON	LON	castillian	catholic	
+2072	bhakkar	Y65	Y65	Y65	sindhi	sunni	
+2075	doaba	Y65	Y65	Y65	panjabi	buddhism	
+2076	sialkot	Y65	Y65	Y65	panjabi	hinduism	
+2077	margalla	Y65	Y65	Y65	panjabi	buddhism	
+2078	sindsagar	Y65	Y65	Y65	afghani	sunni	
+2079	derajat	Y65	Y65	Y65	panjabi	sunni	
+208	leon	LON	LON	LON	castillian	catholic	
+2080	srikakulam	Y73	Y73	Y73	oriya	buddhism	
+2081	lakhnor	Y65	Y65	Y65,Y66	bengali	buddhism	
+2082	raipur	Y75	Y75	Y75	oriya	hinduism	Y73
+2083	kosta	Y64	Y64	Y64	telegu	hinduism	Y63
+2084	konaseema	Y64	Y64	Y64	telegu	hinduism	Y63
+2085	tiruchirappalli	Y61	Y61	Y61	tamil	hinduism	Y63
+2086	cholistan	Y65	Y65	Y65	panjabi	sunni	
+2087	ajmer	Y65	Y65	Y65	rajput	jain	
+2088	umarkot	Y65	Y65	Y65	sindhi	hinduism	
+2089	chud	Y65	Y65	Y65,Y67	marathi	jain	Y63
+209	vizcaya	LON	LON	LON	basque	catholic	NAV
+2090	kurnool	Y64	Y64	Y64	kannada	hinduism	Y63,Y62
+2092	mahadeo	Y65	Y65	Y65,Y68	avadhi	jain	
+2093	mandsaur	Y65	Y65	Y65,Y68	rajput	jain	
+2094	bahreich	Y65	Y65	Y65	avadhi	buddhism	
+2095	varanasi	Y65	Y65	Y65	bengali	buddhism	
+2096	damin	Y65	Y65	Y65,Y66	bengali	buddhism	
+2097	baghelkhand	Y76	Y76	Y76	avadhi	buddhism	Y65
+2098	surguja	Y75	Y75	Y75	avadhi	hinduism	
+2099	kandy	Y81	Y81	Y81	sinhala	buddhism	Y63,Y80
+21	halogaland	Z01	Z01	Z01	norwegian	catholic	Z00
+210	navarra	NAV	NAV	NAV	basque	catholic	
+2100	vanni	Y80	Y80	Y80	sinhala	buddhism	Y81,Y63
+2101	tirunelveli	Y61	Y61	Y61	tamil	hinduism	Y63
+211	pirineo	ARA	ARA	ARA	castillian	catholic	
+2117	zasagt	Y95	Y95	Y95,Y96	mongol	nestorian	
+2118	urzhar	GOL	GOL	GOL	mongol	sunni	
+2119	chuguchak	GOL	GOL	GOL	mongol	sunni	
+212	girona	ARA	ARA	ARA	catalan	catholic	
+2120	ili	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+2121	kuqa	CHG	CHG	CHG	uyghur	buddhism	
+2122	hami	Y95	Y95	Y95,Y96	uyghur	buddhism	
+2123	qakilik	CHG	CHG	CHG	uyghur	buddhism	
+2124	yarkand	Y95	Y95	Y95	uyghur	sunni	
+2125	kochkor	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+2126	chuy	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+2127	yashilkul	CHG	CHG	CHG	mongol	sunni	
+213	barcelona	ARA	ARA	ARA	catalan	catholic	
+214	aragon	ARA	ARA	ARA	castillian	catholic	
+215	castillalavieja	LON	LON	LON	castillian	catholic	
+216	salamanca	LON	LON	LON	castillian	catholic	
+217	madrid	LON	LON	LON	castillian	catholic	
+218	badajoz	Z50	Z50	Z50	castillian	catholic	LON
+2189	tsetserleg	Y95	Y95	Y95	mongol	buddhism	
+219	toledo	LON	LON	LON,Z51	castillian	catholic	
+2190	qaraqorum	Y95	Y95	Y95	mongol	buddhism	
+2192	korla	CHG	CHG	CHG	uyghur	buddhism	
+2193	govi	Y95	Y95	Y95,Y96	mongol	nestorian	
+2195	adyghe	TRE	TRE	TRE	cuman	orthodox	
+2196	guria	GEO	GEO	GEO,Y00	georgian	orthodox	BYZ
+2197	kabardia	GOL	GOL	GOL,Z75	alan	orthodox	
+2198	khundzia	Y04	Y04	Y04,Y08	alan	sunni	GEO,BYZ
+2199	tarki	Y04	Y04	Y04,Y08	alan	sunni	GEO,BYZ
+22	eisdiva	Z00	Z00	Z00	norwegian	catholic	
+220	valencia	ARA	ARA	ARA	catalan	catholic	
+2201	alania	GOL	GOL	GOL,Z75	alan	orthodox	
+2202	melikates	Y04	Y04	Y04,Y08	kurdish	shiite	
+2203	kahketi	Y04	Y04	Y04,Y08	persian	shiite	GEO,BYZ
+2204	samtskhe	GEO	GEO	GEO,Y00	kurdish	sunni	BYZ
+2205	nakhchivan	Y04	Y04	Y04,Y13	kurdish	sunni	
+2206	urmia	Y04	Y04	Y04	kurdish	yazidi	
+2207	maragheh	Y04	Y04	Y04	kurdish	yazidi	
+2208	terek	GOL	GOL	GOL,Z75	alan	sunni	
+2209	ilam	Y04	Y04	Y04,Y05	kurdish	sunni	
+221	murcia	Z50	Z50	Z50	castillian	catholic	LON
+2210	kirmanshah	Y04	Y04	Y04,Y10	kurdish	sunni	
+2211	ardalan	Y04	Y04	Y04	kurdish	sunni	
+2212	zanjan	Y04	Y04	Y04,TAB	persian	shiite	
+2213	markazi	Y04	Y04	Y04,TAB	persian	sunni	
+2214	gurgan	Y04	Y04	Y04,Y09	persian	shiite	
+2215	qazvin	Y04	Y04	Y04,TAB	persian	shiite	
+2216	semnan	Y04	Y04	Y04,TAB	persian	shiite	
+2217	yasuj	Y04	Y04	Y04,Y12	persian	sunni	
+2218	sarvestan	Y04	Y04	Y04,Y12	persian	sunni	
+2219	bandarlangeh	Y04	Y04	Y04,Y06	persian	sunni	
+222	almeria	Z53	Z53	Z53	andalucian	sunni	
+2220	bam	Y04	Y04	Y04,Y07	persian	sunni	
+2221	mashhad	Y04	Y04	Y04,Y11	persian	sunni	
+2222	ardakan	Y04	Y04	Y04,Y06	persian	sunni	
+2223	larestan	Y04	Y04	Y04,Y06	persian	sunni	
+2224	ferah	Z62	Z62	Z62	afghani	sunni	
+2225	bamyan	Y79	Y79	Y79	afghani	buddhism	
+2226	jalalabad	Y65	Y65	Y65	panjabi	buddhism	
+2227	kunduz	Y79	Y79	Y79	persian	sunni	
+2228	maymana	Y04	Y04	Y04,Y09	turkish	sunni	
+2229	bust	Z62	Z62	Z62	afghani	sunni	
+223	granada	Z53	Z53	Z53	andalucian	sunni	
+2230	chagai	Y04	Y04	Y04,Y07	baluchi	sunni	
+2231	bela	Y65	Y65	Y65	sindhi	sunni	
+2232	kharan	Y04	Y04	Y04,Y07	baluchi	sunni	
+2233	chabahar	Y04	Y04	Y04,Y07	baluchi	sunni	
+2234	rafsanjan	Y04	Y04	Y04,Y06	persian	sunni	
+2235	sabzevar	Y04	Y04	Y04,Y11	persian	zoroastrian	
+2236	bojnord	Y04	Y04	Y04,Y11	persian	shiite	
+224	andalucia	LON	LON	LON	castillian	catholic	
+2246	baghena	MAL	MAL	MAL	mali	shamanism	
+2247	hodh	MAL	MAL	MAL	mali	sunni	
+2248	do	MAL	MAL	MAL,Y56	mali	sunni	
+2249	sibiridugu	MAL	MAL	MAL,Y56	mali	sunni	
+225	cordoba	LON	LON	LON	castillian	catholic	
+2250	bendugu	MAL	MAL	MAL,Y56	mali	sunni	
+2253	gwiriko	MAL	MAL	MAL,Y56	mali	sunni	
+2259	bara	MAL	MAL	MAL	mali	sunni	
+226	gibraltar	Z53	Z53	Z53	andalucian	sunni	LON
+2260	mema	MAL	MAL	MAL	mali	shamanism	
+2261	kala	MAL	MAL	MAL	mali	sunni	
+2262	karabara	MAL	MAL	MAL,SON	mali	sunni	
+2263	haayre	MAL	MAL	MAL	mali	sunni	
+2264	hombori	MAL	MAL	MAL,SON	mali	sunni	
+2265	liptako	MAL	MAL	MAL,Y56	mali	shamanism	
+2266	bilanga	MAL	MAL	MAL,Y56	mali	shamanism	
+2268	aribanda	MAL	MAL	MAL,SON	mali	shamanism	
+2269	zarmaganda	MAL	MAL	MAL,SON	mali	sunni	
+227	lisboa	POR	POR	POR	portugese	catholic	
+2270	dallol	MAL	MAL	MAL,SON	mali	shamanism	
+2271	azawagh	MAL	MAL	MAL,SON	mali	sunni	
+2278	kebbi	MAL	MAL	MAL,SON	mali	shamanism	
+228	beira	POR	POR	POR	portugese	catholic	
+229	alentejo	POR	POR	POR	portugese	catholic	
+2296	biga	Y30	Y30	Y30	turkish	sunni	BYZ
+2297	saruhan	Y34	Y34	Y34	greek	orthodox	Y35,BYZ
+2298	tekke	Y36	Y36	Y36	turkish	sunni	BYZ
+2299	bolu	Y30	Y30	Y30	turkish	sunni	BYZ
+23	bergenshus	Z01	Z01	Z01	norwegian	catholic	Z00
+230	algarve	POR	POR	POR	portugese	catholic	
+2300	bozok	Y16	Y16	Y16	turkish	sunni	BYZ
+2301	kayseri	Y16	Y16	Y16	turkish	sunni	BYZ
+2302	icel	Y37	Y37	Y37	turkish	sunni	ARM,BYZ
+2303	malatya	Y28	Y28	Y28	turkish	sunni	ARM,BYZ
+2304	canik	Y26	Y26	Y26,Y27	turkish	sunni	TRE,BYZ
+2305	erzincan	Y16	Y16	Y16	kurdish	sunni	Y28,ARM,BYZ,Y25
+2306	mush	Y04	Y04	Y04	kurdish	sunni	ARM,BYZ
+2307	van	Y04	Y04	Y04	kurdish	sunni	ARM,BYZ
+2308	cizre	Y17	Y17	Y17,Y21	kurdish	coptic	Y04
+2309	sinjar	Y04	Y04	Y04,Y05	al_suryah_arabic	sunni	
+231	porto	POR	POR	POR	portugese	catholic	
+2310	tikrit	Y04	Y04	Y04,Y05	al_suryah_arabic	nestorian	
+2311	samawah	Y04	Y04	Y04,Y05	al_suryah_arabic	sunni	
+2312	wasit	Y04	Y04	Y04,Y05	al_suryah_arabic	sunni	
+2313	antioch	Y17	Y17	Y17	al_suryah_arabic	sunni	
+2314	rahba	Y17	Y17	Y17,Y18	al_suryah_arabic	sunni	
+2315	suez	Y17	Y17	Y17	al_misr_arabic	coptic	
+2316	algharbia	Y17	Y17	Y17	al_misr_arabic	coptic	
+2317	minya	Y17	Y17	Y17	al_misr_arabic	coptic	
+2318	alwahat	Y17	Y17	Y17,Y20	al_misr_arabic	sunni	
+2319	asyut	Y17	Y17	Y17	al_misr_arabic	coptic	
+232	braganca	POR	POR	POR	portugese	catholic	
+2320	rasgharib	Y17	Y17	Y17	al_misr_arabic	coptic	
+2321	queseer	Y17	Y17	Y17	al_misr_arabic	coptic	
+2322	wadihalfa	Y39	Y39	Y39	nubian	coptic	
+2323	sahraannubyah	Y39	Y39	Y39	nubian	coptic	Y38
+2324	halaib	Y17	Y17	Y17	nubian	coptic	Y38
+2325	tarrana	Y17	Y17	Y17,Y20	al_misr_arabic	coptic	
+2326	bardiyah	Y17	Y17	Y17,Y20	al_misr_arabic	sunni	
+2327	maan	Y17	Y17	Y17,Y22	al_suryah_arabic	sunni	
+2328	tayma	Y29	Y29	Y29	al_suryah_arabic	sunni	
+2329	yanbu	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+233	cornwall	CRN	CRN	CRN	breton	catholic	ENG
+2330	ma'dinsulaym	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+2331	jeddah	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+2332	truba	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+2333	abdal	Y46	Y46	Y46	bedouin_arabic	shiite	
+2335	tamara	Y29	Y29	Y29	bedouin_arabic	sunni	
+2336	falaj	Y29	Y29	Y29	bedouin_arabic	sunni	
+2337	unaizah	Y29	Y29	Y29	al_suryah_arabic	sunni	
+2338	hafar	Y29	Y29	Y29	al_suryah_arabic	sunni	
+2339	yabrin	Y29	Y29	Y29	bedouin_arabic	sunni	
+234	wessex	ENG	ENG	ENG	english	catholic	
+2340	grane	Y15	Y15	Y15	bedouin_arabic	sunni	
+2341	sharqiyah	Y46	Y46	Y46	bedouin_arabic	ibadi	
+2342	wusta	Y46	Y46	Y46	bedouin_arabic	ibadi	
+2343	hadramawt	Y47	Y47	Y47	bedouin_arabic	sunni	
+2344	aljawf	Y47	Y47	Y47	bedouin_arabic	sunni	
+2345	ahqaf	Y47	Y47	Y47	bedouin_arabic	sunni	
+2346	jazan	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+2347	hufuf	Y15	Y15	Y15	bedouin_arabic	shiite	
+2348	chios	BYZ	BYZ	BYZ	greek	orthodox	Y31
+2349	kizil	Y04	Y04	Y04,Y09	turkish	sunni	
+235	kent	ENG	ENG	ENG	english	catholic	
+2350	konjikala	Y04	Y04	Y04,Y09	turkish	sunni	
+2351	shekty	GOL	GOL	GOL,Z82	mongol	sunni	
+2352	alty	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+2353	tortkara	GOL	GOL	GOL,SIB	mongol	sunni	
+2354	shegendyk	GOL	GOL	GOL	mongol	sunni	
+2355	narym	GOL	GOL	GOL	mongol	sunni	
+2356	shymkent	CHG	CHG	CHG	mongol	sunni	
+2357	aksary	GOL	GOL	GOL,Z76	mongol	sunni	
+2358	altyn	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+2359	baganaly	GOL	GOL	GOL	mongol	sunni	
+236	london	ENG	ENG	ENG	english	catholic	
+2360	tobykty	GOL	GOL	GOL	mongol	sunni	
+2361	dzhaman	GOL	GOL	GOL	mongol	sunni	
+2362	gurganj	CHG	CHG	CHG	turkish	sunni	
+2363	atakent	CHG	CHG	CHG	mongol	sunni	
+2364	talas	CHG	CHG	CHG	mongol	sunni	
+2365	orda	GOL	GOL	GOL,Z84	mongol	sunni	
+2366	utva	GOL	GOL	GOL,Z76	mongol	sunni	
+2367	loweryik	GOL	GOL	GOL	mongol	sunni	
+2368	karamegdan	CHG	CHG	CHG,Y03	mongol	tengri_pagan_reformed	
+2369	lowerishim	GOL	GOL	GOL,Z76	mongol	sunni	
+237	oxfordshire	ENG	ENG	ENG	english	catholic	
+2370	kungirot	CHG	CHG	CHG	turkish	sunni	
+238	essex	ENG	ENG	ENG	english	catholic	
+239	gloucestershire	ENG	ENG	ENG	english	catholic	
+24	agder	Z00	Z00	Z00	norwegian	catholic	
+240	marches	ENG	ENG	ENG	english	catholic	
+2405	bendery	GOL	GOL	GOL,MOL	pecheneg	tengri_pagan_reformed	
+2406	ingil	GOL	GOL	GOL,CRI	mongol	sunni	
+2407	pereyaslavl	UKR	UKR	UKR	russian_culture	orthodox	
+2408	lipesk	GOL	GOL	GOL	mongol	sunni	
+2409	bahmut	GOL	GOL	GOL	mongol	sunni	
+241	glamorgan	ENG	ENG	ENG	welsh	catholic	
+2410	theodoro	GEN	GEN	GEN	greek	orthodox	TRE
+2411	mansur	Z97	Z97	Z97	mongol	sunni	UKR
+2412	kyzyl	Z98	Z98	Z98	mongol	sunni	
+2413	tyn	GOL	GOL	GOL,Z77	mongol	sunni	
+2414	azaraba	GOL	GOL	GOL,Z77	mongol	sunni	
+2415	etkara	GOL	GOL	GOL,Z79	mordvin	animism	
+2416	majar	GOL	GOL	GOL,Z77	mongol	sunni	
+2417	kuma	GOL	GOL	GOL,Z77	mongol	sunni	
+2418	ukek	GOL	GOL	GOL	mongol	sunni	
+2419	kanadey	GOL	GOL	GOL	mongol	sunni	
+242	gwynedd	CRN	CRN	CRN	welsh	catholic	ENG
+2420	agyidel	GOL	GOL	GOL,SIB	mongol	sunni	
+2421	ar	Z99	Z99	Z99	bolghar	sunni	
+2422	veda	Y01	Y01	Y01	cuman	tengri_pagan_reformed	
+2423	alatyr	Z99	Z99	Z99	mordvin	animism	
+2424	peremyshl	GOL	GOL	GOL,Z73	russian_culture	orthodox	UKR
+2427	ostyaki	GOL	GOL	GOL,SIB	khanty	animism	
+2428	yugan	GOL	GOL	GOL,SIB	khanty	animism	
+2429	agan	GOL	GOL	GOL,SIB	khanty	animism	
+243	lincoln	ENG	ENG	ENG	english	catholic	
+2433	vah	GOL	GOL	GOL	mongol	sunni	
+2434	barnaul	GOL	GOL	GOL	mongol	sunni	
+244	lancashire	ENG	ENG	ENG	english	catholic	
+2441	iglino	GOL	GOL	GOL,Z76	mongol	sunni	
+2444	bashgird	Y02	Y02	Y02	cuman	tengri_pagan_reformed	
+2447	mantrega	TRE	TRE	TRE	cuman	orthodox	
+245	yorkshire	ENG	ENG	ENG	english	catholic	
+2451	thubaqt	Y40	Y40	Y40	berber	sunni	Y41
+2452	zuwarah	Y40	Y40	Y40	berber	sunni	Y41
+2453	sfax	Y41	Y41	Y41	berber	sunni	
+2454	kef	Y41	Y41	Y41	berber	sunni	
+2455	bizerte	Y41	Y41	Y41	berber	sunni	
+2458	hodna	Y42	Y42	Y42	berber	sunni	Y43
+2459	titteri	Y42	Y42	Y42	berber	kharijite	Y43
+246	northumberland	ENG	ENG	ENG	english	catholic	
+2460	saoura	Y43	Y43	Y43,MOR	berber	sunni	
+2461	dahra	Y42	Y42	Y42	berber	sunni	Y43
+2462	ouarsenis	Y42	Y42	Y42	berber	sunni	Y43
+2463	kasadir	Y42	Y42	Y42	berber	sunni	Y43
+2464	quarzazate	Y43	Y43	Y43,MOR	berber	sunni	
+2465	oujda	Y43	Y43	Y43	berber	sunni	Y42
+2466	draa	Y43	Y43	Y43,MOR	berber	sunni	
+2467	meknes	Y43	Y43	Y43,MOR	berber	sunni	
+2468	tadla	Y43	Y43	Y43,MOR	berber	sunni	
+2469	toubkhal	Y43	Y43	Y43,MOR	berber	sunni	
+247	cumbria	SCO	SCO	SCO	english	catholic	ENG
+2470	haha	Y43	Y43	Y43,MOR	berber	sunni	
+2473	sousse	Y41	Y41	Y41	berber	sunni	
+248	lothian	SCO	SCO	SCO	scottish	catholic	
+249	ayrshire	SCO	SCO	SCO	scottish	catholic	
+25	gotland	Z00	Z00	Z00	swedish	catholic	
+250	fife	SCO	SCO	SCO	scottish	catholic	
+251	aberdeen	SCO	SCO	SCO	scottish	catholic	
+252	highlands	SCO	SCO	SCO	scottish	catholic	
+253	westernisles	Z10	Z10	Z10	scottish	catholic	SCO
+254	poznan	POL	POL	POL	polish	catholic	
+255	kalisz	POL	POL	POL	polish	catholic	
+256	plock	MAZ	MAZ	MAZ	polish	catholic	POL
+257	warszawa	POL	POL	POL	polish	catholic	
+258	lodz	Z88	Z88	Z88	polish	catholic	POL
+259	sandomierz	POL	POL	POL	polish	catholic	
+26	halland	Z00	Z00	Z00	danish	catholic	Z58
+260	lublin	POL	POL	POL	polish	catholic	
+261	ruthenia	GOL	GOL	GOL,Z73	russian_culture	orthodox	UKR
+262	krakow	POL	POL	POL	polish	catholic	
+263	ratibor	BOH	BOH	BOH	polish	catholic	Z47,SIL,POL
+264	breslau	POL	POL	POL	german	catholic	SIL
+265	moravia	BOH	BOH	BOH	czech	catholic	Z15,Z45
+266	bohemia	BOH	BOH	BOH	czech	catholic	
+267	plsen	BOH	BOH	BOH	czech	catholic	
+268	bessarabia	WAL	WAL	WAL	russian_culture	orthodox	GOL
+269	podlasia	LIT	LIT	LIT,Z86	lithuanian	animism	
+27	finland	FIN	FIN	FIN	finnish	catholic	
+270	troki	LIT	LIT	LIT	lithuanian	animism	
+271	samogitia	LIT	LIT	LIT,Z86	lithuanian	animism	
+272	lithuania	LIT	LIT	LIT	lithuanian	animism	
+273	wenden	TEU	TEU	TEU	latvian	catholic	LIT
+274	pskov	PSK	PSK	PSK	russian_culture	orthodox	
+2746	eastgangwon	BUL	BUL	BUL,Z96	bulgarian	orthodox	BYZ
+2749	tikhvin	GOL	GOL	GOL,Z74	russian_culture	orthodox	
+275	polotsk	LIT	LIT	LIT,PLT	russian_culture	orthodox	
+2750	plovdiv	BUL	BUL	BUL	bulgarian	orthodox	BYZ
+2751	cuenca	LON	LON	LON	castillian	catholic	
+2752	sogn	Z00	Z00	Z00	norwegian	catholic	
+2753	narbonne	TOU	TOU	TOU	occitain	catholic	
+2754	lamancha	Z51	Z51	Z51	castillian	catholic	LON
+2755	soria	Z50	Z50	Z50	castillian	catholic	LON
+276	minsk	LIT	LIT	LIT,Z87	russian_culture	orthodox	UKR
+2760	hadiya	ETH	ETH	ETH,Y53	amhara	coptic	
+2761	ankober	ETH	ETH	ETH,Y53	amhara	coptic	
+2762	damot	ETH	ETH	ETH,Y52	amhara	coptic	
+2763	asosa	ETH	ETH	ETH,Y52	amhara	coptic	
+2764	ausa	Y49	Y49	Y49	amhara	sunni	ETH
+2765	assab	Y49	Y49	Y49	amhara	sunni	ETH,Y94
+2766	mendefera	ETH	ETH	ETH	amhara	coptic	BTI
+2767	enderta	ETH	ETH	ETH	nubian	coptic	
+2768	angot	Y49	Y49	Y49	amhara	sunni	ETH
+2769	lasta	ETH	ETH	ETH,Y51	amhara	coptic	
+277	brest	LIT	LIT	LIT,Z86	russian_culture	orthodox	UKR
+2770	agew	Y54	Y54	Y54	nubian	coptic	
+2771	semien	BTI	BTI	BTI	amhara	jewish	ETH
+2772	dembiya	Y54	Y54	Y54	nubian	coptic	
+2773	mora	Y49	Y49	Y49	amhara	sunni	ETH
+278	pinsk	LIT	LIT	LIT,PLT	russian_culture	orthodox	UKR
+2786	busaso	Y48	Y48	Y48	somali	sunni	ETH
+2787	hamasien	ETH	ETH	ETH	nubian	coptic	Y39,Y55
+2788	hafun	Y48	Y48	Y48	somali	sunni	ETH
+2789	laskhorey	Y48	Y48	Y48	somali	sunni	ETH
+279	volhynia	LIT	LIT	LIT,PLT	russian_culture	orthodox	UKR
+2790	sanaag	Y48	Y48	Y48	somali	sunni	ETH
+2791	ankober	ETH	ETH	ETH,Y53	amhara	coptic	
+2792	togdheer	Y48	Y48	Y48	somali	sunni	ETH
+2793	hargeisa	Y48	Y48	Y48	somali	sunni	ETH
+2797	shendy	Y39	Y39	Y39	nubian	coptic	
+2798	soba	Y39	Y39	Y39	nubian	coptic	
+2799	sennar	ALO	ALO	ALO	nubian	coptic	
+28	nyland	Z00	Z00	Z00	finnish	catholic	
+280	kiev	GOL	GOL	GOL,KIE	russian_culture	orthodox	UKR
+281	kamienec	GOL	GOL	GOL,Z73	russian_culture	orthodox	UKR
+282	yedisan	GOL	GOL	GOL,MOL	romanian	orthodox	
+283	zaporozhia	GOL	GOL	GOL,CRI	mongol	sunni	
+284	crimea	GOL	GOL	GOL,CRI	mongol	sunni	
+285	kaffa	GOL	GOL	GOL	greek	orthodox	TRE
+286	azow	GOL	GOL	GOL	mongol	sunni	
+287	kouban	GOL	GOL	GOL	mongol	sunni	
+288	cherkassk	GOL	GOL	GOL	mongol	sunni	
+289	chernigov	UKR	UKR	UKR	russian_culture	orthodox	
+29	tavastland	Z00	Z00	Z00	finnish	catholic	
+290	poltava	UKR	UKR	UKR	russian_culture	orthodox	
+291	kharkov	GOL	GOL	GOL	mongol	sunni	
+292	mogilyov	GOL	GOL	GOL	russian_culture	orthodox	UKR,LIT
+293	smolensk	GOL	GOL	GOL	russian_culture	orthodox	UKR,LIT
+294	tver	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+295	moskva	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+2954	djerba	Y40	Y40	Y40	berber	sunni	Y41
+2955	ingolstadt	BAV	BAV	BAV	german	catholic	
+2956	straubing	Z17	Z17	Z17	german	catholic	BAV
+2957	regensburg	Z17	Z17	Z17	german	catholic	BAV
+2958	osterode	TEU	TEU	TEU	german	catholic	LIT
+2959	tarnow	POL	POL	POL	polish	catholic	
+296	mozhaisk	GOL	GOL	GOL,SMO	russian_culture	orthodox	
+2960	nowysacz	POL	POL	POL	polish	catholic	
+2961	lwow	GOL	GOL	GOL,Z73	russian_culture	orthodox	UKR
+2962	rowne	LIT	LIT	LIT,PLT	russian_culture	orthodox	UKR
+2963	notec	POL	POL	POL	polish	catholic	
+2964	altmark	BRA	BRA	BRA	german	catholic	
+2965	vogtland	SAX	SAX	SAX	german	catholic	THU
+2966	glogow	BOH	BOH	BOH	german	catholic	Z46,SIL,POL
+2967	eger	BOH	BOH	BOH	czech	catholic	
+2968	budejovice	BOH	BOH	BOH	german	catholic	
+2969	sternberg	BRA	BRA	BRA	german	catholic	
+297	bryansk	GOL	GOL	GOL,SMO	russian_culture	orthodox	UKR
+2970	hradeco	BOH	BOH	BOH	czech	catholic	Z15
+2971	hoya	BRU	BRU	BRU	german	catholic	Z28
+2972	paderborn	BRU	BRU	BRU	german	catholic	Z28
+2973	meppen	BRU	BRU	BRU	german	catholic	MUN,Z12,Z27
+2974	loon	BRB	BRB	BRB	dutch	catholic	Z23,BOH
+2975	cleves	Z12	Z12	Z12	german	catholic	KLE
+2976	umbria	PAP	PAP	PAP	italian	catholic	
+2977	urbino	URB	URB	URB	italian	catholic	Z67
+2978	arezzo	Z65	Z65	Z65	italian	catholic	
+2979	novarra	Z57	Z57	Z57	italian	catholic	
+298	kursk	GOL	GOL	GOL	mongol	sunni	
+2980	lucca	Z63	Z63	Z63	italian	catholic	
+2981	montferrat	MFA	MFA	MFA	italian	catholic	
+2982	syracuse	Z66	Z66	Z66	italian	catholic	BYZ
+2983	salerno	NAP	NAP	NAP	italian	catholic	
+2984	costenza	Z55	Z55	Z55	italian	catholic	NAP
+2985	capitanata	NAP	NAP	NAP	italian	catholic	
+2986	cagliari	ARA	ARA	ARA	italian	catholic	
+2987	urgell	ARA	ARA	ARA	catalan	catholic	
+2988	tarragona	ARA	ARA	ARA	catalan	catholic	
+2989	larioja	LON	LON	LON	basque	catholic	NAV
+299	voronezh	GOL	GOL	GOL	mongol	sunni	
+2990	teruel	ARA	ARA	ARA	castillian	catholic	
+2991	draguignan	NAP	NAP	NAP	occitain	catholic	
+2992	albenga	GEN	GEN	GEN	italian	catholic	
+2993	uckermark	BRA	BRA	BRA	german	catholic	
+2994	greifswald	POM	POM	POM	pommeranian	catholic	
+2995	stolp	POM	POM	POM	pommeranian	catholic	Z43
+2996	mecklenburg	MKL	MKL	MKL	pommeranian	catholic	Z41
+2997	tuchel	TEU	TEU	TEU	pommeranian	catholic	
+2998	buzau	WAL	WAL	WAL	romanian	orthodox	
+2999	hormuz	Y04	Y04	Y04,Y06	persian	sunni	
+3	kalmar	Z00	Z00	Z00	swedish	catholic	
+30	viborg	NOV	NOV	NOV	finnish	catholic	
+300	tula	GOL	GOL	GOL,Z80	russian_culture	orthodox	UKR
+3000	nis	SER	SER	SER	serbian	orthodox	BUL,BYZ
+3001	skopje	BUL	BUL	BUL	bulgarian	orthodox	SER,BYZ
+3002	visoki	BOS	BOS	BOS	serbian	bogomilist	HUN,BYZ
+3003	euboia	VEN	VEN	VEN	greek	orthodox	BYZ
+301	ryazan	GOL	GOL	GOL,RYA	russian_culture	orthodox	UKR
+302	tambow	GOL	GOL	GOL,Z79	mordvin	animism	
+303	saratow	GOL	GOL	GOL,Z79	mordvin	animism	
+304	pensa	Z99	Z99	Z99	mordvin	animism	
+305	perm	GOL	GOL	GOL,PRM	komi	animism	
+306	nijni	GOL	GOL	GOL,Z72	russian_culture	orthodox	
+307	vladimir	GOL	GOL	GOL,Z72	russian_culture	orthodox	UKR
+308	yaroslavl	GOL	GOL	GOL,YAR	russian_culture	orthodox	
+309	olonets	NOV	NOV	NOV	finnish	orthodox	
+31	savolaks	FIN	FIN	FIN	finnish	catholic	NOV
+310	novgorod	NOV	NOV	NOV	russian_culture	orthodox	
+311	kholm	NOV	NOV	NOV	russian_culture	orthodox	
+312	vologda	GOL	GOL	GOL,Z74	russian_culture	orthodox	
+313	archangelsk	NOV	NOV	NOV	samoyed	animism	
+314	ustyug	GOL	GOL	GOL,Z74	finnish	orthodox	
+315	finnmark	Z01	Z01	Z01	norwegian	catholic	Z00
+316	bithynia	Y30	Y30	Y30	turkish	sunni	BYZ
+317	bursa	Y30	Y30	Y30	turkish	sunni	BYZ
+318	sugla	Y31	Y31	Y31	turkish	sunni	BYZ,Y32
+319	antalya	Y33	Y33	Y33	turkish	sunni	Y36,BYZ
+32	keksholm	NOV	NOV	NOV	finnish	catholic	
+320	rhodes	KNI	KNI	KNI	greek	orthodox	Y36,BYZ
+321	cyprus	CYP	CYP	CYP	greek	orthodox	BYZ
+322	anatolia	Y35	Y35	Y35	turkish	sunni	BYZ
+323	konya	Y30	Y30	Y30	turkish	sunni	BYZ
+324	karaman	Y37	Y37	Y37	turkish	sunni	BYZ
+325	kastamon	Y26	Y26	Y26,Y27	turkish	sunni	TRE,BYZ
+326	ankara	Y30	Y30	Y30	turkish	sunni	BYZ
+327	adana	ARM	ARM	ARM	armenian	coptic	BYZ
+328	sinope	Y26	Y26	Y26	turkish	sunni	TRE,BYZ
+329	sivas	Y16	Y16	Y16	turkish	sunni	Y28,ARM,BYZ
+33	neva	NOV	NOV	NOV	estonian	orthodox	
+330	trebizon	TRE	TRE	TRE	turkish	sunni	BYZ,Y16
+331	erserum	Y16	Y16	Y16	kurdish	sunni	ARM,BYZ
+332	mus	Y16	Y16	Y16	turkish	sunni	ARM,BYZ
+333	thebaleares	Z54	Z54	Z54	catalan	catholic	ARA
+334	tangiers	Y43	Y43	Y43,Y44	berber	sunni	
+335	mellila	Y43	Y43	Y43	berber	sunni	
+336	tlemcen	Y43	Y43	Y43	berber	sunni	Y42
+337	oran	Y42	Y42	Y42	berber	sunni	Y43
+338	al	Y42	Y42	Y42	berber	sunni	Y43
+339	bejaia	Y42	Y42	Y42	berber	sunni	Y41
+34	ingermanland	NOV	NOV	NOV	estonian	orthodox	
+340	constantine	Y41	Y41	Y41	berber	sunni	Y43
+341	tunis	Y41	Y41	Y41	berber	sunni	
+342	toubkhal	Y43	Y43	Y43	berber	sunni	
+343	fez	Y43	Y43	Y43	berber	sunni	
+344	marrakech	Y43	Y43	Y43,MOR	berber	sunni	
+345	abda	Y43	Y43	Y43,MOR	berber	sunni	
+346	figuig	Y43	Y43	Y43,MOR	berber	sunni	
+347	ifni	Y43	Y43	Y43,MOR	berber	sunni	
+348	sus	Y43	Y43	Y43,MOR	berber	sunni	
+349	figuig	Y43	Y43	Y43	berber	sunni	
+35	osel	TEU	TEU	TEU	estonian	catholic	
+350	laghouat	Y42	Y42	Y42	berber	kharijite	Y43
+351	aures	Y42	Y42	Y42	berber	sunni	Y43
+352	gafsa	Y41	Y41	Y41	berber	sunni	
+353	gabes	Y40	Y40	Y40	berber	sunni	Y41
+354	tripolitania	Y40	Y40	Y40	berber	sunni	Y41
+355	sirt	Y40	Y40	Y40	berber	sunni	Y41
+356	cyrenaica	Y17	Y17	Y17,Y23	berber	sunni	Y41
+357	dahrna	Y17	Y17	Y17,Y23	berber	sunni	Y41
+358	alexandria	Y17	Y17	Y17,Y20	al_misr_arabic	coptic	
+359	faiyum	Y17	Y17	Y17,Y20	al_misr_arabic	sunni	
+36	estland	EST	EST	EST	estonian	catholic	
+360	nile	Y17	Y17	Y17	al_misr_arabic	coptic	
+361	cairo	Y17	Y17	Y17,Y24	al_misr_arabic	sunni	
+362	delta	Y17	Y17	Y17	al_misr_arabic	coptic	
+363	diamientia	Y17	Y17	Y17	al_misr_arabic	sunni	
+364	gaza	Y17	Y17	Y17	al_suryah_arabic	sunni	
+365	sinai	Y17	Y17	Y17	al_suryah_arabic	sunni	
+366	thecanarias	Y45	Y45	Y45	berber	shamanism	Y43
+367	theazores				berber	animism	
+368	madeira				berber	animism	
+369	orkney	Z00	Z00	Z00,Z02	norwegian	catholic	
+37	livland	TEU	TEU	TEU	estonian	catholic	
+370	reykjavik	Z00	Z00	Z00	norwegian	catholic	
+371	akureyri	Z00	Z00	Z00	norwegian	catholic	
+372	ulster	ULS	ULS	ULS	irish	catholic	Z05,Z04
+373	meath	ENG	ENG	ENG	irish	catholic	
+374	leinster	ENG	ENG	ENG	irish	catholic	
+375	munster	Z09	Z09	Z09	irish	catholic	Z08
+376	connaught	Z07	Z07	Z07	irish	catholic	Z06
+377	aleppo	Y17	Y17	Y17,Y21	kurdish	sunni	ARM,BYZ,Y28
+378	beirut	Y17	Y17	Y17	al_suryah_arabic	sunni	
+379	judea	Y17	Y17	Y17,Y18	al_suryah_arabic	sunni	
+38	riga	TEU	TEU	TEU	latvian	catholic	LIT
+380	alkarak	Y17	Y17	Y17,Y22	al_suryah_arabic	sunni	
+381	hawran	Y17	Y17	Y17,Y18	al_suryah_arabic	sunni	
+382	damascus	Y17	Y17	Y17,Y18	al_suryah_arabic	sunni	
+383	tabouk	Y17	Y17	Y17,Y19	al_suryah_arabic	sunni	
+384	medina	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+385	mecca	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+386	asir	Y17	Y17	Y17,Y19	bedouin_arabic	sunni	
+387	mocha	Y47	Y47	Y47	bedouin_arabic	sunni	
+388	aden	Y47	Y47	Y47	bedouin_arabic	sunni	
+389	kinda	Y47	Y47	Y47	bedouin_arabic	sunni	
+39	kurland	TEU	TEU	TEU	latvian	catholic	LIT
+390	sanaa	Y47	Y47	Y47	bedouin_arabic	shiite	
+391	najran	Y47	Y47	Y47	bedouin_arabic	shiite	
+392	nejd	Y29	Y29	Y29	bedouin_arabic	sunni	
+393	jabalshammar	Y29	Y29	Y29	al_suryah_arabic	sunni	
+394	al	Y15	Y15	Y15	bedouin_arabic	sunni	
+395	qatar	Y15	Y15	Y15	bedouin_arabic	shiite	
+396	bahrain	Y04	Y04	Y04,Y06	bedouin_arabic	shiite	Y15
+397	beniyas	Y46	Y46	Y46	bedouin_arabic	shiite	
+398	qawasim	Y46	Y46	Y46	bedouin_arabic	shiite	
+399	suhar	Y46	Y46	Y46	bedouin_arabic	ibadi	
+4	bergslagen	Z00	Z00	Z00	swedish	catholic	
+40	memel	TEU	TEU	TEU	lithuanian	catholic	LIT
+400	muscat	Y46	Y46	Y46	bedouin_arabic	ibadi	
+401	dhofar	Y46	Y46	Y46	bedouin_arabic	sunni	
+402	mahra	Y46	Y46	Y46	bedouin_arabic	sunni	
+403	nizwa	Y46	Y46	Y46	bedouin_arabic	ibadi	
+4033	alqadirif	Y54	Y54	Y54	nubian	coptic	
+404	liwa	Y46	Y46	Y46	bedouin_arabic	shiite	
+405	tadmor	Y17	Y17	Y17,Y18	al_suryah_arabic	druze	
+406	karbala	Y04	Y04	Y04,Y05	al_suryah_arabic	sunni	
+407	dayrazzor	Y17	Y17	Y17,Y21	kurdish	sunni	Y04
+408	basra	Y04	Y04	Y04,Y05	bedouin_arabic	shiite	
+409	karbala	Y04	Y04	Y04,Y05	al_suryah_arabic	shiite	
+41	ostpreussen	TEU	TEU	TEU	old_prussian	catholic	LIT
+410	baghdad	Y04	Y04	Y04,Y05	al_suryah_arabic	sunni	
+411	mosul	Y04	Y04	Y04,Y05	kurdish	yazidi	
+4110	sutherland	SCO	SCO	SCO	scottish	catholic	
+4111	santoigne	FRA	FRA	FRA,Z11	cosmopolitan_french	catholic	
+4112	cahors	TOU	TOU	TOU	occitain	catholic	ENG
+4113	rovaniemi	Z71	Z71	Z71	sapmi	animism	
+4114	jokkmokk	Z61	Z61	Z61	sapmi	catholic	Z00
+4115	mazyr	UKR	UKR	UKR	russian_culture	orthodox	
+4116	odayev	UKR	UKR	UKR	russian_culture	orthodox	
+4117	bezhetsk	GOL	GOL	GOL,Z74	russian_culture	orthodox	
+4118	deasmhumhain	Z09	Z09	Z09	irish	catholic	
+4119	sligeach	Z07	Z07	Z07	irish	catholic	
+412	khuzestan	Y04	Y04	Y04,Y05	persian	sunni	
+4120	cilldara	ENG	ENG	ENG	irish	catholic	
+4121	ulaidh	ULS	ULS	ULS	irish	catholic	
+4122	shenkursk	NOV	NOV	NOV	samoyed	animism	
+4123	birkaland	FIN	FIN	FIN	finnish	catholic	
+4124	karelia	NOV	NOV	NOV	finnish	catholic	
+4125	szolnok	HUN	HUN	HUN	hungarian	catholic	
+4126	bacs	HUN	HUN	HUN	hungarian	catholic	
+4127	torda	TRA	TRA	TRA	hungarian	catholic	HUN
+4128	kiralyfold	TRA	TRA	TRA	romanian	orthodox	HUN
+4129	ust	NOV	NOV	NOV	samoyed	animism	
+413	luristan	Y04	Y04	Y04,Y10	persian	sunni	
+4130	somerset	ENG	ENG	ENG	english	catholic	
+414	hamadan	Y04	Y04	Y04,TAB	persian	sunni	
+4141	ditmarschen	SHL	SHL	SHL	danish	catholic	Z44
+4142	aarhus	Z58	Z58	Z58	danish	catholic	
+4143	smalenene	Z00	Z00	Z00	norwegian	catholic	
+4144	bratsberg	Z00	Z00	Z00	norwegian	catholic	
+4145	agdesiden	Z01	Z01	Z01	norwegian	catholic	Z00
+4147	rostov	GOL	GOL	GOL,Z78	russian_culture	orthodox	
+4148	luki	NOV	NOV	NOV	russian_culture	orthodox	
+4149	kolding	Z58	Z58	Z58	danish	catholic	
+415	sharizhor	Y04	Y04	Y04,Y05	kurdish	sunni	
+4150	evora	POR	POR	POR	portugese	catholic	
+4151	inari	Z71	Z71	Z71	sapmi	animism	
+4152	kajaani	FIN	FIN	FIN	finnish	catholic	
+416	tabriz	Y04	Y04	Y04,Y13	kurdish	sunni	
+4163	elfsborg	Z00	Z00	Z00	swedish	catholic	
+4164	dal	Z00	Z00	Z00	swedish	catholic	
+4165	goinge	Z59	Z59	Z59	danish	catholic	Z58
+4166	tioharad	Z00	Z00	Z00	swedish	catholic	
+417	gilan	Y04	Y04	Y04,Y13	kurdish	shiite	
+4171	4171	Y04	Y04	Y04,Y06	persian	sunni	
+4173	syrmia	HUN	HUN	HUN	hungarian	catholic	
+4174	durres	SER	SER	SER	greek	orthodox	BYZ
+4175	lezhe	SER	SER	SER	serbian	orthodox	BYZ
+4176	brancievo	BUL	BUL	BUL,Z96	bulgarian	orthodox	BYZ
+418	van	Y25	Y25	Y25	kurdish	sunni	ARM,BYZ
+419	armenia	Y04	Y04	Y04	kurdish	sunni	ARM,BYZ
+42	warmia	TEU	TEU	TEU	german	catholic	LIT
+420	ganja	Y04	Y04	Y04,Y08	kurdish	shiite	
+421	murgan	Y04	Y04	Y04,Y08	persian	shiite	
+422	imereti	GEO	GEO	GEO	georgian	orthodox	BYZ
+423	kartli	GEO	GEO	GEO,Y00	georgian	orthodox	BYZ
+424	ardabil	Y04	Y04	Y04,Y13	kurdish	sunni	
+425	dagestan	Y04	Y04	Y04,Y08	persian	shiite	GEO,BYZ
+426	mazandaran	Y04	Y04	Y04,Y09	persian	shiite	
+427	qumis	Y04	Y04	Y04,Y11	persian	zoroastrian	
+428	hamadan	Y04	Y04	Y04,TAB	persian	shiite	
+429	fars	Y04	Y04	Y04,Y12	persian	sunni	
+43	danzig	TEU	TEU	TEU	polish	catholic	POL
+430	laristan	Y04	Y04	Y04,Y14	persian	sunni	
+431	hormuz	Y04	Y04	Y04,Y06	persian	sunni	
+432	kerman	Y04	Y04	Y04,Y06	persian	sunni	
+433	yadz	Y04	Y04	Y04,Y06	persian	sunni	
+434	kohistan	Y04	Y04	Y04,Y07	baluchi	sunni	
+435	zaranj	Y04	Y04	Y04,Y07	baluchi	sunni	
+436	khurasan	Z62	Z62	Z62	persian	sunni	
+437	atak	Y04	Y04	Y04,Y09	turkish	sunni	
+438	karakum	GOL	GOL	GOL	turkish	sunni	
+439	mangyshlak	GOL	GOL	GOL,Z81	mongol	tengri_pagan_reformed	
+44	hamburg	SHL	SHL	SHL	german	catholic	
+440	qaraqalpak	CHG	CHG	CHG	turkish	sunni	
+441	khiva	CHG	CHG	CHG	turkish	sunni	
+442	bukhara	CHG	CHG	CHG	turkish	sunni	
+443	ustyurt	GOL	GOL	GOL,Z81	mongol	tengri_pagan_reformed	
+444	charjuy	Y04	Y04	Y04,Y09	turkish	sunni	
+445	marv	Y04	Y04	Y04,Y09	turkish	sunni	
+446	herat	Z62	Z62	Z62	persian	sunni	
+447	kandahar	Z62	Z62	Z62	afghani	sunni	
+448	gazni	Y79	Y79	Y79	afghani	buddhism	
+449	ghor	Z62	Z62	Z62	persian	sunni	
+45	lubeck	Z21	Z21	Z21	german	catholic	SHL
+450	balkh	CHG	CHG	CHG	persian	sunni	
+451	kabul	Y79	Y79	Y79	afghani	buddhism	
+452	badakhshan	CHG	CHG	CHG	mongol	sunni	
+453	qarshi	CHG	CHG	CHG	mongol	sunni	
+454	samarkand	CHG	CHG	CHG	mongol	sunni	
+455	kyrzyl	CHG	CHG	CHG	mongol	sunni	
+456	turkestan	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+457	tashkent	CHG	CHG	CHG	mongol	sunni	
+458	kokand	CHG	CHG	CHG	mongol	sunni	
+459	taraz	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+46	mecklenburg	MKL	MKL	MKL	german	catholic	Z33,Z41
+460	uzkend	CHG	CHG	CHG	mongol	sunni	
+461	almaty	CHG	CHG	CHG,Y03	mongol	tengri_pagan_reformed	
+462	georgia	GEO	GEO	GEO	georgian	orthodox	BYZ
+463	circassia	GOL	GOL	GOL,Z75	alan	orthodox	
+464	astrakhan	GOL	GOL	GOL	mongol	sunni	
+465	nogay	GOL	GOL	GOL,Z85	mongol	tengri_pagan_reformed	
+466	sarai	GOL	GOL	GOL	mongol	sunni	
+467	borisoglebsk	GOL	GOL	GOL	mongol	sunni	
+468	khazaria	GOL	GOL	GOL,Z75	alan	sunni	
+469	ryn	GOL	GOL	GOL	mongol	sunni	
+47	vorpommern	POM	POM	POM	pommeranian	catholic	Z48,MKL
+470	bayuly	GOL	GOL	GOL,Z76	mongol	sunni	
+471	alimuly	GOL	GOL	GOL	mongol	sunni	
+472	zhetyru	GOL	GOL	GOL,Z76	mongol	sunni	
+473	samara	GOL	GOL	GOL,Z83	mongol	sunni	
+474	yaik	GOL	GOL	GOL,Z84	mongol	sunni	
+475	bashkortostan	Y02	Y02	Y02	cuman	tengri_pagan_reformed	
+476	kypshak	GOL	GOL	GOL	mongol	sunni	
+477	nadym	GOL	GOL	GOL	mongol	sunni	
+478	argyn	GOL	GOL	GOL	mongol	sunni	
+479	kerey	GOL	GOL	GOL	mongol	sunni	
+48	kolberg	POM	POM	POM	pommeranian	catholic	Z43
+480	pegayaorda	GOL	GOL	GOL	mongol	sunni	
+49	neumark	POL	POL	POL	polish	catholic	
+5	varmland	Z00	Z00	Z00	swedish	catholic	
+50	brandenburg	BRA	BRA	BRA	german	catholic	
+503	kutch	Y65	Y65	Y65	gujarati	jain	
+504	lowersind	Y88	Y88	Y88	sindhi	hinduism	Y65
+505	uppersind	Y65	Y65	Y65	sindhi	sunni	
+506	multan	Y65	Y65	Y65	panjabi	sunni	
+507	punjab	Y65	Y65	Y65	panjabi	sunni	
+508	kashmir	KSH	KSH	KSH	panjabi	buddhism	Y65
+51	ruppin	BRA	BRA	BRA	german	catholic	
+510	sirhind	Y65	Y65	Y65	panjabi	buddhism	
+512	jangladesh	Y65	Y65	Y65,Y71	rajput	jain	
+513	jaisalmer	Y65	Y65	Y65,Y71	rajput	jain	
+514	marwar	Y65	Y65	Y65	rajput	jain	
+515	kathiawar	Y65	Y65	Y65	gujarati	jain	
+516	gujarat	Y65	Y65	Y65	gujarati	jain	
+517	surat	Y65	Y65	Y65	gujarati	jain	Y63
+518	mewar	Y89	Y89	Y89	rajput	jain	Y65
+519	dhundar	Y65	Y65	Y65	rajput	jain	
+52	magdeburg	BRA	BRA	BRA	german	catholic	ANH,SAX
+520	mewat	Y65	Y65	Y65	avadhi	jain	
+521	rajkot	Y65	Y65	Y65,Y69	gujarati	jain	
+522	delhi	Y65	Y65	Y65	avadhi	buddhism	
+523	oudh	Y65	Y65	Y65	avadhi	buddhism	
+524	centraldoab	Y65	Y65	Y65	avadhi	jain	
+525	gird	Y65	Y65	Y65	avadhi	jain	
+526	mandu	Y65	Y65	Y65,Y68	rajput	jain	
+527	khandesh	Y65	Y65	Y65	marathi	hinduism	
+528	hadoti	Y65	Y65	Y65	rajput	jain	Y89
+529	northkonkan	Y65	Y65	Y65,Y67	gujarati	zoroastrian	Y63
+53	luneburg	BRU	BRU	BRU	german	catholic	LUN
+530	malvana	Y65	Y65	Y65,Y67	gujarati	zoroastrian	Y63
+531	kanara	Y65	Y65	Y65	marathi	jain	Y63,Y62,Y61
+532	raichurdoab	Y63	Y63	Y63	kannada	hinduism	Y62
+533	mysore	Y62	Y62	Y62	kannada	jain	Y63
+534	malabar	Y61	Y61	Y61	tamil	hinduism	Y63
+535	kochin	Y61	Y61	Y61	tamil	hinduism	Y63
+536	madurai	Y61	Y61	Y61	tamil	hinduism	Y63
+537	venad	Y61	Y61	Y61	tamil	hinduism	Y63
+538	kongu	Y61	Y61	Y61	tamil	hinduism	Y63
+539	tondainadu	Y61	Y61	Y61	tamil	hinduism	Y63,Y64
+54	bremen	BRU	BRU	BRU	german	catholic	BRE,SHL
+540	coromandel	Y61	Y61	Y61	tamil	hinduism	Y63
+541	vijayanagar	Y63	Y63	Y63	kannada	hinduism	Y62
+542	telingana	Y65	Y65	Y65	telegu	hinduism	Y63,Y64
+543	kosta	Y64	Y64	Y64	telegu	hinduism	Y63
+544	ahmadnagar	Y65	Y65	Y65,Y67	marathi	hinduism	Y63
+545	marathwada	Y65	Y65	Y65,Y67	marathi	jain	Y63
+546	eastberar	Y65	Y65	Y65,Y67	marathi	hinduism	Y63,Y87
+547	bastar	Y82	Y82	Y82	oriya	hinduism	Y75,Y73
+548	westberar	Y65	Y65	Y65	marathi	hinduism	Y63
+549	kalingandhra	Y73	Y73	Y73	oriya	hinduism	
+55	oldenburg	OLD	OLD	OLD	german	catholic	BRU
+550	mahakoshal	Y65	Y65	Y65	avadhi	hinduism	Y63,Y75,Y73
+551	mandla	Y75	Y75	Y75	avadhi	hinduism	Y76,Y65
+552	rajabara	Y73	Y73	Y73	oriya	buddhism	
+553	garjat	Y73	Y73	Y73	oriya	hinduism	Y75,Y82
+555	jaunpur	Y65	Y65	Y65	avadhi	buddhism	
+556	lowerdoab	Y65	Y65	Y65	avadhi	buddhism	
+558	bihar	Y65	Y65	Y65,Y66	bengali	buddhism	
+559	bundelkhand	Y65	Y65	Y65,Y70	avadhi	hinduism	
+56	osnabruck	BRU	BRU	BRU	german	catholic	Z27
+560	jharkand	Y76	Y76	Y76	bengali	buddhism	Y86
+561	bengaldelta	Y65	Y65	Y65,Y66	bengali	buddhism	
+562	koch	Y83	Y83	Y83	assamese	buddhism	Y90
+563	gauda	Y65	Y65	Y65,Y66	bengali	buddhism	
+564	dacca	Y65	Y65	Y65	bengali	buddhism	Y74
+566	assam	Y90	Y90	Y90	assamese	buddhism	Y78
+567	silhet	Y85	Y85	Y85	bengali	buddhism	Y90,Y84,Y74
+568	chittagong	Y74	Y74	Y74	bengali	buddhism	
+569	bijapur	Y65	Y65	Y65,Y67	kannada	jain	Y63
+57	hannover	BRU	BRU	BRU	german	catholic	Z28
+570	naga	Y85	Y85	Y85	assamese	buddhism	Y90
+571	darrang	Y90	Y90	Y90	assamese	buddhism	Y85
+572	kotte	Y80	Y80	Y80	sinhala	buddhism	Y81,Y63
+573	cachar	Y85	Y85	Y85	assamese	buddhism	Y90
+575	gwadar	Y04	Y04	Y04,Y07	baluchi	sunni	
+576	kalat	Y65	Y65	Y65	sindhi	sunni	
+577	kalat	Z62	Z62	Z62	baluchi	sunni	
+578	roh	Y65	Y65	Y65	panjabi	buddhism	
+58	anhalt	BRA	BRA	BRA	german	catholic	ANH,SAX
+59	meissen	THU	THU	THU	german	catholic	
+6	skane	Z59	Z59	Z59	danish	catholic	Z58
+60	lausitz	BOH	BOH	BOH	german	catholic	SIL,POL
+61	dresden	THU	THU	THU	german	catholic	BRA
+62	leipzig	SAX	SAX	SAX	german	catholic	
+63	erfurt	THU	THU	THU	german	catholic	Z38,SAX
+64	niederbayern	Z17	Z17	Z17	german	catholic	BAV
+65	munchen	BAV	BAV	BAV	german	catholic	
+66	bamberg	Z16	Z16	Z16	german	catholic	Z20
+67	franken	NUM	NUM	NUM	german	catholic	BAV
+68	memmingen	BAV	BAV	BAV	german	catholic	
+69	konstanz	Z34	Z34	Z34	german	catholic	
+7	vastergotland	Z00	Z00	Z00	swedish	catholic	
+70	wurttemberg	WUR	WUR	WUR	german	catholic	
+707	yumen	Y95	Y95	Y95,Y96	uyghur	buddhism	
+71	ansbach	BAV	BAV	BAV	german	catholic	Z20
+710	hotan	Y95	Y95	Y95	uyghur	sunni	
+711	qarqan	Y95	Y95	Y95	uyghur	sunni	CHG
+712	aksu	Y95	Y95	Y95	uyghur	sunni	
+713	bechbaliq	CHG	CHG	CHG	uyghur	buddhism	
+714	hoboksar	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+715	urumqi	CHG	CHG	CHG	uyghur	buddhism	
+716	tannuuriankhai	Y95	Y95	Y95,Y97	mongol	tengri_pagan_reformed	
+718	kobdo	CHG	CHG	CHG	mongol	tengri_pagan_reformed	
+719	uliastai	Y95	Y95	Y95	mongol	buddhism	
+72	breisgau	Z35	Z35	Z35	german	catholic	
+73	tirol	TIR	TIR	TIR	german	catholic	Z24
+739	kashgar	Y95	Y95	Y95	uyghur	nestorian	
+74	baden	BAD	BAD	BAD	german	catholic	
+740	malwa	Y65	Y65	Y65,Y68	rajput	jain	
+75	elsass	BAV	BAV	BAV	german	catholic	
+76	salzburg	SLZ	SLZ	SLZ	german	catholic	BAV
+767	wystuc	LIT	LIT	LIT,Z86	lithuanian	catholic	
+77	pfalz	Z16	Z16	Z16	german	catholic	Z19
+770	braslaw	LIT	LIT	LIT,PLT	russian_culture	orthodox	
+771	vitebsk	LIT	LIT	LIT,Z87	russian_culture	orthodox	UKR
+78	mainz	Z20	Z20	Z20	german	catholic	
+79	wurzburg	Z20	Z20	Z20	german	catholic	WBG
+8	dalaskogen	Z00	Z00	Z00	swedish	catholic	
+80	trier	Z19	Z19	Z19	german	catholic	
+81	hessen	BRU	BRU	BRU	german	catholic	Z29,THU
+82	lippe	BRU	BRU	BRU	german	catholic	Z29,THU
+83	nassau	NSA	NSA	NSA	german	catholic	THU
+84	berg	Z12	Z12	Z12	german	catholic	
+85	koln	Z12	Z12	Z12	german	catholic	
+86	munster	BRU	BRU	BRU	german	catholic	MUN,Z12
+87	calais	FRA	FRA	FRA	cosmopolitan_french	catholic	
+88	artois	BUR	BUR	BUR	cosmopolitan_french	catholic	FRA
+89	picardie	FRA	FRA	FRA	cosmopolitan_french	catholic	
+9	halsingland	Z00	Z00	Z00	swedish	catholic	
+90	vlaanderen	FRA	FRA	FRA,FLA	dutch	catholic	
+91	hainaut	HOL	HOL	HOL	cosmopolitan_french	catholic	BRB
+92	brabant	BRB	BRB	BRB	dutch	catholic	
+93	liege	BRB	BRB	BRB	cosmopolitan_french	catholic	LIE,BOH
+94	luxemburg	BOH	BOH	BOH	german	catholic	
+95	breda	BRB	BRB	BRB	dutch	catholic	
+96	zeeland	HOL	HOL	HOL	dutch	catholic	
+97	holland	HOL	HOL	HOL	dutch	catholic	
+98	utrecht	HOL	HOL	HOL	dutch	catholic	Z22
+99	gelre	GEL	GEL	GEL	dutch	catholic	

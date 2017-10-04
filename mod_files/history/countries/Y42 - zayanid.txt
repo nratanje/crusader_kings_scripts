@@ -1,0 +1,35 @@
+# Zayanid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+capital = 337
+1425.1.1 = {
+	monarch = {
+		name = "Tashfin"
+		birth_date = 1412.1.1
+		dynasty = "Zayanid"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+1439.1.1 = {
+	heir = {
+		name = "Othman"
+		monarch_name = "Othman II"
+		dynasty = "Zayanid"
+		birth_date = 1439.1.1
+		death_date = 1519.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 337
+	add_treasury = 8
+	add_prestige = 23
+}

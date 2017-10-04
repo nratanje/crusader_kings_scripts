@@ -1,0 +1,27 @@
+# Pfalz
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 77
+1430.8.1 = {
+	monarch = {
+		name = "Rudolf"
+		birth_date = 1413.8.8
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 77
+	add_treasury = 5
+	add_prestige = 40
+	elector = no
+}

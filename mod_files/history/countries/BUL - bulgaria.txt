@@ -1,0 +1,35 @@
+# Bulgaria
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2750
+1438.3.1 = {
+	monarch = {
+		name = "Ivan VI Aleksandr"
+		birth_date = 1408.1.2
+		dynasty = "Shishman"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Mihail"
+		monarch_name = "Mihail III"
+		dynasty = "Shishman"
+		birth_date = 1430.1.2
+		death_date = 1510.1.2
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2750
+	add_treasury = 11
+	add_prestige = 20
+}

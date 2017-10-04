@@ -1,0 +1,23 @@
+# Debul
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+capital = 504
+1442.1.1 = {
+	monarch = {
+		name = "Jam Unar"
+		birth_date = 1417.1.1
+		dynasty = "Samma"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 504
+	add_treasury = 4
+	add_prestige = 19
+}

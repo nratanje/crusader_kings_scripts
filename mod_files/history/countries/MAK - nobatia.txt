@@ -1,0 +1,37 @@
+# Nobatia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1234
+1441.1.1 = {
+	monarch = {
+		name = "Siti"
+		birth_date = 1416.1.1
+		dynasty = "Daw"
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1442.1.1 = {
+	heir = {
+		name = "Nasr"
+		monarch_name = "Nasr"
+		dynasty = "Daw"
+		birth_date = 1442.1.1
+		death_date = 1522.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1234
+	add_treasury = 7
+	add_prestige = 21
+}
