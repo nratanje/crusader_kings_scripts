@@ -5,13 +5,13 @@
 
 ## Background
 
-I have been quite looking forward to the Nation Designer feature of the upcoming EU4 El Dorado expansion. Last week I thought it would be fun to start a short 1337-1444 vanilla CK2 game, transfer it into EU4 after El Dorado’s release and then modify some of the nations. 
+I have been quite looking forward to the Nation Designer feature of the upcoming EU4 El Dorado expansion. Last week (March 2017) I thought it would be fun to start a short 1337-1444 vanilla CK2 game, transfer it into EU4 after El Dorado’s release and then modify some of the nations. 
 
 Knowing how buggy the CK2 exporter has been, I figured it would be best to test it before starting my CK2 game. I started a year 1337 Vanilla game, ran it for a few in-game days, before exporting it.
 
 Whilst the non-splitting of cultures has been an ever-present issue, I was horrified by the techgroup assignments.
 
-Upon inspection of the exported files I felt I could use my extremely limited Python for-loop creating abilities to write a simple script that could use EU4 assets to update and correct some of the issues I have with my CK2 exports.
+Upon inspection of the exported files I felt I could use my Python for-loop creating abilities to write a simple script that could use EU4 assets to update and correct some of the issues I have with my CK2 exports.
 
 ## Methodology
 
